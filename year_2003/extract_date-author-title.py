@@ -74,3 +74,13 @@ for line in fhand:
 
 
 fout.close()
+
+
+#finding least common denominator for count to input for commit intervals
+denom=[i for i in range(250,4, -1)]
+for d in denom:
+    if count%d==0:
+        print('Divisable by: ', d)
+        break
+    else:
+        continue
