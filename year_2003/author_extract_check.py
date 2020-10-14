@@ -64,18 +64,6 @@ for line in fhand:
         author = author
 
 
-
-
-
-
-
-
-
-
-
-
-
-
     fout.write(str(count))
     fout.write(' ~ ')
     fout.write(author)

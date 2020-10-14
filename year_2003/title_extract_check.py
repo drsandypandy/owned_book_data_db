@@ -8,8 +8,6 @@ import re
 
 
 
-
-
 inp=input('Enter file name: ')
 if len(inp) < 1: inp = 'Index 2003.txt'
 
@@ -31,6 +29,8 @@ for line in fhand:
     if '\\' not in line: continue
     line=line.split('\\')
     date =line[0]
+
+
     line=line[1]
     line=line.split('.rar')
     line=line[0]
@@ -39,6 +39,7 @@ for line in fhand:
     title=bline[-1]
     if len(title)<4:
         title=bline[-2]
+
     fout.write(str(count))
     fout.write(' ~ ')
     fout.write(title)
