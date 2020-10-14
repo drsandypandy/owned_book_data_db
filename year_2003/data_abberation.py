@@ -13,18 +13,21 @@ import re
 inp=input('Enter file name: ')
 if len(inp) < 1: inp = 'Index 2003.txt'
 
+toglist=inp.split('.')
+toglist=toglist[0].split()
 
-inp_list=inp.split('.')
-inp_list=inp_list[0].split()
-tog=inp_list[1] + '_Output.txt'
+tog=toglist[1] + '_Title_Output.txt'
 
 
 fhand = open(inp, errors='ignore')
-#fout=open(tog, 'w+')
+fout=open(tog, 'w+')
+
+
 total=0
 count=0
 for line in fhand:
     count =count + 1
+    line=line.strip()
     if '\\' not in line: continue
     line=line.split('\\')
     date =line[0]
@@ -34,7 +37,13 @@ for line in fhand:
 
     bline=line.split(' - ')
     title=bline[-1]
-    if len(bline)>=4:
-        total=total+1
-        print(count)
-print(total)
+    if len(title)<4:
+        title=bline[-2]
+    fout.write(str(count))
+    fout.write(' ~ ')
+    fout.write(title)
+    fout.write('\n')
+
+
+
+fout.close()

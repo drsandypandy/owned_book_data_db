@@ -1534,8 +1534,8 @@
 04-06-2003\William Morris - The House Of The Wolfings (Pg) [Txt].rar
 04-06-2003\William N. Harben - The Land Of The Changing Sun (Pg) [Txt].rar
 04-06-2003\William S. Burroughs - Naked Lunch [Txt].rar
-04-06-2003\William Safire - [Freedom01] - (Uc) [Txt].rar
-04-06-2003\William Safire - [Freedom02] - Uc [Txt].rar
+04-06-2003\William Safire - [Freedom01].rar
+04-06-2003\William Safire - [Freedom02].rar
 04-06-2003\William Schwenck Gilbert - The Bab Ballads (Pg) [Txt].rar
 04-06-2003\William Shakespeare - The Complete First Folio (Pg) [Txt].rar
 04-06-2003\Winston Churchill - Richard Carvel (Pg) (V1.0) [Txt].rar
@@ -1640,8 +1640,8 @@
 04-11-2003\Fyodor Dostoyevsky - Notes From The Underground (Pg) (V1.1) [Txt].rar
 04-11-2003\Fyodor Dostoyevsky - The Gambler (Pg) (V1.1) [Txt].rar
 04-11-2003\G. Parker - [The Trespasser Vol 02] - Pg [Txt].rar
-04-11-2003\G. Parker - [Translation Of A Savage Vol 02] - Pg [Txt].rar
-04-11-2003\G. Parker - [Translation Of A Savage Vol 03] - Pg [Txt].rar
+04-11-2003\G. Parker - [Translation Of A Savage Vol 02].rar
+04-11-2003\G. Parker - [Translation Of A Savage Vol 03].rar
 04-11-2003\Garrett Serviss - Curiosities Of The Sky (Pg) [Htm].rar
 04-11-2003\Gaston Leroux - The Phantom Of The Opera (Pg) (V1.2) [Txt].rar
 04-11-2003\Geoffrey Chaucer - Canterbury Tales And Other Poems (Pg) (V1.2) [Txt].rar
@@ -1925,7 +1925,7 @@
 04-17-2003\Chris Millegan - The Order Of Skull And Bones (Doc).rar
 04-17-2003\Chris Millegan - The Order Of Skull And Bones (Htm).rar
 04-17-2003\Ctrl Report On Skull And Bones.rar
-04-17-2003\Daw 30th Anniv - Scifi - 03 - Goulart, Ron - Odd Job 213 (Rtf).rar
+04-17-2003\Goulart, Ron - Odd Job 213 (Rtf).rar
 04-17-2003\Edward Jay Epstein - Ruling The World Of Money.rar
 04-17-2003\Kurt Vonnegut - Jailbird (V4.9) [Htm].rar
 04-17-2003\Paulo Coelho - Stories For Parents, Children And Grandchildren (Pdf) V5.rar
@@ -1948,9 +1948,9 @@
 04-18-2003\Caitlin R. Kiernan - Persephone [Rtf].rar
 04-18-2003\Caitlin R. Kiernan - Two Worlds, And In Between [Html].rar
 04-18-2003\Caitlin R. Kiernan - Two Worlds, And In Between [Rtf].rar
-04-18-2003\Daw 30th Anniv - Scifi - 07 - Zahn, Timothy - The Big Picture (Rtf).rar
-04-18-2003\Daw 30th Anniv - Scifi - 08 - Pohl, Frederik - Heechee - A Home For The Old Ones (Rtf).rar
-04-18-2003\Daw 30th Anniv - Scifi - 09 - Williams, Tad - Not With A Whimper, Either (Rtf).rar
+04-18-2003\Zahn, Timothy - The Big Picture (Rtf).rar
+04-18-2003\Pohl, Frederik - Heechee - A Home For The Old Ones (Rtf).rar
+04-18-2003\Williams, Tad - Not With A Whimper, Either (Rtf).rar
 04-18-2003\Ian Watson - The Embedding (V1.0) [Rtf].rar
 04-18-2003\Krentz, Jayne Ann - Whirlwind Courtship.rar
 04-18-2003\P. G. Wodehouse - Not George Washington [Txt].rar
@@ -1980,7 +1980,7 @@
 04-21-2003\Mccaffrey, Anne - Pern16-Theskiesofpern.rar
 04-21-2003\Norton, Andre - The Mark Of The Cat (V1.0) (Html).rar
 04-21-2003\Saberhagen, Fred - The Mask Of The Sun (V1,html).rar
-04-21-2003\Wangerin, Walter Jr. - The Book Of The Dun Cow - V3 (Oeb).rar
+04-21-2003\Wangerin, Walter Jr. - The Book Of The Dun Cow.rar
 04-21-2003\White, James - Sector General 10 - Final Diagnosis.rar
 04-21-2003
 04-22-2003\Arthur C. Clarke - [Rama 1] - Rendezvous With Rama (V2.0) [Rtf].rar
@@ -2009,7 +2009,7 @@
 04-23-2003
 04-24-2003\Brian Daley - Coramonde 02 The Starfollowers Of Coramonde V4 (Html).rar
 04-24-2003\Collins, Max Allan - Csi 2 - Sin City (Html).rar
-04-24-2003\Scifi 19 - Czerneda, Julie E - Web Shifters - Prism (Rtf).rar
+04-24-2003\Czerneda, Julie E - Web Shifters - Prism (Rtf).rar
 04-24-2003\Forester C S - Hornblower Companion.V1(Pdf).rar
 04-24-2003\Foster, Alan Dean - To The Vanishing Point (V1.0) (Html).rar
 04-24-2003\Hoff, Benjamin - The Tao Of Pooh (Html-Jpeg) V3.0.rar
@@ -2021,7 +2021,7 @@
 04-24-2003
 04-25-2003\Charteris, Leslie - Saint Errant (Rtf)[V1].rar
 04-25-2003\Cramer, John - Einstein's Bridge [V1][Rtf].rar
-04-25-2003\Daw 30th Anniv - Scifi - Wollheim, Elizabet R & Gilbert, Sheila E (Eds) (Rtf).rar
+04-25-2003\Wollheim, Elizabet R & Gilbert, Sheila E (Eds) (Rtf).rar
 04-25-2003\Elrod, P N - The Vampire Files 01 - Bloodlist (V1.0) (Html).rar
 04-25-2003\Elrod, P N - The Vampire Files 02 - Lifeblood (V1.0) (Html).rar
 04-25-2003\Pratchett, Terry - [Johnny Maxwell 02] - Johnny And The Dead (V1.0) [Html].rar
@@ -2074,82 +2074,82 @@
 04-29-2003\Demille, Nelson - Word Of Honour (V1)(Rtf).rar
 04-29-2003\Demille, Nelson - Word Of Honour (V1)(Txt).rar
 04-29-2003\Dickson, Gordon R. (Ed) - Futurelove (V1.0) (Html).rar
-04-29-2003\F&sf - Vol 087 Issue 01 - July 1994 (Html).rar
-04-29-2003\F&sf - Vol 087 Issue 02 - August 1994 (Html).rar
-04-29-2003\F&sf - Vol 087 Issue 03 - September 1994 (Html).rar
-04-29-2003\F&sf - Vol 087 Issue 04-05 - October-November 1994 (Html).rar
-04-29-2003\F&sf - Vol 087 Issue 06 - December 1994 (Html).rar
-04-29-2003\F&sf - Vol 088 Issue 01 - January 1995 (Html).rar
-04-29-2003\F&sf - Vol 088 Issue 02 - February 1995 (Html).rar
-04-29-2003\F&sf - Vol 088 Issue 03 - March 1995 (Html).rar
-04-29-2003\F&sf - Vol 088 Issue 04 - April 1995 (Html).rar
-04-29-2003\F&sf - Vol 088 Issue 05 - May 1995 (Html).rar
-04-29-2003\F&sf - Vol 088 Issue 06 - June 1995 (Html).rar
-04-29-2003\F&sf - Vol 089 Issue 01 - July 1995 (Html).rar
-04-29-2003\F&sf - Vol 089 Issue 02 - August 1995 (Html).rar
-04-29-2003\F&sf - Vol 089 Issue 03 - September 1995 (Html).rar
-04-29-2003\F&sf - Vol 089 Issue 04-05 - October-November 1995 (Html).rar
-04-29-2003\F&sf - Vol 089 Issue 06 - December 1995 (Html).rar
-04-29-2003\F&sf - Vol 090 Issue 01 - January 1996 (Html).rar
-04-29-2003\F&sf - Vol 090 Issue 02 - February 1996 (Html).rar
-04-29-2003\F&sf - Vol 090 Issue 03 - March 1996 (Html).rar
-04-29-2003\F&sf - Vol 090 Issue 04 - April 1996 (Html).rar
-04-29-2003\F&sf - Vol 090 Issue 05 - May 1996 (Html).rar
-04-29-2003\F&sf - Vol 090 Issue 06 - June 1996 (Html).rar
-04-29-2003\F&sf - Vol 091 Issue 01 - July 1996 (Html).rar
-04-29-2003\F&sf - Vol 091 Issue 02 - August 1996 (Html).rar
-04-29-2003\F&sf - Vol 091 Issue 03 - September 1996 (Html).rar
-04-29-2003\F&sf - Vol 091 Issue 04-05 - October-November 1996 (Html).rar
+04-29-2003\F&sf - Vol 087 Issue 01.rar
+04-29-2003\F&sf - Vol 087 Issue 02.rar
+04-29-2003\F&sf - Vol 087 Issue 03.rar
+04-29-2003\F&sf - Vol 087 Issue 04,05.rar
+04-29-2003\F&sf - Vol 087 Issue 06.rar
+04-29-2003\F&sf - Vol 088 Issue 01.rar
+04-29-2003\F&sf - Vol 088 Issue 02.rar
+04-29-2003\F&sf - Vol 088 Issue 03 .rar
+04-29-2003\F&sf - Vol 088 Issue 04.rar
+04-29-2003\F&sf - Vol 088 Issue 05.rar
+04-29-2003\F&sf - Vol 088 Issue 06.rar
+04-29-2003\F&sf - Vol 089 Issue 01.rar
+04-29-2003\F&sf - Vol 089 Issue 02.rar
+04-29-2003\F&sf - Vol 089 Issue 03.rar
+04-29-2003\F&sf - Vol 089 Issue 04,05.rar
+04-29-2003\F&sf - Vol 089 Issue 06.rar
+04-29-2003\F&sf - Vol 090 Issue 01.rar
+04-29-2003\F&sf - Vol 090 Issue 02.rar
+04-29-2003\F&sf - Vol 090 Issue 03.rar
+04-29-2003\F&sf - Vol 090 Issue 04.rar
+04-29-2003\F&sf - Vol 090 Issue 05.rar
+04-29-2003\F&sf - Vol 090 Issue 06.rar
+04-29-2003\F&sf - Vol 091 Issue 01.rar
+04-29-2003\F&sf - Vol 091 Issue 02.rar
+04-29-2003\F&sf - Vol 091 Issue 03.rar
+04-29-2003\F&sf - Vol 091 Issue 04,05.rar
 04-29-2003\Francis, Dick - Proof Edg(V1,html).rar
 04-29-2003\Robert Adams - [Horseclans 17] - Madman's Army (V1.0) [Rtf].rar
 04-29-2003\S. M. Stirling - [Draka 04] - Drakon (V2) [Rtf].rar
 04-29-2003\Star Trek - Tos - Trek To Madworld (V1.0) (Html).rar
 04-29-2003
 04-30-2003\Charteris,leslie The Saint Goes On [Rtf]-[V1].rar
-04-30-2003\F&sf - Vol 096 Issue 01 - January 1999 (Html).rar
-04-30-2003\F&sf - Vol 096 Issue 02 - February 1999 (Html).rar
-04-30-2003\F&sf - Vol 096 Issue 03 - March 1999 (Html).rar
-04-30-2003\F&sf - Vol 096 Issue 04 - April 1999 (Html).rar
-04-30-2003\F&sf - Vol 096 Issue 05 - May 1999 (Html).rar
-04-30-2003\F&sf - Vol 096 Issue 06 - June 1999 (Html).rar
-04-30-2003\F&sf - Vol 097 Issue 01 - July 1999 (Html).rar
-04-30-2003\F&sf - Vol 097 Issue 02 - August 1999 (Html).rar
-04-30-2003\F&sf - Vol 097 Issue 03 - September 1999 (Html).rar
-04-30-2003\F&sf - Vol 097 Issue 04-05 - October-November 1999 (Html).rar
-04-30-2003\F&sf - Vol 097 Issue 06 - December 1999 (Html).rar
-04-30-2003\F&sf - Vol 098 Issue 01 - January 2000 (Html).rar
-04-30-2003\F&sf - Vol 098 Issue 02 - February 2000 (Html).rar
-04-30-2003\F&sf - Vol 098 Issue 03 - March 2000 (Html).rar
-04-30-2003\F&sf - Vol 098 Issue 04 - April 2000 (Html).rar
-04-30-2003\F&sf - Vol 098 Issue 05 - May 2000 (Html).rar
-04-30-2003\F&sf - Vol 098 Issue 06 - June 2000 (Html).rar
-04-30-2003\F&sf - Vol 099 Issue 01 - July 2000 (Html).rar
-04-30-2003\F&sf - Vol 099 Issue 02 - August 2000 (Html).rar
-04-30-2003\F&sf - Vol 099 Issue 03 - September 2000 (Html).rar
-04-30-2003\F&sf - Vol 099 Issue 04-05 - October-November 2000 (Html).rar
-04-30-2003\F&sf - Vol 099 Issue 06 - December 2000 (Html).rar
-04-30-2003\F&sf - Vol 100 Issue 01 - January 2001 (Html).rar
-04-30-2003\F&sf - Vol 100 Issue 02 - February 2001 (Html).rar
-04-30-2003\F&sf - Vol 100 Issue 03 - March 2001 (Html).rar
-04-30-2003\F&sf - Vol 100 Issue 04 - April 2001 (Html).rar
-04-30-2003\F&sf - Vol 100 Issue 05 - May 2001 (Html).rar
-04-30-2003\F&sf - Vol 100 Issue 06 - June 2001 (Html).rar
-04-30-2003\F&sf - Vol 101 Issue 01 - July 2001 (Html).rar
-04-30-2003\F&sf - Vol 101 Issue 02 - August 2001 (Html).rar
-04-30-2003\F&sf - Vol 101 Issue 03 - September 2001 (Html).rar
-04-30-2003\F&sf - Vol 101 Issue 04-05 - October-November 2001 (Html).rar
-04-30-2003\F&sf - Vol 101 Issue 06 - December 2001 (Html).rar
-04-30-2003\F&sf - Vol 102 Issue 01 - January 2002 (Html).rar
-04-30-2003\F&sf - Vol 102 Issue 02 - February 2002 (Html).rar
-04-30-2003\F&sf - Vol 102 Issue 03 - March 2002 (Html).rar
-04-30-2003\F&sf - Vol 102 Issue 04 - April 2002 (Html).rar
-04-30-2003\F&sf - Vol 102 Issue 05 - May 2002 (Html).rar
-04-30-2003\F&sf - Vol 102 Issue 06 - June 2002 (Html).rar
-04-30-2003\F&sf - Vol 103 Issue 01 - July 2002 (Html).rar
-04-30-2003\F&sf - Vol 103 Issue 02 - August 2002 (Html).rar
-04-30-2003\F&sf - Vol 103 Issue 03 - September 2002 (Html).rar
-04-30-2003\F&sf - Vol 103 Issue 04-05 - October-November 2002 (Html).rar
-04-30-2003\F&sf - Vol 103 Issue 06 - December 2002 (Html).rar
+04-30-2003\F&sf - Vol 096 Issue 01.rar
+04-30-2003\F&sf - Vol 096 Issue 02.rar
+04-30-2003\F&sf - Vol 096 Issue 03.rar
+04-30-2003\F&sf - Vol 096 Issue 04.rar
+04-30-2003\F&sf - Vol 096 Issue 05.rar
+04-30-2003\F&sf - Vol 096 Issue 06.rar
+04-30-2003\F&sf - Vol 097 Issue 01.rar
+04-30-2003\F&sf - Vol 097 Issue 02.rar
+04-30-2003\F&sf - Vol 097 Issue 03.rar
+04-30-2003\F&sf - Vol 097 Issue 04,05.rar
+04-30-2003\F&sf - Vol 097 Issue 06.rar
+04-30-2003\F&sf - Vol 098 Issue 01.rar
+04-30-2003\F&sf - Vol 098 Issue 02.rar
+04-30-2003\F&sf - Vol 098 Issue 03.rar
+04-30-2003\F&sf - Vol 098 Issue 04.rar
+04-30-2003\F&sf - Vol 098 Issue 05.rar
+04-30-2003\F&sf - Vol 098 Issue 06.rar
+04-30-2003\F&sf - Vol 099 Issue 01.rar
+04-30-2003\F&sf - Vol 099 Issue 02.rar
+04-30-2003\F&sf - Vol 099 Issue 03.rar
+04-30-2003\F&sf - Vol 099 Issue 04,05 - October-November 2000 (Html).rar
+04-30-2003\F&sf - Vol 099 Issue 06.rar
+04-30-2003\F&sf - Vol 100 Issue 01.rar
+04-30-2003\F&sf - Vol 100 Issue 02.rar
+04-30-2003\F&sf - Vol 100 Issue 03.rar
+04-30-2003\F&sf - Vol 100 Issue 04.rar
+04-30-2003\F&sf - Vol 100 Issue 05.rar
+04-30-2003\F&sf - Vol 100 Issue 06.rar
+04-30-2003\F&sf - Vol 101 Issue 01.rar
+04-30-2003\F&sf - Vol 101 Issue 02.rar
+04-30-2003\F&sf - Vol 101 Issue 03.rar
+04-30-2003\F&sf - Vol 101 Issue 04,05.rar
+04-30-2003\F&sf - Vol 101 Issue 06.rar
+04-30-2003\F&sf - Vol 102 Issue 01.rar
+04-30-2003\F&sf - Vol 102 Issue 02.rar
+04-30-2003\F&sf - Vol 102 Issue 03.rar
+04-30-2003\F&sf - Vol 102 Issue 04.rar
+04-30-2003\F&sf - Vol 102 Issue 05.rar
+04-30-2003\F&sf - Vol 102 Issue 06.rar
+04-30-2003\F&sf - Vol 103 Issue 01.rar
+04-30-2003\F&sf - Vol 103 Issue 02.rar
+04-30-2003\F&sf - Vol 103 Issue 03.rar
+04-30-2003\F&sf - Vol 103 Issue 04,05.rar
+04-30-2003\F&sf - Vol 103 Issue 06.rar
 04-30-2003\Heinlein, Robert A - Double Star (1.0) (Html).rar
 04-30-2003\Norton, Andre - Witch World - The Turning 01 - Storms Of Victory (V1.0) (Html).rar
 04-30-2003\Stephen King - The Eyes Of The Dragon (V2.0)(Doc).rar
@@ -2204,7 +2204,7 @@
 05-06-2003\Kate Elliot - Crown Of Stars 5 - The Gathering Storm (V. 1.0) (Rtf).rar
 05-06-2003\Lynn Flewelling - The Bone Doll's Twin (Maps & Covers).rar
 05-06-2003\Lynn Flewelling - The Bone Doll's Twin (V.9) (Rtf).rar
-05-06-2003\Norton, Andre - Witch World - The Turning 07 - The Warding Of Witch World (V1.0) (Html).rar
+05-06-2003\Norton, Andre - The Warding Of Witch World (V1.0) (Html).rar
 05-06-2003
 05-07-2003\Cherryh, C J - [Fortress 02] Fortress Of Eagles Edg(V1,html,maps).rar
 05-07-2003\Cherryh, C J - [Fortress] - Lexicon Concordance,map Edg(V1,html).rar
@@ -2212,38 +2212,38 @@
 05-07-2003
 05-08-2003\Brown, Dan - The Da Vinci Code [Doc].rar
 05-08-2003\Brunner, John - Stand On Zanzibar [Doc].rar
-05-08-2003\F&sf - Vol 086 Issue 01 - January 1994(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 086 Issue 02 - February 1994(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 086 Issue 03 - March 1994(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 086 Issue 04 - April 1994(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 086 Issue 05 - May 1994(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 086 Issue 06 - June 1994(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 087 Issue 01 - July 1994(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 087 Issue 02 - August 1994(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 087 Issue 03 - September 1994(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 087 Issue 04-05 - October-November 1994(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 087 Issue 06 - December 1994(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 088 Issue 01 - January 1995(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 088 Issue 02 - February 1995(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 088 Issue 03 - March 1995(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 088 Issue 04 - April 1995(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 088 Issue 05 - May 1995(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 088 Issue 06 - June 1995(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 089 Issue 01 - July 1995(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 089 Issue 02 - August 1995(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 089 Issue 03 - September 1995(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 089 Issue 04-05 - October-November 1995(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 089 Issue 06 - December 1995(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 090 Issue 01 - January 1996(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 090 Issue 02 - February 1996(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 090 Issue 03 - March 1996(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 090 Issue 04 - April 1996(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 090 Issue 05 - May 1996(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 090 Issue 06 - June 1996(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 091 Issue 01 - July 1996(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 091 Issue 02 - August 1996(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 091 Issue 03 - September 1996(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 091 Issue 04-05 - October-November 1996(Htm-V1.1).rar
+05-08-2003\F&sf - Vol 086 Issue 01.rar
+05-08-2003\F&sf - Vol 086 Issue 02.rar
+05-08-2003\F&sf - Vol 086 Issue 03.rar
+05-08-2003\F&sf - Vol 086 Issue 04.rar
+05-08-2003\F&sf - Vol 086 Issue 05.rar
+05-08-2003\F&sf - Vol 086 Issue 06.rar
+05-08-2003\F&sf - Vol 087 Issue 01.rar
+05-08-2003\F&sf - Vol 087 Issue 02.rar
+05-08-2003\F&sf - Vol 087 Issue 03.rar
+05-08-2003\F&sf - Vol 087 Issue 04,05.rar
+05-08-2003\F&sf - Vol 087 Issue 06.rar
+05-08-2003\F&sf - Vol 088 Issue 01.rar
+05-08-2003\F&sf - Vol 088 Issue 02.rar
+05-08-2003\F&sf - Vol 088 Issue 03.rar
+05-08-2003\F&sf - Vol 088 Issue 04.rar
+05-08-2003\F&sf - Vol 088 Issue 05.rar
+05-08-2003\F&sf - Vol 088 Issue 06.rar
+05-08-2003\F&sf - Vol 089 Issue 01.rar
+05-08-2003\F&sf - Vol 089 Issue 02.rar
+05-08-2003\F&sf - Vol 089 Issue 03.rar
+05-08-2003\F&sf - Vol 089 Issue 04,05.rar
+05-08-2003\F&sf - Vol 089 Issue 06.rar
+05-08-2003\F&sf - Vol 090 Issue 01.rar
+05-08-2003\F&sf - Vol 090 Issue 02.rar
+05-08-2003\F&sf - Vol 090 Issue 03.rar
+05-08-2003\F&sf - Vol 090 Issue 04.rar
+05-08-2003\F&sf - Vol 090 Issue 05.rar
+05-08-2003\F&sf - Vol 090 Issue 06.rar
+05-08-2003\F&sf - Vol 091 Issue 01.rar
+05-08-2003\F&sf - Vol 091 Issue 02.rar
+05-08-2003\F&sf - Vol 091 Issue 03.rar
+05-08-2003\F&sf - Vol 091 Issue 04,05 - October-November 1996(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 091 Issue 06 - December 1996(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 092 Issue 01 - January 1997(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 092 Issue 02 - February 1997(Htm-V1.1).rar
@@ -2254,7 +2254,7 @@
 05-08-2003\F&sf - Vol 093 Issue 01 - July 1997(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 093 Issue 02 - August 1997(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 093 Issue 03 - September 1997(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 093 Issue 04-05 - October-November 1997(Htm-V1.1).rar
+05-08-2003\F&sf - Vol 093 Issue 04,05 - October-November 1997(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 093 Issue 06 - December 1997(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 096 Issue 01 - January 1999(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 096 Issue 02 - February 1999(Htm-V1.1).rar
@@ -2265,7 +2265,7 @@
 05-08-2003\F&sf - Vol 097 Issue 01 - July 1999(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 097 Issue 02 - August 1999(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 097 Issue 03 - September 1999(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 097 Issue 04-05 - October-November 1999(Htm-V1.1).rar
+05-08-2003\F&sf - Vol 097 Issue 04,05 - October-November 1999(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 097 Issue 06 - December 1999(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 098 Issue 01 - January 2000(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 098 Issue 02 - February 2000(Htm-V1.1).rar
@@ -2276,35 +2276,35 @@
 05-08-2003\F&sf - Vol 099 Issue 01 - July 2000(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 099 Issue 02 - August 2000(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 099 Issue 03 - September 2000(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 099 Issue 04-05 - October-November 2000(Htm-V1.1).rar
+05-08-2003\F&sf - Vol 099 Issue 04,05 - October-November 2000(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 099 Issue 06 - December 2000(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 100 Issue 01 - January 2001(Htm-V1.1).rar
 05-08-2003\F&sf - Vol 100 Issue 02 - February 2001(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 100 Issue 03 - March 2001(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 100 Issue 04 - April 2001(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 100 Issue 05 - May 2001(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 100 Issue 06 - June 2001(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 101 Issue 01 - July 2001(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 101 Issue 02 - August 2001(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 101 Issue 03 - September 2001(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 101 Issue 04-05 - October-November 2001(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 101 Issue 06 - December 2001(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 102 Issue 01 - January 2002(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 102 Issue 02 - February 2002(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 102 Issue 03 - March 2002(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 102 Issue 04 - April 2002(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 102 Issue 05 - May 2002(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 102 Issue 06 - June 2002(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 103 Issue 01 - July 2002(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 103 Issue 02 - August 2002(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 103 Issue 03 - September 2002(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 103 Issue 04-05 - October-November 2002(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 103 Issue 06 - December 2002(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 104 Issue 01 - January 2003(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 104 Issue 02 - February 2003(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 104 Issue 03 - March 2003(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 104 Issue 04 - April 2003(Htm-V1.1).rar
-05-08-2003\F&sf - Vol 104 Issue 05 - May 2003(Htm-V1.1).rar
+05-08-2003\F&sf - Vol 100 Issue 03.rar
+05-08-2003\F&sf - Vol 100 Issue 04.rar
+05-08-2003\F&sf - Vol 100 Issue 05.rar
+05-08-2003\F&sf - Vol 100 Issue 06.rar
+05-08-2003\F&sf - Vol 101 Issue 01.rar
+05-08-2003\F&sf - Vol 101 Issue 02.rar
+05-08-2003\F&sf - Vol 101 Issue 03.rar
+05-08-2003\F&sf - Vol 101 Issue 04,05.rar
+05-08-2003\F&sf - Vol 101 Issue 06.rar
+05-08-2003\F&sf - Vol 102 Issue 01.rar
+05-08-2003\F&sf - Vol 102 Issue 02.rar
+05-08-2003\F&sf - Vol 102 Issue 03.rar
+05-08-2003\F&sf - Vol 102 Issue 04.rar
+05-08-2003\F&sf - Vol 102 Issue 05.rar
+05-08-2003\F&sf - Vol 102 Issue 06.rar
+05-08-2003\F&sf - Vol 103 Issue 01.rar
+05-08-2003\F&sf - Vol 103 Issue 02.rar
+05-08-2003\F&sf - Vol 103 Issue 03.rar
+05-08-2003\F&sf - Vol 103 Issue 04,05.rar
+05-08-2003\F&sf - Vol 103 Issue 06.rar
+05-08-2003\F&sf - Vol 104 Issue 01.rar
+05-08-2003\F&sf - Vol 104 Issue 02.rar
+05-08-2003\F&sf - Vol 104 Issue 03.rar
+05-08-2003\F&sf - Vol 104 Issue 04.rar
+05-08-2003\F&sf - Vol 104 Issue 05.rar
 05-08-2003\George Martin - Arms Of The Kraken-V1.1(Htm).rar
 05-08-2003\George R.R. Martin - Arms Of The Kraken (A Song Of Ice And Fire Book 4 Novella)(Htm).rar
 05-08-2003\Morgan, Richard - Tasheki Kovacs 02 - Broken Angels [V1] [Doc].rar
@@ -2352,7 +2352,7 @@
 05-11-2003\Vance, Jack - Cugel's Saga (Txt).rar
 05-11-2003\Zahn, Timothy - Spinneret (V1) (Html).rar
 05-11-2003\Zahn, Timothy - Spinneret (V1.1) (Html).rar
-05-11-2003\Zahn, Timothy - Spinneret V1 - [Covers-Map].rar
+05-11-2003\Zahn, Timothy - Spinneret V1.rar
 05-11-2003
 05-12-2003\Collins, Mabel - Light On The Path.rar
 05-12-2003\Elizabeth Ann Scarborough - [Argonia 03] - Bronwyn's Bane (V1.0) [Rtf].rar
@@ -2362,7 +2362,7 @@
 05-12-2003\Johnson & Boswell - Journey To The Western Islands Of Scotland & Journal Of A Tour To The Hebrides (Rtf).rar
 05-12-2003\Peter Benchley - Creature (V1.0) [Rtf].rar
 05-12-2003
-05-13-2003\Andre Norton & Sherwood Smith - Time Traders 07 - Atlantis Endgame - (V3) (Html).rar
+05-13-2003\Andre Norton & Sherwood Smith - Time Traders 07 - Atlantis Endgame.rar
 05-13-2003\Dave, Robert - Run To The Sun (V1) [Html].rar
 05-13-2003\De Lint, Charles - Someplace To Be Flying (Rtf).rar
 05-13-2003\John Coleman - Conspirators' Hierarchy The Story Of The Committee Of 300 (V2.0)(Html).rar
@@ -2372,7 +2372,7 @@
 05-13-2003\Prather, Richard S - Slab Happy(Txt).rar
 05-13-2003\Star Trek - Tos - Vulcan! (V1.0) (Html).rar
 05-13-2003\Thomas, Leslie - The Dearest And The Best [Ver. 3.0] Rtf.rar
-05-13-2003\Tyers, Kathy - [Star Wars - The New Jedi Order] - Balance Point (Html) V1.1.rar
+05-13-2003\Tyers, Kathy - Balance Point (Html) V1.1.rar
 05-13-2003
 05-14-2003\Deveraux, Jude - Legend(Txt).rar
 05-14-2003\Francis, Dick - [Kit Fielding 01] Break In Edg(V1,html).rar
@@ -2390,7 +2390,7 @@
 05-15-2003\Clement, Hal - Starlight (Part 3 Of 4) [Doc].rar
 05-15-2003\Clement, Hal - Starlight (Part 3 Of 4) [Htm].rar
 05-15-2003\Clement, Hal - Starlight (Part 3 Of 4) [Txt].rar
-05-15-2003\De Lint, Charles - Forests Of The Heart [Pdf - Images].rar
+05-15-2003\De Lint, Charles - Forests Of The Heart.rar
 05-15-2003\Drake, David - Sea Hag.rar
 05-15-2003\Forrest, Katherine V - [Delafield 03] - The Beverly Malibu Edg(V1,html).rar
 05-15-2003\Hopen, Stuart - Warp Angel (V1.0) (Html).rar
@@ -2428,7 +2428,7 @@
 05-18-2003\Nick Pollotta And James Clay - Turnabout(Htm).rar
 05-18-2003\Robinson, Spider - The Mind 1 - Mindkiller V2 (Rtf).rar
 05-18-2003\Robinson, Spider - The Mind 3 - Lifehouse V2 (Rtf).rar
-05-18-2003\Star Trek - Tng - 023 - War Drums (V1.0) (Html).rar
+05-18-2003\Star Trek - War Drums (V1.0) (Html).rar
 05-18-2003
 05-19-2003\Anderson, Poul - Three Hearts And Three Lions - V3.0.rar
 05-19-2003\Barnes, John - Candle (Front Cover).rar
@@ -2545,15 +2545,13 @@
 05-27-2003\Mary Gentle - Golden Witchbreed [Maps].rar
 05-27-2003\Mccaffrey, Anne - Restoree -(V1,html) .rar
 05-27-2003\Nordhoff, Charles And Hall, James Norman - The Bounty Trilogy [V1] [Txt].rar
-05-27-2003\Pawns Of Chaos - [Warhammer 40.000 Novel] - Brian Craig - Scanned By Chaosorc (Uc) (Txt,f,b).rar
+05-27-2003\Brian Craig - Scanned By Chaosorc (Uc) (Txt,f,b).rar
 05-27-2003\Rhodan, Perry 008 - Base On Venus (Txt).rar
 05-27-2003\Rhodan, Perry 013 - Fortress Of The Six Moons (Txt).rar
 05-27-2003\Saberhagen, Fred - Lost Swords - 08 - Shieldbreakers Story(Doc).rar
 05-27-2003\Sagan, Carl - Dragons Of Eden (V1) [Txt].rar
 05-27-2003\Shedenhelm, William - Planet Stories 1950 - Fall Patch (Pdf).rar
-05-27-2003\Slate 20030523 (Htm).rar
-05-27-2003\Slate 20030523 (Pdf).rar
-05-27-2003\The Hulk And Spider-Man - Murdermoon-Scanned By Chaosorc (Uc) (Txt).rar
+05-27-2003\The Hulk And SpiderMan - Murdermoon.rar
 05-27-2003\White, James - Sector General 11 - Mind Changer.rar
 05-27-2003
 05-28-2003\Blaylock, James P - The Elfin Ship(Txt V1).rar
@@ -2576,7 +2574,7 @@
 05-29-2003\Pratchett, Terry - True Cruelty (Txt).rar
 05-29-2003\R.K. Narayan - Bachelor Of Arts (Doc) (V1.0).rar
 05-29-2003\Reynolds, Mack - Computer War (V1.0) (Html).rar
-05-29-2003\Vampireslayer - [Warhammer] - William King - Scanned By Chaosorc (Uc) (Txt,f,b).rar
+05-29-2003\William King - Vampireslayer.rar
 05-29-2003
 05-30-2003\Britain, Kristen - Green Rider (V1.0) (Html).rar
 05-30-2003\Desmond Bagely - The Enemy (V2.0) [Rtf].rar
@@ -2608,7 +2606,7 @@
 06-01-2003\Sam J. Lundwall - Science Fiction - What It's All About (V1.0) [Rtf].rar
 06-01-2003\Scott Baker - Nightchild (V1.0) [Html].rar
 06-01-2003\Shepherd, Mark - Serrated Edge 06 - Spiritride (V1.0) (Html).rar
-06-01-2003\Star Wars - [New Jedi Order] - Force Heretic I - Remnant - Sean Williams And Shane Dix.rar
+06-01-2003\Star Wars -  Remnant.rar
 06-01-2003\Thomas,frank Sherlock Holmes And The Sacred Sword [V1 Rtf].rar
 06-01-2003\William Burton - The Man Who Counts (Html).rar
 06-01-2003\William L Shirer - The Rise And Fall Of Adolf Hitler.rar
@@ -2750,10 +2748,10 @@
 06-09-2003\Isaac Asimov - [Lucky Starr 03] - And The Big Sun Of Mercury (V0.9) [Rtf].rar
 06-09-2003\James Patterson - Four Blind Mice (V1.0) [Txt].rar
 06-09-2003\John Barnes - [Century Next Door 03] - Candle (V1.0) [Htm].rar
-06-09-2003\Jorge Luis Borges - El Aleph - Libro Completo - Html V1.1.rar
-06-09-2003\Jorge Luis Borges - El Hacedor - Libro Completo - Html V1.0.rar
-06-09-2003\Jorge Luis Borges - El Libro De Arena - Libro Completo - Html V1.0.rar
-06-09-2003\Jorge Luis Borges - Historia Universal De La Infamia - Html V1.0.rar
+06-09-2003\Jorge Luis Borges - El Aleph.rar
+06-09-2003\Jorge Luis Borges - El Hacedor.rar
+06-09-2003\Jorge Luis Borges - El Libro De Arena.rar
+06-09-2003\Jorge Luis Borges - Historia Universal De La Infamia.rar
 06-09-2003\Michael Watson - Lobster Clouds And Pieces Of People (Pdf).rar
 06-09-2003\Nevil Shute - On The Beach V2 [Htm].rar
 06-09-2003\Nicola Griffith - Ammonite (V1.0) [Htm].rar
@@ -2763,7 +2761,7 @@
 06-09-2003\Star Wars - Shadows Of The Empire (By Steve Perry) [Txt].rar
 06-09-2003\Star Wars - Tales From The Mos Eisley Cantina (By Kevin J. Anderson Ed.) [Txt].rar
 06-09-2003\Star Wars - [The Tale Of Ig-88] - (By Kevin J. Anderson) [Txt].rar
-06-09-2003\Star Wars - [Young Jedi Nnights 01] - Heirs Of The Force (By Kevin J. Anderson & Rebecca Moesta) [Txt].rar
+06-09-2003\Star Wars - [Young Jedi Nnights 01] - Heirs Of The Force].rar
 06-09-2003\Star Wars - [Young Jedi Nnights 02] - Shadow Academy (By Kevin J. Anderson & Rebecca Moesta) [Txt].rar
 06-09-2003\Terry Dowling - Roadsong [Htm].rar
 06-09-2003\Terry Pratchett - True Cruelty [Txt].rar
@@ -2794,9 +2792,9 @@
 06-11-2003\David Brin - Glory Season (V1.1 Rtf).rar
 06-11-2003\De Lint, Charles - Jack, The Giant-Killer Edg(V1,html).rar
 06-11-2003\Hassel, Sven - Legion Of The Damned [Htm, 1.10].rar
-06-11-2003\Jorge Luis Borges - El Hacedor - Libro Completo - Html V1.01.rar
-06-11-2003\Jorge Luis Borges - El Informe De Brodie - Libro Completo - Html V1.0.rar
-06-11-2003\Jorge Luis Borges - La Memoria De Shakespeare - Libro Completo - Html V1.0.rar
+06-11-2003\Jorge Luis Borges - El Hacedor.rar
+06-11-2003\Jorge Luis Borges - El Informe De Brodie.rar
+06-11-2003\Jorge Luis Borges - La Memoria De Shakespeare.rar
 06-11-2003\Roger Macbride Allen - Caliban 01 - Caliban (Rtf).rar
 06-11-2003\Sara Douglass - The Axis Trilogy 2 - Enchanter (Rtf V1.0).rar
 06-11-2003
@@ -2818,24 +2816,24 @@
 06-12-2003\Peter F Hamilton - Greg Mandel 2 - A Quantum Murder (V1.1 Rtf).rar
 06-12-2003\Peter F Hamilton - Greg Mandel 3 - The Nano Flower (V1.1 Rtf).rar
 06-12-2003
-06-13-2003\Amis, Kingsley - Lucky Jim - Uc [.Html].rar
-06-13-2003\Armstrong, Lance - It's Not About The Bike - My Journey Back To Life - Uc [.Html].rar
+06-13-2003\Amis, Kingsley - Lucky Jim.rar
+06-13-2003\Armstrong, Lance - It's Not About The Bike - My Journey Back To Life.rar
 06-13-2003\Barr, Nevada - Flashback (V1.0 Htm).rar
 06-13-2003\Barr, Nevada - Flashback (V1.0 Pdf).rar
 06-13-2003\Barr, Nevada - Flashback (V1.0 Rtf).rar
 06-13-2003\Barr, Nevada - Flashback (V1.0 Txt).rar
 06-13-2003\Barthelme, Donald - The Dead Father (Css) V3.0 (Htm-Jpeg).rar
-06-13-2003\Beagle, Peter S - The Last Unicorn - Uc [.Html].rar
-06-13-2003\Blackstock, Terri - Seaside - Uc [.Html].rar
-06-13-2003\Brinley, Bertrand R - Mad Scientists' Club - Uc [.Html].rar
+06-13-2003\Beagle, Peter S - The Last Unicorn.rar
+06-13-2003\Blackstock, Terri - Seaside.rar
+06-13-2003\Brinley, Bertrand R - Mad Scientists' Club.rar
 06-13-2003\Cordain, L - Paradoxical Nature Of Hunter-Gatherer Diets(Pdf).rar
-06-13-2003\Ferguson, Will - Happiness(Tm) - Uc [.Html].rar
+06-13-2003\Ferguson, Will - Happiness(Tm).rar
 06-13-2003\Francis, Dick - [Sid Halley 01] Odds Against Edg(V1,html).rar
-06-13-2003\Haddix, Margaret Peterson - Among The Hidden - Uc [.Html].rar
-06-13-2003\Hoffman, Alice - Green Angel - Uc [.Html].rar
-06-13-2003\Jewell, Lisa - One-Hit Wonder - Uc [.Html].rar
+06-13-2003\Haddix, Margaret Peterson - Among The Hidden.rar
+06-13-2003\Hoffman, Alice - Green Angel.rar
+06-13-2003\Jewell, Lisa - One-Hit Wonder.rar
 06-13-2003\Lundin, Stephen C - Fish! - A Remarkable Way To Boost Morale And Improve Results - Uc [.Html].rar
-06-13-2003\Magorian, Michelle - Good Night Mr. Tom - Uc [.Html].rar
+06-13-2003\Magorian, Michelle - Good Night Mr. Tom.rar
 06-13-2003\Maguire, Gregory - Confessions Of An Ugly Stepsister - Uc [.Html].rar
 06-13-2003\Marion Zimmer Bradley - Jewel Of Arwen V1 (Rtf).rar
 06-13-2003\Mikhail Naimy The Book Of Mirdad(V1.0)(Doc).rar
@@ -2852,14 +2850,14 @@
 06-14-2003\Baxter, Charles (Ed.) - Best New American Voices 2001 (Doc).rar
 06-14-2003\Bowker, Richard - Marlborough Street V0.9 (Rtf).rar
 06-14-2003\Brackett, Leigh - Skaith 01 - The Ginger Star V1.0 (Rtf).rar
-06-14-2003\Mailer, Norman - The Gospel According To The Son - Uc [.Html].rar
-06-14-2003\Mccafferty, Megan - Sloppy Firsts - Uc [.Html].rar
-06-14-2003\Mcgraw, Eloise Jarvis - Mara - Daughter Of The Nile - Uc [.Html].rar
-06-14-2003\Osborne-Mcknight, Juilene - Daughter Of Ireland - Uc [.Html].rar
-06-14-2003\Rennison, Louise - Knocked Out By My Nunga-Nungas - Uc [.Html].rar
-06-14-2003\Rinaldi, Ann - Time Enough For Drums - Uc [.Html].rar
-06-14-2003\Tingle, Rebecca - The Edge On The Sword - Uc [.Html].rar
-06-14-2003\Von Trapp, Maria - Maria - Uc [.Html].rar
+06-14-2003\Mailer, Norman - The Gospel According To The Son.rar
+06-14-2003\Mccafferty, Megan - Sloppy Firsts.rar
+06-14-2003\Mcgraw, Eloise Jarvis - Mara - Daughter Of The Nile.rar
+06-14-2003\Osborne-Mcknight, Juilene - Daughter Of Ireland.rar
+06-14-2003\Rennison, Louise - Knocked Out By My Nunga-Nungas .rar
+06-14-2003\Rinaldi, Ann - Time Enough For Drums.rar
+06-14-2003\Tingle, Rebecca - The Edge On The Sword.rar
+06-14-2003\Von Trapp, Maria - Maria.rar
 06-14-2003
 06-15-2003\Best Democracy Money Can Buy-Qq-Html.rar
 06-15-2003\Brackett, Leigh - Skaith 02 - The Hounds Of Skaith V1.0 (Rtf).rar
@@ -2884,9 +2882,9 @@
 06-15-2003\Conrad, Joseph - The Secret Agent.Txt.rar
 06-15-2003\Damien Broderick - The Black Grail (V2.0) [Rtf].rar
 06-15-2003\Eoin Colfer - [Artemis Fowl 03] The Eternity Code V1.0 (Rtf).rar
-06-15-2003\Hess, Joan - Claire Malloy 01 - Strangled Prose - Txt.rar
-06-15-2003\Hess, Joan - Claire Malloy 03 - Dear Miss Demeanor - Txt.rar
-06-15-2003\Hess, Joan - Claire Malloy 08 - Poisoned Pins - Txt.rar
+06-15-2003\Hess, Joan - Claire Malloy 01 - Strangled Prose.rar
+06-15-2003\Hess, Joan - Claire Malloy 03 - Dear Miss Demeanor .rar
+06-15-2003\Hess, Joan - Claire Malloy 08 - Poisoned Pins.rar
 06-15-2003\Hillerman, Tony - [Leaphorn & Chee 12] Sacred Clowns Edg(V1,html).rar
 06-15-2003\Howard, Linda - Son Of The Morning (V1-1)[Html].rar
 06-15-2003\Howarth, David - 1066-Year Of The Conquest V1.1-Html.rar
@@ -2896,24 +2894,24 @@
 06-15-2003\Lackey, Mercedes - Mage Winds 2- Winds Of Change(Rtf).rar
 06-15-2003\Lackey, Mercedes - Mage Winds 3 - Winds Of Fury(Doc).rar
 06-15-2003\Mccullough, David - John Adams V2.0.Txt.rar
-06-15-2003\Merritt, A - The Moon Pool-Html.rar
+06-15-2003\Merritt, A - The Moon Pool.rar
 06-15-2003\Mickey Spillane - The Tough Guys (V2.0) [Rtf].rar
-06-15-2003\Mpshiel-Thepurplecloud-V4.0-Txt.rar
-06-15-2003\Napoli, Donna Jo - Sirena - Uc [.Html].rar
+06-15-2003\Mpshiel-Thepurplecloud.rar
+06-15-2003\Napoli, Donna Jo - Sirena.rar
 06-15-2003\Rinehart, Mary Roberts - The Lipstick (Hhh).Html.rar
-06-15-2003\Rubenstein, Lorne - A Season In Dornoch - Uc [.Html].rar
+06-15-2003\Rubenstein, Lorne - A Season In Dornoch .rar
 06-15-2003\Schmitz, James H. - Balanced Ecology (Hhh).Html.rar
-06-15-2003\Shames, Laurence - The Naked Detective - Txt.rar
+06-15-2003\Shames, Laurence - The Naked Detective.rar
 06-15-2003\Stewart Cowley And Charles Herridge - Great Space Battles(V1)(Htm).rar
 06-15-2003\Stewart, Mary - The Hollow Hills(Doc).rar
 06-15-2003\Terry Pratchett - Discworld - The Wee Free Men (V2.1 Rtf).rar
 06-15-2003\Wallace & Grommit - The Wrong Trousers (Pdf).rar
-06-15-2003\Wells, H. G. - War In The Air 2.1 (Proofed)-Html.rar
+06-15-2003\Wells, H. G. - War In The Air 2.1 (Proofed).rar
 06-15-2003\Wells, H. G. - War In The Air 2.1 (Proofed)-Txt.rar
 06-15-2003
 06-16-2003\Baum, Frank - Marvelous Land Of Oz V1.2.Html.rar
 06-16-2003\Burroughs, Edgar Rice - Tarzan 12 - Tarzan And The Lost Empire (V1.0) (Html).rar
-06-16-2003\Campbell, John W. Jr - Black Star Passes, The - V1.2.Html.rar
+06-16-2003\Campbell, John W. Jr - Black Star Passes, The.rar
 06-16-2003\Campbell, Joseph - Myths To Live By V3.0.Html.rar
 06-16-2003\Crichton, Michael - Prey (V1.2).Html.rar
 06-16-2003\Herbert, Frank - Green Brain, The-2.2e.Html.rar
@@ -2929,16 +2927,16 @@
 06-16-2003\L E Modesitt - Recluce 10 - Magi'i Of Cyador (Rtf V1.1).rar
 06-16-2003\L E Modesitt - Recluce 11 - Scion Of Cyador (Rtf V1.1).rar
 06-16-2003\Mary Stewart - The Last Enchantment(Doc).rar
-06-16-2003\Mccaffrey, Anne - Black Horses For The King - Uc [.Html].rar
+06-16-2003\Mccaffrey, Anne - Black Horses For The King.rar
 06-16-2003\Mccullough, David - John Adams V2.0 (Mult Html).rar
 06-16-2003\Mccullough, David - John Adams V2.0.Html.rar
 06-16-2003\Neil Gaiman's The Sandman - Book Of Dreams (Various Authors) V1 (Rtf).rar
 06-16-2003\Oxford Book Of American Detective Stories (The) - Hillerman Tony (Ed) V2.0.rar
-06-16-2003\Palast, Greg - Best Democracy Money Can Buy-Html.rar
+06-16-2003\Palast, Greg - Best Democracy Money Can Buy.rar
 06-16-2003\Rinehart, Mary Roberts - Circular Staircase, The.Txt.rar
 06-16-2003\Rinehart, Mary Roberts - Tish (Html With Illus).rar
 06-16-2003\Rinehart, Mary Roberts - Tish (Screen-Format).Pdf.rar
-06-16-2003\Smith, Thorne - Skin And Bones (1926)-Html.rar
+06-16-2003\Smith, Thorne - Skin And Bones (1926).rar
 06-16-2003\Stewart, George - Earth Abides V2.1 (Re-Proofed)-Html.rar
 06-16-2003\Stewart, Mary - The Hollow Hills(doc).rar
 06-16-2003\Tbase(2003-06-13)-Os.rar
@@ -2956,7 +2954,7 @@
 06-18-2003\Black Book Detective 4105 - Death On The Bounce By John Wallace (Pdf).rar
 06-18-2003\Black Book Detective 4105 - Murder By The Clock By Ivan Cameron (Pdf).rar
 06-18-2003\Black Mask 3802 - Leg Man By Erle Stanley Gardner (Rtf).rar
-06-18-2003\Bradbury, Ray - Let's All Kill Constance V1-Doc.rar
+06-18-2003\Bradbury, Ray - Let's All Kill Constance.rar
 06-18-2003\Burroughs, Edgar Rice - Tarzan 17 - Tarzan And The Lion Man (V1.0) (Html).rar
 06-18-2003\Charteris,leslie The Saint-The Brighter Buccaneer [V1 Rtf].rar
 06-18-2003\Dan Turner, Hollywood Detective - Homicide Highball By Robert Leslie Bellem (Rtf).rar
@@ -3000,18 +2998,18 @@
 06-18-2003\Private Detective Stories 4407 - Death Buys Black Gas By Robert Leslie Bellem (Pdf).rar
 06-18-2003\Robbins, David L. - Endworld 07 - Armageddon Run (V1.0) (Html).rar
 06-18-2003\Robert E Howard - Conan Chronicals Vol 2 V1.0 (Rtf).rar
-06-18-2003\Rosenberg, Joel C. - The Last Jihad - Cover.Jpg.rar
+06-18-2003\Rosenberg, Joel C. - The Last Jihad.rar
 06-18-2003\Sebastian Faulks - Birdsong (V1) [Htm].rar
 06-18-2003\Secret Agent 'x' 3602 - Pete Flynt - Mystery On Shark Island By George Armin Shaftel (Pdf).rar
 06-18-2003\Sleator, William - Interstellar Pig [Txt].rar
 06-18-2003\Speed Detective 4608 - Dan Turner, Hollywood Detective - Latin Blood By Robert Leslie Bellem (Pdf).rar
-06-18-2003\Star Trek - Gateways 2 - Chainmail - Diane Carey.rar
+06-18-2003\Star Trek - Gateways 2 - Chainmail.rar
 06-18-2003\Star Trek - [Gateways 01] - One Small Step [Htm].rar
 06-18-2003\Star Trek - [Gateways 03] - Doors Into Chaos [Htm].rar
 06-18-2003\Star Trek - [Gateways 04] - Demons Of Air And Darkness (V1) [Htm].rar
 06-18-2003\Startrek-Gateways 06-Cold Wars.Html.rar
-06-18-2003\The Mysterious Wu Fang 3601 - The Sacred Dragon By Steve Fisher (Pdf).rar
-06-18-2003\Thrilling Detective 4804 - Nick Ransom - Mahatma Of Mayhem By Robert Leslie Bellem (Pdf).rar
+06-18-2003\The Sacred Dragon By Steve Fisher (Pdf).rar
+06-18-2003\Nick Ransom - Mahatma Of Mayhem By Robert Leslie Bellem (Pdf).rar
 06-18-2003\Verne, Jules - Mysterious Island.Html.rar
 06-18-2003\Wells, H. G. - Valley Of Spiders, The.Html.rar
 06-18-2003\West 261205 - Night Of The Thirteenth By J Allan Dunn (Pdf).rar
@@ -3090,7 +3088,7 @@
 06-24-2003\Harry Turtledove - Worldwar 02 - Tilting The Balance (Txt).rar
 06-24-2003\Harry Turtledove - Worldwar 03 - Upsetting The Balance (Txt).rar
 06-24-2003\Harry Turtledove - Worldwar 04 - Striking The Balance (Txt).rar
-06-24-2003\Hughes,zach--Closed System [V1-Rtf].rar
+06-24-2003\Hughes,zach--Closed System.rar
 06-24-2003\Isles Of Fear By Katherine Mayo (Html) (Txt).rar
 06-24-2003\Joan Hess - Claire Malloy 01 - Strangled Prose (V1.2) [Html].rar
 06-24-2003\Joseph Addison - Cato (Txt).rar
@@ -3118,9 +3116,9 @@
 06-24-2003\Ullman, Harlan K. And James P. Wade - Shock And Awk--Achieving Rapid Dominance (Html).rar
 06-24-2003\Vance, Jack - The Dragon Masters(V1,html).rar
 06-24-2003
-06-25-2003\Nigel Findley - Shadowrun-4 - 2xs - (Htm)(Pics)Uc.rar
-06-25-2003\Nigel Findley - Shadowrun-4 - 2xs - (Rtf)Uc.rar
-06-25-2003\Nigel Findley - Shadowrun-4 - 2xs-(Fbs).rar
+06-25-2003\Nigel Findley - Shadowrun-4 - 2xs.rar
+06-25-2003\Nigel Findley - Shadowrun-4 - 2xs.rar
+06-25-2003\Nigel Findley - Shadowrun-4 - 2xs.rar
 06-25-2003\Zetford, Tully - Hook 01 - Whirlpool Of Stars V1.0(Txt).rar
 06-25-2003
 06-27-2003\(7) The Geste Of Duke Jocelyn, By Jeffery Farnol.rar
@@ -3147,7 +3145,7 @@
 06-27-2003\Fredric Brown - Letter To A Phoenix (V 1.0) (Html).rar
 06-27-2003\Hall,robert Lee- Exit Sherlock Holmes [V1,rtf].rar
 06-27-2003\Henry Kuttner - Camouflage (V 1.0) (Html).rar
-06-27-2003\Hpre2115 - Husband Assignment, The - Bianchin, Helen(Html).rar
+06-27-2003\Bianchin, Helen(Html)- Husband Assignment, The.rar
 06-27-2003\Innes Hammond - The Strange Land V1.1 (Txt).rar
 06-27-2003\Joan Hess - Claire Malloy 03 - Dear Miss Demeanor (V1.2) [Html].rar
 06-27-2003\Joan Hess - Claire Malloy 08 - Poisoned Pins (V1.2) [Html].rar
@@ -3167,8 +3165,8 @@
 06-28-2003\A E Van Vogt - The Universe Maker V1.Doc.rar
 06-28-2003\A E Van Vogt - The Universe Maker V1.Htm.rar
 06-28-2003\A E Van Vogt - The Universe Maker V1.Rtf.rar
-06-28-2003\Boucher, Anthony - Snulbug (V1.0-Html).rar
-06-28-2003\Bradbury, Ray - Austen And Jausten- The Twins Of Time (V1.1-Html).rar
+06-28-2003\Boucher, Anthony - Snulbug.rar
+06-28-2003\Bradbury, Ray - Austen And Jausten- The Twins Of Time.rar
 06-28-2003\Burroughs, Edgar Rice - The Moon Maid - Complete And Restored [V4.5 No Images].Html.rar
 06-28-2003\Burroughs, Edgar Rice - The Moon Maid - Complete And Restored [V4.5] [Txt].rar
 06-28-2003\Clarke, Arthur C - Richter 10 (With Mike Mcquay) (Front Cover).rar
@@ -3186,10 +3184,10 @@
 06-28-2003\Rusch, Kristine Kathryn - The Disappeared [V1,html].rar
 06-28-2003\Rusch, Kristine Kathryn - The Retrieval Artist [V1,html].rar
 06-28-2003\She's Come Undone - Wally Lamb (Html) V1.0.rar
-06-28-2003\Sheckley, Robert - Same To You Doubled (V1.0-Html).rar
+06-28-2003\Sheckley, Robert - Same To You Doubled.rar
 06-28-2003\Shepherd, Lucius - Jailwise (Rtf).rar
 06-28-2003\Shop Tested Router Techniques(Pdf).rar
-06-28-2003\Silverberg, Robert - As Is (V1.0-Html).rar
+06-28-2003\Silverberg, Robert - As Is .rar
 06-28-2003\Tenn, William - My Mother Was A Witch (V1.0-Html).rar
 06-28-2003
 06-29-2003\Man Kzin Wars 3 - Larry Niven (Uc)(Html).rar
@@ -3197,18 +3195,18 @@
 06-29-2003\Robert Lee Hall - Exit Sherlock Holmes (V2.0) [Rtf, Covers].rar
 06-29-2003
 06-30-2003\Baldacci, David - The Winner(V1)(Txt).rar
-06-30-2003\Charrette Robert N. -- Sadowrun-6-Never Trust An Elf-- --(Rtf)Uc.rar
-06-30-2003\Charrette Robert N. -- Shadowrun-6-Never Trust An Elf-- --(Htm)-(Pics)-Uc.rar
-06-30-2003\Charrette Robert N.--- ---Shadowrun--6--Never Trust An Elf-- --(Fbs).rar
+06-30-2003\Charrette Robert N. -- Sadowrun-6-Never Trust An Elf.rar
+06-30-2003\Charrette Robert N. -- Shadowrun-6-Never Trust An Elf.rar
+06-30-2003\Charrette Robert N.--- ---Shadowrun--6--Never Trust An Elf.rar
 06-30-2003\Charteris,leslie Follow The Saint [V1,rtf].rar
 06-30-2003
 07-01-2003\Christie, Agatha - The Murder Of Roger Ackroyd V4.0 [1926] (Htm,fb2).rar
 07-01-2003\Christie, Agatha - The Murder Of Roger Ackroyd V4.0 [1926] (Pdb,fb2).rar
 07-01-2003\Christie, Agatha - The Murder Of Roger Ackroyd V4.0 [1926] (Rtf,fb2).rar
 07-01-2003\Christie, Agatha - The Murder Of Roger Ackroyd V4.0 [1926] (Txt,fb2).rar
-07-01-2003\Clarke-Against The Fall Of Night-V4.6-Rtf.rar
-07-01-2003\Friedman, Bruce Jay - Protect Yourself At All Times (Html-Edg).rar
-07-01-2003\Friesner, Esther M. - Up The Wall (V1.0-Html-Edg).rar
+07-01-2003\Clarke-Against The Fall Of Night.rar
+07-01-2003\Friedman, Bruce Jay - Protect Yourself At All Times.rar
+07-01-2003\Friesner, Esther M. - Up The Wall.rar
 07-01-2003\Hayden, Torey L - One Child V2.0 (Rtf).rar
 07-01-2003\Hayden, Torey L - One Child V2.0 (Txt).rar
 07-01-2003\Hoffman, Nina Kiriki - Savage Breasts (Html-Edg).rar
@@ -3266,20 +3264,20 @@
 07-05-2003
 07-06-2003\Axler, James - Deathlands 49 - Shadow World (V1.0) (Html).rar
 07-06-2003\Carl Hiaasen & William Montalbano - Trap Line (V1) [Htm].rar
-07-06-2003\Collier, John - Bottle Party (V1.0-Html-Edg).rar
-07-06-2003\Dern, Daniel P. - Yes Sir That's My (V1.0-Html-Edg).rar
-07-06-2003\Goulart, Ron - Please Stand By (V1.0-Html-Edg).rar
-07-06-2003\Jacobs, Harvey - The Egg Of The Glak (V1.0-Html-Edg).rar
-07-06-2003\Jacobs, Harvey - The Retriever (V1.0-Html-Edg).rar
-07-06-2003\Kaye, Marvin - Ms. Lipshutz And The Goblin (V1.0-Html-Edg).rar
+07-06-2003\Collier, John - Bottle Party.rar
+07-06-2003\Dern, Daniel P. - Yes Sir That's My.rar
+07-06-2003\Goulart, Ron - Please Stand By.rar
+07-06-2003\Jacobs, Harvey - The Egg Of The Glak.rar
+07-06-2003\Jacobs, Harvey - The Retriever.rar
+07-06-2003\Kaye, Marvin - Ms. Lipshutz And The Goblin.rar
 07-06-2003\Lackey - Exile's Honor V1.1.Rtf.rar
 07-06-2003\Morressy, John - The Curse Of The Von Krumplesteins And Other Horrors (Html-Edg).rar
-07-06-2003\Reed, Robert - 555 (V1.0-Html-Edg).rar
-07-06-2003\Resnick, Mike - Beibermann's Soul (V1.0-Html-Edg).rar
-07-06-2003\Sheckley, Robert - The Refuge Elsewhere (V1.0-Html-Edg).rar
-07-06-2003\Silverberg, Robert - Hawksbill Station (V1.0-Html-Edg).rar
-07-06-2003\Tenn, William - My Mother Was A Witch (V1.0-Html-Edg).rar
-07-06-2003\Turtledove, Harry - Worldwar 01 - In The Balance (V0.92-Html-Edg).rar
+07-06-2003\Reed, Robert - 555.rar
+07-06-2003\Resnick, Mike - Beibermann's Soul.rar
+07-06-2003\Sheckley, Robert - The Refuge Elsewhere.rar
+07-06-2003\Silverberg, Robert - Hawksbill Station.rar
+07-06-2003\Tenn, William - My Mother Was A Witch.rar
+07-06-2003\Turtledove, Harry - Worldwar 01 - In The Balance.rar
 07-06-2003
 07-07-2003\Barthelme, Frederick - Two Against One V3.0 (Rtf).rar
 07-07-2003\Blaine-Rick Brant 24-The Magic Talisman-V1-Rtf.rar
@@ -3287,7 +3285,7 @@
 07-07-2003\Bukowski Charles - Factotum V.1.0 (Txt).rar
 07-07-2003\Clit14.rar
 07-07-2003\Dan Brown - The Da Vinci Code (V3.0) (Htm, Jpg).rar
-07-07-2003\Lem Stanislaw-1961-Solaris-V2.0.Html.rar
+07-07-2003\Lem Stanislaw-1961-Solaris.rar
 07-07-2003\Mercedes Lackey - [Last Herald-Mage 01] - Magic's Pawn (V1) [Rtf].rar
 07-07-2003\Monsarrat Nicholas - The Cruel Sea V1.1 (Txt).rar
 07-07-2003\Moon, Elizabeth - Gird 02 - Liar's Oath Elf (V1,html).rar
@@ -3339,7 +3337,7 @@
 07-11-2003\Arthur, Morrison - The Case Of Janissary [Html].rar
 07-11-2003\Axler, James - Deathlands 48 - Dark Reckoning(V1.0)[Html].rar
 07-11-2003\Budrys, Algis - Falling Torch (V1.1) [Html].rar
-07-11-2003\Budrys, Algis - Falling Torch V1.3 (Screen-Format).Pdf.rar
+07-11-2003\Budrys, Algis - Falling Torch V1.3.Pdf.rar
 07-11-2003\Budrys, Algis - Falling Torch V1.3 [Html].rar
 07-11-2003\Budrys, Algis - Falling Torch V1.3 [Rtf].rar
 07-11-2003\David Gemmell - [The Drenai Saga 08] - Winter Warriors (V2.0) [Rtf].rar
@@ -3374,24 +3372,24 @@
 07-12-2003\Charlaine Harris - [Southern Vampire 03] - Club Dead (V2) [Rtf].rar
 07-12-2003\Charteris,leslie - The Saint Intervenes [V1,rtf].rar
 07-12-2003\Clyde B. Clason - Ark Of Venus (V1) [Rtf].rar
-07-12-2003\Coulter, Lynn - Granny Woman (V3.0-Html-Edg).rar
+07-12-2003\Coulter, Lynn - Granny Woman.rar
 07-12-2003\Hilary Liftin - Candy And Me (V1.0) [Lit].rar
 07-12-2003\Paul Collins - The Earthborn [Doc].rar
-07-12-2003\Poe, Edgar Allan - The Murders In The Rue Morgue (V1.0-Html-Edg).rar
-07-12-2003\Smith, Dean Wesley - Jukebox Gifts (V3.0-Html-Edg).rar
+07-12-2003\Poe, Edgar Allan - The Murders In The Rue Morgue.rar
+07-12-2003\Smith, Dean Wesley - Jukebox Gifts.rar
 07-12-2003
 07-13-2003\A Treasury Of Great Science Fiction Vol2 - Ed. Anthony Boucher 1959(Uc).rar
 07-13-2003\Baudino, Gael - Strands 04 - Strands Of Sunlight Hal(V1,html).rar
 07-13-2003\Bisson, Terry - Partial People (V1.1-Html-Edg).rar
 07-13-2003\Christopher Buckley - The White House Mess (V1) [Htm].rar
-07-13-2003\Clarke, Arthur C. - History Lesson (V1.1-Html-Edg).rar
+07-13-2003\Clarke, Arthur C. - History Lesson .rar
 07-13-2003\David Prill - Big House On The Prairie (Html).rar
-07-13-2003\Dick, Philip K. - Fair Game (V3.1-Html-Edg).rar
-07-13-2003\Dick, Philip K. - Nanny (V1.1-Html-Edg).rar
-07-13-2003\Dick, Philip K. - The Hanging Stranger (V3.1-Html-Edg).rar
-07-13-2003\Ellison, Harlan - Djinn, No Chaser (V1.0-Html-Edg).rar
-07-13-2003\Haldeman, Joe - Roadkill (V1.1-Html-Edg).rar
-07-13-2003\Le Guin, Ursula K. - The Building (V1.1-Html-Edg).rar
+07-13-2003\Dick, Philip K. - Fair Game.rar
+07-13-2003\Dick, Philip K. - Nanny.rar
+07-13-2003\Dick, Philip K. - The Hanging Stranger.rar
+07-13-2003\Ellison, Harlan - Djinn, No Chaser.rar
+07-13-2003\Haldeman, Joe - Roadkill.rar
+07-13-2003\Le Guin, Ursula K. - The Building).rar
 07-13-2003\Li'l Abner (Week Of 340827).rar
 07-13-2003\Li'l Abner (Week Of 340903).rar
 07-13-2003\Li'l Abner (Week Of 340910).rar
@@ -3400,8 +3398,8 @@
 07-13-2003\Li'l Abner (Week Of 341001).rar
 07-13-2003\Li'l Abner (Week Of 341008).rar
 07-13-2003\Mick Farren - The Song Of Phaid The Gambler (V1.0) [Rtf].rar
-07-13-2003\Turtledove, Harry - Black Tulip (V1.1-Html-Edg).rar
-07-13-2003\Waldrop, Howard - Ike At The Mike (V1.1-Html-Edg).rar
+07-13-2003\Turtledove, Harry - Black Tulip.rar
+07-13-2003\Waldrop, Howard - Ike At The Mike.rar
 07-13-2003
 07-14-2003\Baross, Gabor - Hungary And Hitler (V1.1, Single File) [Doc].rar
 07-14-2003\Charles Stross - Hugo Nominee 2003 - Halo[V1.00, Htm].rar
@@ -3439,7 +3437,7 @@
 07-15-2003\Jeremy Levin - Satan - His Psychotherapy And Cure (V1) [Doc].rar
 07-15-2003\Joseph Green - Forgotten Star (V1) [Rtf].rar
 07-15-2003\Leslie Charteris - The Saint Intervenes (V1) [Rtf].rar
-07-15-2003\Mark Haddon - The Curious Incident Of The Dog In The Night-Time (V3.0) [Htm, Covers].rar
+07-15-2003\Mark Haddon - The Curious Incident Of The Dog In The Night.rar
 07-15-2003\Mick Farren - The Feelies (V1.0) [Rtf, Fb].rar
 07-15-2003\Mick Farren - The Feelies (V1.0) [Rtf].rar
 07-15-2003\Nora Roberts - Born In 1 - Born In Fire (Html).rar
@@ -3458,17 +3456,17 @@
 07-16-2003\Brown, Dan--Deception Point.rar
 07-16-2003\Brown, Dan--Digital Fortress.rar
 07-16-2003\Dixon, Franklin W - Hardy Boys 02 - The House On The Cliff (Original) V1 Rtf.rar
-07-16-2003\Duchamp, L.Timmel - When Joy Came To The World (V0.9-Html-Edg).rar
+07-16-2003\Duchamp, L.Timmel - When Joy Came To The World.rar
 07-16-2003\Goldrick, Emma - Ninety-Day Wife, The - Hr3464(V1.0)(Htm).rar
 07-16-2003\James Beau Seigneur - [The Christ Clone Trilogy 01] - In His Image [Html]v1.5.rar
 07-16-2003\James Beau Seigneur - [The Christ Clone Trilogy 02] - Birth Of An Age Uc [Html]v1.5.rar
 07-16-2003\Li'l Abner (Week Of 341105).rar
 07-16-2003\Li'l Abner (Week Of 341112).rar
 07-16-2003\Mark Clifton - What Now, Little Man (Html).rar
-07-16-2003\Mcdevitt, Jack - Standard Candles (V1.1-Html-Edg).rar
+07-16-2003\Mcdevitt, Jack - Standard Candles.rar
 07-16-2003\Mcewan, Ian--Atonement(Htm).rar
-07-16-2003\Mchugh, Maureen F. - Virtual Love (V1.1-Html-Edg).rar
-07-16-2003\Metzger, Robert A. - Planet Of The Dolphins (V1.1-Html-Edg).rar
+07-16-2003\Mchugh, Maureen F. - Virtual Love.rar
+07-16-2003\Metzger, Robert A. - Planet Of The Dolphins.rar
 07-16-2003\Nathaniel Ballingrud - You Go Where It Takes You (Html).rar
 07-16-2003\Philip K Dick - [Complete Stories 01] - Second Variety And Other Stories (Ssc) V3.0 (Rtf).rar
 07-16-2003\Raymond E. Feist - [The Riftwar Saga 2] - Silverthorn (V2.0) [Rtf].rar
@@ -3493,7 +3491,7 @@
 07-17-2003\Dibdin Michael - Dying Of The Light (The)(Rtf).rar
 07-17-2003\James Beau Seigneur - [The Christ Clone Trilogy 03] - Acts Of God [Html]v1.5.rar
 07-17-2003\Max Lucado - God Came Near (With Study Guide)[Html]v1.5.rar
-07-17-2003\Star Trek - Dayton Ward & Kevin Dilmore - Interphase Book 1(Doc)(Uc).rar
+07-17-2003\Dayton Ward & Kevin Dilmore - Interphase Book 1(Doc)(Uc).rar
 07-17-2003\Zen In The Martial Arts - John Hyams (Doc) Version 1.rar
 07-17-2003
 07-18-2003\A. A. Attanasio - [Radix Tetrad 01] - Radix (V1.0) [Rtf].rar
@@ -3615,7 +3613,7 @@
 07-21-2003\Steven Erikson - A Tale Of The Malazan Book Of The Fallen 4 - House Of Chains (V3.1 Html Maps).rar
 07-21-2003\Ten Detective Aces 4212 - Fifty-Grand Funeral By David X Manners (Pdf).rar
 07-21-2003\Vogt, A E Van And E Mayne Hull - Planets For Sale V0 Htm.rar
-07-21-2003\Vogt, A.E. Van - Ersatz Eternal (V1.0-Html-Edg).rar
+07-21-2003\Vogt, A.E. Van - Ersatz Eternal.rar
 07-21-2003
 07-22-2003\Brand, Max - Silvertip(Rtf).rar
 07-22-2003\Dart-Thornton - The Ill Made Mute V1 Doc.rar
@@ -3662,7 +3660,7 @@
 07-22-2003\Palmer, Diana - Snow Kisses(Ver1.1).rar
 07-22-2003\Palmer, Diana - Sweet Enemy(Ver1.1).rar
 07-22-2003\Palmer, Diana - Winter Soldier, The(Sof5)(Ver1.1).rar
-07-22-2003\Simmons, Dan - Hyperion 5 - Orphan Of The Helix [V1.1-Edg-Html].rar
+07-22-2003\Simmons, Dan - Hyperion 5 - Orphan Of The Helix.rar
 07-22-2003\Tinear(2003-07-22)-Os.rar
 07-22-2003
 07-23-2003\(Ebook) - Pynchon, Thomas - Mason & Dixon V1.0 (Rtf).rar
@@ -3676,7 +3674,7 @@
 07-23-2003\Farren, Mick - Vickers (V1.01) [Rtf].rar
 07-23-2003\Fire Ice By Clive Cussler & Paul Kemprecos(Txt).rar
 07-23-2003\Hadar, Leon T - The Green Peril-Creating The Islamic Fundamentalist Threat [Html].rar
-07-23-2003\Hpre2242 - Secret Love-Child, The - Lee, Miranda (Txt).rar
+07-23-2003\Lee, Miranda - Secret Love-Child, The (Txt).rar
 07-23-2003\John W Campbell Jr, Mrs - Postscriptum [Html].rar
 07-23-2003\Lewis Michael-2003-Moneyball-V3.0.rar
 07-23-2003\M. K. Hobson - Daughter Of The Monkey God (Html).rar
@@ -3739,8 +3737,8 @@
 07-27-2003\Baxter, Stephen - Vacuum Diagrams (V.1.1) (Html).rar
 07-27-2003\Blish,james - Star Trek 6 [V1,rtf].rar
 07-27-2003\Bradley, Marion Zimmer - [Darkover] Two To Conquer Elf(V1.Html).rar
-07-27-2003\Donald E Westlake - 361 V1.1 (Txt).rar
-07-27-2003\Jack Mcdevitt - Infinity Beach(Uc-Htm).rar
+07-27-2003\Donald E Westlake - 361.rar
+07-27-2003\Jack Mcdevitt - Infinity Beach.rar
 07-27-2003\John Brunner - Telepathist (V1) [Rtf].rar
 07-27-2003\Lackey, Mercedes - Diana Tregarde 03 - Jinx High (V1.1b) [Html].rar
 07-27-2003\May - Perseus Spur V1 Doc.rar
@@ -3780,12 +3778,12 @@
 07-28-2003
 07-29-2003\Bentleylittle-Theignored-V4.0-Txt.rar
 07-29-2003\Bentleylittle-Themailman-V4.0-Txt.rar
-07-29-2003\Blish,james - Star Trek 7 [V1,rtf].rar
+07-29-2003\Blish,james - Star Trek 7.rar
 07-29-2003\H Warner Munn - Merlins Godson(Htm-Uc).rar
-07-29-2003\Joerlansdale-Highcotton-V4.0-Txt.rar
-07-29-2003\Jonathancarroll-Achildacrossthesky-V4.0-Txt.rar
-07-29-2003\Jonathancarroll-Bonesofthemoon-V4.0-Txt.rar
-07-29-2003\Jonathancarroll-Sleepinginflame-V4.0-Txt.rar
+07-29-2003\Joerlansdale-Highcotton.rar
+07-29-2003\Jonathan carroll-A child across the sky.rar
+07-29-2003\Jonathan carroll-Bones of the moon.rar
+07-29-2003\Jonathan carroll-Sleepinginflame.rar
 07-29-2003\Norton, Andre - Witch World - 08 - The Gate Of The Cat (V1.0) (Html).rar
 07-29-2003\Norton, Andre - Witch World - High Hallack Cycle - 07 - Gryphon In Glory (V1.0) (Html).rar
 07-29-2003\Palaniuk, Chuck - Lullaby [V0.90uc Htm].rar
@@ -3815,9 +3813,9 @@
 07-30-2003\Peretti, Frank - Hangman's Curse (Txt With Covers).rar
 07-30-2003\Smith, Sherwood- [Wren 03] Wren's War Elf(V1,html).rar
 07-30-2003
-07-31-2003\Bentleylittle-Thestore-V4.0-Txt.rar
+07-31-2003\Bentleylittle-Thestore.rar
 07-31-2003\Blish,james - Star Trek 8 [V1,rtf].rar
-07-31-2003\Burroughs, William S - The Soft Machine - Cover.rar
+07-31-2003\Burroughs, William S - The Soft Machine.rar
 07-31-2003\Burroughs, William S - The Soft Machine[Htm].rar
 07-31-2003\Burroughs, William S - The Soft Machine[Txt].rar
 07-31-2003\By England's Aid, By G. A. Henty.rar
@@ -3857,7 +3855,7 @@
 08-01-2003\Nesbit, E - Beautiful Stories From Shakespeare(Lit).rar
 08-01-2003\Nesbit, E - Beautiful Stories From Shakespeare(Pdf).rar
 08-01-2003\Niven, Larry + Colebatch, Hal - Man Kzin Wars X - The Wunder War.rar
-08-01-2003\Rollins, Henry - Do I Come Here Often (Black Coffee Blues Pt. 2) - Cover.rar
+08-01-2003\Rollins, Henry - Do I Come Here Often (Black Coffee Blues Pt. 2).rar
 08-01-2003
 08-02-2003\Baxter, Charles- The Feast Of Love (Html).rar
 08-02-2003\Beigbeder, Frederic - 99 Francs [Fr] (V.1).rar
@@ -3879,7 +3877,7 @@
 08-02-2003\Metzger, Th. - The Birth Of Heroin And The Demonization Of The Dope Fiend [Txt].rar
 08-02-2003\Nothomb, Amelie - Stupeur Et Tremblements [Fr] (V.1).rar
 08-02-2003\Robert Silverberg - Chronicles Of Majipoor Front Cover And Maps (Jpg).rar
-08-02-2003\Rollins, Henry - Do I Come Here Often (Black Coffee Blues Pt. 2) - Chapter Imgs.rar
+08-02-2003\Rollins, Henry - Do I Come Here Often (Black Coffee Blues Pt. 2.rar
 08-02-2003\Rollins, Henry - Do I Come Here Often (Black Coffee Blues Pt. 2)[Htm].rar
 08-02-2003\Rollins, Henry - Do I Come Here Often (Black Coffee Blues Pt. 2)[Txt].rar
 08-02-2003\Turtledove, Harry - The Guns Of The South (V1.0) (Html).rar
@@ -3898,7 +3896,7 @@
 08-03-2003\Dart-Thornton - The Lady Of The Sorrows V1 Doc.rar
 08-03-2003\David Foster Wallace - Infinite Jest V2.0.Doc.rar
 08-03-2003\H Warner Munn - Merlin's Ring(Html Uc).rar
-08-03-2003\Heinlein, Robert A. - The Roads Must Roll (V3.0-Html-Edgm).rar
+08-03-2003\Heinlein, Robert A. - The Roads Must Roll.rar
 08-03-2003\Jerry Ahern - The Survivalist #16 - The Arsenal Uc (Doc, F).rar
 08-03-2003\Li'l Abner (Week Of 341119).rar
 08-03-2003\Li'l Abner (Week Of 341126).rar
@@ -3931,17 +3929,17 @@
 08-04-2003\Hpre2243 - Sandra Marton - The Pregnant Mistress (Uc) Rtf.rar
 08-04-2003\Iain Pears - The Immaculate Deception V1.0.rar
 08-04-2003\Innes Hammond - The Angry Mountain V1.1 (Txt).rar
-08-04-2003\Jorge Luis Borges Y Adolfo Bioy Casares - Seis Problemas Para Don Isidro Parodi - Html V1.0.rar
+08-04-2003\Jorge Luis Borges Y Adolfo Bioy Casares - Seis Problemas Para Don Isidro Parodi.rar
 08-04-2003\Nance,john J-Medusas Child-V0.5(Txt).rar
 08-04-2003\P C Hodgell - God Stalk Ecs (V1) [Htm].rar
 08-04-2003\Patterson & Gross - The Jester (Doc).rar
-08-04-2003\Patterson & Gross - The Jester (Jpg-Covers).rar
+08-04-2003\Patterson & Gross - The Jester.rar
 08-04-2003\Pynchon, Thomas - V [Doc].rar
 08-04-2003\Robert Graves - I, Claudius.(Htm).rar
 08-04-2003\Terry Brooks - High Druid Of Shannara Book 1 - Jarka Ruus (Html).rar
 08-04-2003\The Magic Jack-O'-Lantern- Sandra Heath V2.0 Wcover.rar
-08-04-2003\Wagner, Karl Edward - Bloodstone - V3 (Oeb).rar
-08-04-2003\Wagner, Karl Edward - The Book Of Kane - V3 (Oeb).rar
+08-04-2003\Wagner, Karl Edward - Bloodstone.rar
+08-04-2003\Wagner, Karl Edward - The Book Of Kane .rar
 08-04-2003\Welter, John - Night Of The Avenging Blowfish V3.0 (Rtf).rar
 08-04-2003
 08-05-2003\Ace Mystery 3607 - Mistress Of Snarling Death By Paul Chadwick (Pdf).rar
@@ -4098,12 +4096,12 @@
 08-10-2003\Foley, Gaelen - Lord Of Fire[Doc].rar
 08-10-2003\Foley, Gaelen - Lord Of Ice[Doc].rar
 08-10-2003\Hall Adam - The Mandarin Cypher V1.1 (Txt).rar
-08-10-2003\Heinlein, Robert A. - The Man Who Sold The Moon (V3.0-Html-Edgm).rar
+08-10-2003\Heinlein, Robert A. - The Man Who Sold The Moon.rar
 08-10-2003\Jenkins Geoffrey - The River Of Diamonds V1.1 (Txt).rar
 08-10-2003\Li'l Abner (Week Of 341217).rar
 08-10-2003\Li'l Abner (Week Of 341224).rar
 08-10-2003\Mckinney, Meagan - When Angels Fall[Lit].rar
-08-10-2003\Monkey God By Wu Chenggen (Uc - Text) .rar
+08-10-2003\Monkey God By Wu Chenggen.rar
 08-10-2003\Norton, Andre - Witch World - 07 - Ware Hawk (V1.0) (Html).rar
 08-10-2003\Oreilly, Kathleen - Touched By Fire[Lit].rar
 08-10-2003\Orion Book Of Murder (The) - Hanning Peter (Ed).rar
@@ -4126,7 +4124,7 @@
 08-11-2003\Mystery Tales 3806 - Black Pool For Hell Maidens By Hal K Wells (Pdf).rar
 08-11-2003\Navy Stories 3004 - One-Man Navy By Eugene Cunningham (Pdf).rar
 08-11-2003\Neal Barrett - Highwood (V1.1 Rtf).rar
-08-11-2003\Rob Macgregor - Indiana Jones And The Unicorn's Legacy(Htm-Uc).rar
+08-11-2003\Rob Macgregor - Indiana Jones And The Unicorn's Legacy.rar
 08-11-2003\Robin Wayne Bailey - [Frost 03] - Bloodsongs (V1.0) (Html).rar
 08-11-2003\Robin Wayne Bailey - [Frost 03] - Bloodsongs (V1.0) (Txt).rar
 08-11-2003\Scientific Detective 3004 - Craig Kennedy - The Terror In The Air By Arthur B Reeve (Pdf).rar
@@ -4149,7 +4147,7 @@
 08-12-2003\Katharine Kerr - [Deverry 01] - Daggerspell (V1.0) [Rtf].rar
 08-12-2003\Katharine Kerr - [Deverry 04] - Dragonspell (V1.0) [Rtf].rar
 08-12-2003\Miller, Steve & Lee, Sharon - Liaden Universe 2 - Agent Of Change (V1.0) (Html) .rar
-08-12-2003\Nourse-Rocket-To Limbo-Uc-Rtf.rar
+08-12-2003\Nourse-Rocket-To Limbo.rar
 08-12-2003\Silverberg - Sorcerers Of Majipoor V1 Doc.rar
 08-12-2003\Silverberg-Recalled To Life-Uc-Rtf.rar
 08-12-2003\Terry Brooks - High Druid Of Shannara Book 1 - Jarka Ruus (V1.1 Htm Edg).rar
@@ -4187,7 +4185,7 @@
 08-13-2003\Mason, Connie - Lionheart.rar
 08-13-2003\Mason, Douglas R. - Horizon Alpha (V1.0) (Html).rar
 08-13-2003\Monique Ellis - Underneath The Mistletoe (V2.0) [Rtf].rar
-08-13-2003\Offutt, Andrew J - Cormac01 - The Mists Of Doom - V3 (Oeb).rar
+08-13-2003\Offutt, Andrew J - Cormac01 - The Mists Of Doom .rar
 08-13-2003\Once Upon A Christmas, Diane Farr V2.0 Rtf.rar
 08-13-2003\The Juggler, Morressy, John V2.0 Rtf Wcover (Ubook).rar
 08-13-2003
@@ -4214,7 +4212,7 @@
 08-14-2003\Doc Savage 127 - Hell Below(Htm).rar
 08-14-2003\Doc Savage 128 - The Goblins(Htm).rar
 08-14-2003\Doc Savage 130 - The Spook Of Grandpa Eben(Htm).rar
-08-14-2003\Douglas Coupland - Shampoo Planet V1.0 (Fixed The Weird Formatting-No Pics).rar
+08-14-2003\Douglas Coupland - Shampoo Planet V1.0 (Fixed The Weird Formatting.rar
 08-14-2003\Douglas Coupland - Shampoo Planet [Rtf] V1.0.rar
 08-14-2003\Elrod, P.N. - The Vampire Files 04 - Art In The Blood (V1.0) (Html).rar
 08-14-2003\Five Patients - Michael Crichton.rar
@@ -4258,10 +4256,10 @@
 08-16-2003\Bradley, Marion Zimmer - The Fall Of Atlantis.rar
 08-16-2003\Chalker, Jack, Quest Of The Well Of Souls.rar
 08-16-2003\Chandler, A Bertram - [Grimes] The Hard Way Up 3s(V1,html).rar
-08-16-2003\David Weber-Steve White - Crusade(Htm-Uc).rar
+08-16-2003\David Weber-Steve White - Crusade.rar
 08-16-2003\Fantasy & Sci-Fi Magazine Oct-Nov-2003(Pdf).rar
 08-16-2003\Flint, Eric + Wenworth, K D - The Course Of Empire.rar
-08-16-2003\Goodkind, Terry - Sword Of Truth 08 - Naked Empire - Txt.rar
+08-16-2003\Goodkind, Terry - Sword Of Truth 08 - Naked Empire.rar
 08-16-2003\Scott, Martin - Thraxas.rar
 08-16-2003\Timothy Zahn - Warhorse (V1.0 Htm Edg).rar
 08-16-2003\Weber, David + Flint, Eric - Crown Of Slaves.rar
@@ -4337,9 +4335,9 @@
 08-20-2003\A. E. Van Vogt - [Null-A 02]the Players Of Null-A (V1.1) [Htm, Jpg].rar
 08-20-2003\Bradley, Marion Zimmer - [Darkover Heritage & Exile 02] Sharra's Exile 3s(V1,html).rar
 08-20-2003\Brian Herbert And Kevin J. Anderson - Whipping Mek (Txt).rar
-08-20-2003\Carl Sargent -- Marc Gascoigne -- Shadowrun-13 -- Nosferatu--(Fbs).RAR
-08-20-2003\Charrette Robert N. -- Sadowrun-6-Never Trust An Elf-- --(Rtf)Uc.rar
-08-20-2003\Charrette Robert N. -- Shadowrun-6-Never Trust An Elf-- --(Htm)-(Pics)-Uc.rar
+08-20-2003\Carl Sargent -- Marc Gascoigne -- Shadowrun-13 -- Nosferatu.RAR
+08-20-2003\Charrette Robert N. -- Sadowrun-6-Never Trust An Elf.rar
+08-20-2003\Charrette Robert N. -- Shadowrun-6-Never Trust An Elf.rar
 08-20-2003\Claude & Rhoda Nunes - Recoil (V1) [Htm].rar
 08-20-2003\David Irving - In The Service Of The Reich - The Memoirs Of Field Marshal Keitel [Pdf].rar
 08-20-2003\Foster, Alan Dean - The Dig (V1 Html).rar
@@ -4368,15 +4366,15 @@
 08-20-2003\Marta Randall - The State Of The Art On Alyssum (Html).rar
 08-20-2003\Marta Randall - The View From Endless Scarp (Html).rar
 08-20-2003\Marta Randall - Undeniably Cute - A Cautionary Tale (Html).rar
-08-20-2003\Nigel Findley -- Shadowrun-8 -- Shadowplay--(Fbs).rar
+08-20-2003\Nigel Findley -- Shadowrun-8 -- Shadowplay.rar
 08-20-2003\Nyx Smith -- Shadowrun-10 -- Striper Assassin-(Fbs).RAR
 08-20-2003\Star Trek - Enterprise - Surak's Soul (By Dillard, J.M.) (Doc).rar
 08-20-2003\Star Trek - Enterprise - Surak's Soul (By Dillard, J.M.) (Lit).rar
 08-20-2003\Star Trek - Tos - Garth Of Izar (By Sargent, Pamela & Zebrowsky, George) (Doc).rar
 08-20-2003\Star Trek - Tos - Garth Of Izar (By Sargent, Pamela & Zebrowsky, George) (Lit).rar
 08-20-2003\Terry Goodkind - Sword Of Truth - 08 - Naked Empire [Lit] V1.1.rar
-08-20-2003\Tom Dowd -- Shadowrun-14 -- Burning Bright--(Fbs).RAR
-08-20-2003\Tom Dowd -- Shadowrun-9 -- Night's Pawn--(Fbs).RAR
+08-20-2003\Tom Dowd -- Shadowrun-14 -- Burning Bright.RAR
+08-20-2003\Tom Dowd -- Shadowrun-9 -- Night's Pawn.RAR
 08-20-2003\Tuning, William - Fuzzy Bones (V1.0) (Html).rar
 08-20-2003\William L Shirer - The Rise And Fall Of The Third Reich (Uc).rar
 08-20-2003
@@ -4403,7 +4401,7 @@
 08-22-2003\Elliott, Kate - Crown Of Stars 3 - The Burning Stone (V1.5) (Rtf).rar
 08-22-2003\Elliott, Kate - Crown Of Stars 4 - Child Of Flame (V.1.5 Rtf).rar
 08-22-2003\Elliott, Kate - Crown Of Stars 5 - The Gathering Storm (V. 1.0) (Rtf Jpg).rar
-08-22-2003\Evanovich, Janet - Plum 01-09.rar
+08-22-2003\Evanovich, Janet - Plum 01 to 09.rar
 08-22-2003\Grass, Gunter - Danzig 03 - Dog Years V3.0 (Rtf).rar
 08-22-2003\Hoag, Tami - Night Sins (Txt).rar
 08-22-2003\Howard, Linda - All The Queen's Men.rar
@@ -4425,7 +4423,7 @@
 08-22-2003\Stasheff, Christopher - [The Warlock 05 - The Warlock Enraged.(V1.1)Txt.rar
 08-22-2003\The Flight Of The Shadow, By George Macdonald.rar
 08-22-2003\The Works Of Lord Byron, Letters And Journals, Vol. 1, By Lord Byron, Edited By Rowland E. Prothero.rar
-08-22-2003\Tiny Game Hunting By Hilary Klein And Adrian M. Wenner (Html-Pic) V1.5(1).rar
+08-22-2003\Tiny Game Hunting By Hilary Klein And Adrian M. Wenner.rar
 08-22-2003\Toole, John Kennedy - The Neon Bible V3.0 (Rtf).rar
 08-22-2003\Whyte, Jack - Skystone.rar
 08-22-2003\William Gaddis - A Folic Of His Own V1.0.Rtf.rar
@@ -4460,8 +4458,8 @@
 08-24-2003\Simmons, Deborah - The De Burgh Bride.rar
 08-24-2003\Star Trek - Tos 11 - The Yesterday Saga, Book One - Yesterday's Son (By Crispin, A.C.) (Lit).rar
 08-24-2003\Steinman, Ron The Soldiers' Story - Vietnam In Their Own Words V1.0 (Htm).rar
-08-24-2003\Strangers From The Skies By Brad Steiger (Txt-Pic-Html-Pdb) V1.5.rar
-08-24-2003\True, Cynthia - American Scream - The Bill Hicks Story V3.0 (Rtf-Jpg).rar
+08-24-2003\Strangers From The Skies By Brad Steiger.rar
+08-24-2003\True, Cynthia - American Scream - The Bill Hicks Story.rar
 08-24-2003
 08-25-2003\Amazing Stories 4101 - Hammer Of The Gods By John York Cabot (Pdf).rar
 08-25-2003\Andre Norton - The Witch World, Estcarp Cycle 06 - Trey Of Swords (V1.1 Htm).rar
@@ -4478,7 +4476,7 @@
 08-25-2003\Lynch, Patrick - Omega (V1.0 Pdf).rar
 08-25-2003\Lynch, Patrick - Omega (V1.0 Rtf).rar
 08-25-2003\Lynch, Patrick - Omega (V1.0 Txt).rar
-08-25-2003\Mammoth Book Of Pulp Action (The) - Jakubowski, Maxim (Ed) - V2.0.rar
+08-25-2003\Mammoth Book Of Pulp Action (The) - Jakubowski, Maxim.rar
 08-25-2003\Short Stories 380810 - Drifter's Luck By Arthur O Friel (Pdf).rar
 08-25-2003\Star Trek - The Brave And The Bold, Book 1 & 2 (Html).rar
 08-25-2003\Star Trek - Tng - Genesis Wave Book 1 & 2 (Html,doc).rar
@@ -4490,9 +4488,9 @@
 08-25-2003\Ten Detective Aces 4302 - College For Crooks By Tom Marvin (Pdf).rar
 08-25-2003
 08-26-2003\Axler, James - Deathlands 04 - Crater Lake(V1.0)[Html] .rar
-08-26-2003\Barryhughart-Bridgeofbirds-V4.0-Txt.rar
-08-26-2003\Barryhughart-Eightskilledgentlemen-V4.0-Txt.rar
-08-26-2003\Barryhughart-Thestoryofthestone-V4.0-Txt.rar
+08-26-2003\Barryhughart-Bridge of birds.rar
+08-26-2003\Barryhughart-Eight skilled gentlemen.rar
+08-26-2003\Barryhughart-The story of the stonet.rar
 08-26-2003\Block, Lawrence - Ride A White Horse (Rtf).rar
 08-26-2003\Brown, Fredric - Don't Look Behind You (Rtf).rar
 08-26-2003\Cassiday, Bruce - Brush Babe's Poison Pallet (Rtf).rar
@@ -4538,7 +4536,7 @@
 08-28-2003\Anne Rice - Interlude With The Undead (Html).rar
 08-28-2003\Asimov's Sci Fi Mag Oct 2003.rar
 08-28-2003\Between The Acts, By Virginia Woolf (Txt).rar
-08-28-2003\Book 1 The Deer And The Cauldron By Louis Cha (Uc - Txt).rar
+08-28-2003\Book 1 The Deer And The Cauldron By Louis Cha.rar
 08-28-2003\Charles Baudelaire - Hymn To Beauty (Rtf).rar
 08-28-2003\Charles Baudelaire - Spleen I (Rft).rar
 08-28-2003\Charles Baudelaire - The Ghost (Rtf).rar
@@ -4661,7 +4659,7 @@
 08-30-2003\A Grandchild's Guide To Using Grandpa's Computer By Gene Ziegler (Txt).rar
 08-30-2003\A. Bertram Chandler - [Commodore Grimes] - Contraband From Otherspace (V1) [Rtf].rar
 08-30-2003\Gardner, C S - Arab2 - A Bad Day For Ali Baba [V3 Rtf].rar
-08-30-2003\Goodkind, Terry - The Sword Of Truth-Series(0.5-Thru-08) (F).RAR
+08-30-2003\Goodkind, Terry - The Sword Of Truth-Series.RAR
 08-30-2003\Hugo Winners - 1951 (2001) [V1.00, Htm].rar
 08-30-2003\Hugo Winners - 1995 [V1.00, Htm].rar
 08-30-2003\J. D. Robb - [Dallas 19] - Imitation In Death (V2) [Rtf].rar
@@ -4670,11 +4668,11 @@
 08-30-2003\Linda Suzane - Neighborhood Watch (Html).rar
 08-30-2003\Linda Suzane - Six Short Stories (Html).rar
 08-30-2003\Pocketpc Magazine - November 2003.rar
-08-30-2003\Richardlaymon-Amongthemissing-V4.0-Txt.rar
+08-30-2003\Richardlaymon-Amongthemissing.rar
 08-30-2003\Richardlaymon-Bite-V4.0-Txt.rar
-08-30-2003\Richardlaymon-Darknesstellus-V4.0-Txt.rar
-08-30-2003\Richardlaymon-Inthedark-V4.0-Txt.rar
-08-30-2003\Richardlaymon-Island-V4.0-Txt.rar
+08-30-2003\Richardlaymon-Darknesstellus.rar
+08-30-2003\Richardlaymon-Inthedark.rar
+08-30-2003\Richardlaymon-Island.rar
 08-30-2003\Russell, Mary Doria - De Gevangene (V3.0) (Doc).rar
 08-30-2003\Russell, Mary Doria - De Gevangene (V3.0) (Htm).rar
 08-30-2003\Russell, Mary Doria - De Gevangene (V3.0) (Pdf).rar
@@ -4722,7 +4720,7 @@
 09-01-2003\Asimov, Isaac - Bw 1 - Tales Of The Black Widowers (Rtf).rar
 09-01-2003\Ball, Brian N - Planet Probability 3s(V1,html).rar
 09-01-2003\Black Night, Grey Dawn, White Mourning By Rhonda J. Jezek (Html).rar
-09-01-2003\Book 2 The Deer And The Cauldron By Louis Cha (Uc - Txt).rar
+09-01-2003\Book 2 The Deer And The Cauldron By Louis Cha.rar
 09-01-2003\Cemetery Night By Kelly Brennan (Html).rar
 09-01-2003\Charteris,leslie - The Saint Meets His Match [V1,rtf].rar
 09-01-2003\Crib Death Baby By Rhonda J. Jezek (Html).rar
@@ -4749,7 +4747,7 @@
 09-01-2003\Mabel Mabel Mabel By Rhonda J. Jezek (Html).rar
 09-01-2003\Maggie Furey - [Aurian Saga Artifacts Of Power 04] - Dhiammara (V2) [Doc].rar
 09-01-2003\Martin Amis - Time's Arrow V1.0.Rtf.rar
-09-01-2003\Offutt, Andrew J - Cormac02 - The Tower Of Death - V3 (Oeb).rar
+09-01-2003\Offutt, Andrew J - Cormac02 - The Tower Of Death.rar
 09-01-2003\Philosophizing With A Knight By Alon Rand (Html).rar
 09-01-2003\Prelude By Kelly Brennan (Html).rar
 09-01-2003\Saberhagen, Fred - Dracula 01 - The Dracula Tape (V1.0) (Html).rar
@@ -5080,7 +5078,7 @@
 09-10-2003\Model Airplane News 3807 - Pursuit Type Gas Job.rar
 09-10-2003\Model Airplane News 3902 - Struck's 1911 Caudron Monoplane.rar
 09-10-2003\Model Airplane News 3905 - The Biplane Sportster.rar
-09-10-2003\Model Airplane News 3906 - Herb Weiss' Curtiss Xp-40.rar
+09-10-2003\Model Airplane News 3906 - Herb Weiss' Curtiss.rar
 09-10-2003\Model Airplane News 4109 - Xp-51 Mustang.rar
 09-10-2003\Model Airplane News 4201 - Midway's Avenger And Dauntless.rar
 09-10-2003\Model Airplane News 4203 - Spad Xiii (3v).rar
@@ -5520,8 +5518,8 @@
 09-29-2003\Gloria And Treeless Street, By Annie Hamilton Donnell.rar
 09-29-2003\James J. Farrell - One Nation Under Goods (V1.0) [Htm, Illus].rar
 09-29-2003\Lackey, Mercedes - Mage Storms 2-Storm Rising.rar
-09-29-2003\O'brien Flann - At Swim-Two-Birds - V.1.0.Html.rar
-09-29-2003\O'brien Flann - At Swim-Two-Birds - V.1.0a.Txt.rar
+09-29-2003\O'brien Flann - At Swim-Two-Birds.rar
+09-29-2003\O'brien Flann - At Swim-Two-Birds.rar
 09-29-2003\Piers Anthony & Robert E. Margroff - Kelvin 1 - Dragon's Gold (V3.0) (Htm, Jpg).rar
 09-29-2003\Piers Anthony & Robert E. Margroff - Kelvin 2 - Serpents's Silver (V3.0) (Htm, Jpg).rar
 09-29-2003\Piers Anthony & Robert E. Margroff - Kelvin 3 - Chimaera's Copper (V3.0) (Htm, Jpg).rar
@@ -5530,7 +5528,7 @@
 09-29-2003\Robbins, David L. - Endworld 11 - Libery Run (V1.0) (Html).rar
 09-29-2003\Robert J. Evans - Dorothy's Mystical Adventures In Oz (Html).rar
 09-29-2003\Robert J. Evans - Dorothy's Mystical Adventures In Oz (Rtf).rar
-09-29-2003\Star Trek - Spocks World - Tos - Rtf.rar
+09-29-2003\Star Trek - Spocks World.rar
 09-29-2003\Stephen Burn - David Foster Wallace's Infinite Jest V1.0.Rtf.rar
 09-29-2003\The Book Of Old English Ballads By George Wharton Edwards.rar
 09-29-2003\The Green Satin Gown, By Laura E. Richards.rar
@@ -5677,13 +5675,13 @@
 10-05-2003\Alter, Robert Edmund - Swamp Sister (txt).rar
 10-05-2003\Bludis, Jack - Munchies (rtf).rar
 10-05-2003\Ernest Seton-Thompson - The Biography of a Grizzly (txt).rar
-10-05-2003\Evanovich, Janet - SP9 - To the Nines (v3-0)[html].rar
+10-05-2003\Evanovich, Janet - SP9 - To the Nines].rar
 10-05-2003\Georgian Poetry 1911-12, by Edited by E. M. (html).rar
 10-05-2003\Heinlein, Robert A - Tunnel in the Sky (v1.2) (html).rar
 10-05-2003\Howard, Linda - Now You See Her (v2-0)[html].rar
 10-05-2003\In the Heart of the Vosges, by Matilda Betham-Edwards(txt).rar
 10-05-2003\Kenneth Robeson - Doc Savage 136 - The Pharaoh's Ghost (pdf).rar
-10-05-2003\Laurens, Stephanie- Cynster 02 -Rake's Vow (v1-1)[html].rar
+10-05-2003\Laurens, Stephanie- Cynster 02 -Rake's Vow .rar
 10-05-2003\MacLean, Mike - Little Holes (rtf).rar
 10-05-2003\Maxwell Grant - Shadow 330201 - The Shadow's Shadow (pdf).rar
 10-05-2003\Michael O'Halloran, by Gene Stratton-Porter.rar
@@ -5764,7 +5762,7 @@
 10-11-2003\Carrie Bebris - Pool of Radiance (A Forgotten Realms novel)2.rar
 10-11-2003\Carrie Bebris - Pool of Radiance (A Forgotten Realms novel)3.rar
 10-11-2003\Gibson, William - Neuromancer v3.0(html, jpg).rar
-10-11-2003\HAMSUN, Knut - Hunger (Trans. by Robert Bly) - Cover.jpg
+10-11-2003\HAMSUN, Knut - Hunger (Trans. by Robert Bly).jpg
 10-11-2003\HAMSUN, Knut - Hunger (Trans. by Robert Bly)[htm].rar
 10-11-2003\HAMSUN, Knut - Hunger (Trans. by Robert Bly)[txt].rar
 10-11-2003\Ingrid, Charles - The Sand Wars 01 - Solar Kill v1.0 (rtf).rar
@@ -6060,8 +6058,8 @@
 10-25-2003\Levinson, Paul - The Consciousness Plague v1.0 (txt).rar
 10-25-2003\Lloyd Alexander - [The Prydain Chronicles 01] - The Book Of .rar
 10-25-2003\Lloyd Alexander - [The Prydain Chronicles 02] - The Black Ca.rar
-10-25-2003\NABOKOV Vladimir - Pale Fire - v.1.0 html.rar
-10-25-2003\NABOKOV Vladimir - Pale Fire - v.1.0 txt.rar
+10-25-2003\NABOKOV Vladimir - Pale Fire.rar
+10-25-2003\NABOKOV Vladimir - Pale Fire.rar
 10-25-2003\None Dare Call It Conspiracy By Gary Allen (TXT-PIC-HTML-PDB.rar
 10-25-2003\RAF Aces 4412 - Hoodoo Plays The Hero by Mel Pitzer (pdf).rar
 10-25-2003\STAR TREK - TOS 83 - Heart of the Sun (by SARGENT, Pamela & .rar
@@ -6075,9 +6073,9 @@
 10-26-2003\Heather Istara Sluys - Dawn Over Shirokarasu (txt).rar
 10-26-2003\Kathleen Kat Casey - Outside the Window (html).rar
 10-26-2003\Marlow Tyson Peck - One Last Game.rar
-10-26-2003\R. A. Salvatore - [Demon Wars 03] - The Demon Apostle (v1) 2.rar
-10-26-2003\R. A. Salvatore - [Demon Wars 03] - The Demon Apostle (v1) 3.rar
-10-26-2003\R. A. Salvatore - [Demon Wars 03] - The Demon Apostle (v1) [.rar
+10-26-2003\R. A. Salvatore - [Demon Wars 03] - The Demon Apostle.rar
+10-26-2003\R. A. Salvatore - [Demon Wars 03] - The Demon Apostle.rar
+10-26-2003\R. A. Salvatore - [Demon Wars 03] - The Demon Apostle[.rar
 10-26-2003
 10-27-2003\Alan Dean Foster - Instant With Loud Voices v0.9 (htm).rar
 10-27-2003\Alan Dean Foster The I Inside(v1 txt).rar
@@ -6121,7 +6119,7 @@
 10-27-2003\Smith, Martin Cruz - Stallion Gate(v1.0) [html].rar
 10-27-2003\STAR TREK - TOS 10 - Web of the Romulans (by MURDOCK, M. S.).rar
 10-27-2003\STAR TREK - TOS 10 - Web of the Romulans (by MURDOCK, M. S.2.rar
-10-27-2003\Total Mind Power By Donald L.Wilson MD (TXT-PIC-HTML-PDB) v1.rar
+10-27-2003\Total Mind Power By Donald L.Wilson MD .rar
 10-27-2003\William F. Wu - Wong's Lost and Found Emporium v0.9 (htm).rar
 10-27-2003
 10-28-2003\101 Easy Ways to Say NO(txt).rar
@@ -7390,7 +7388,7 @@
 11-30-2003\P.T. Deuterman - The Edge Of Honor (txt).rar
 11-30-2003\P.T. Deuterman - Zero Option (txt).rar
 11-30-2003\Palma Harcourt - Clash Of Loyalties (txt).rar
-11-30-2003\Passarella, J G - [Windy Ward 01] - WITHER - (v1 html).rar
+11-30-2003\Passarella, J G - [Windy Ward 01] - WITHER.rar
 11-30-2003\Patricia Hagan - Passion's Fury (txt).rar
 11-30-2003\Patty Deans - The Hawkthorn Ghost Plays Cupid (lit).rar
 11-30-2003\Paula Marshall - A Biddable Girl (txt).rar
@@ -7742,7 +7740,7 @@
 12-03-2003\Memoir and Diary of John Yeardley, Minister of the Gospel, b.rar
 12-03-2003\Memoir and Diary of John Yeardley, Minister of the Gospel, by John Yeardley(txt).rar
 12-03-2003\Nicola Comick - The Blanch Land Secret (txt).rar
-12-03-2003\Passarella, J G - [Windy Ward 01] - WITHER - (v2 html).rar
+12-03-2003\Passarella, J G - [Windy Ward 01] - WITHER.rar
 12-03-2003\Patricia Gagne - Mystery Baby (txt).rar
 12-03-2003\Paula Fox - The Slave Dancer (txt).rar
 12-03-2003\Poems, by Sir John Carr(txt).rar
@@ -8307,8 +8305,8 @@
 12-13-2003\Elrod, PN - I, Strahd, The War Against Azalin (v1.0).rar
 12-13-2003\Greenwood, Ed - Band of Four 01 - The Kingless Land (v1) [rt.rar
 12-13-2003\Greenwood, Ed - Band of Four 01 - The Kingless Land (v1) [rtf].rar
-12-13-2003\Passarella, J G - [Windy Ward 01] - WITHER - (v2) - [txt].rar
-12-13-2003\Passarella, J G - [Windy Ward 01] - WITHER - (v2.5) - [html].rar
+12-13-2003\Passarella, J G - [Windy Ward 01] - WITHER.rar
+12-13-2003\Passarella, J G - [Windy Ward 01] - WITHER.rar
 12-13-2003\Townsend, Sue - The Queen and I [Ver. 3.0] rtf.rar
 12-13-2003
 12-14-2003\A Golden Book of Venice, by Mrs. Lawrence Turnbull(txt).rar
