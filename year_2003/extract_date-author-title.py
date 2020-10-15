@@ -34,7 +34,7 @@ fout=open(tog, 'w+')
 
 
 
-name_pattern=re.compile(r'[Bb]y (.+)')
+name_pattern=re.compile(r'[Bb]y (.+)?')
 
 total=0
 count=0
@@ -57,9 +57,13 @@ for line in fhand:
 
     author=bline[0]
     author=comma_name(author)
-    name=name_pattern.search(author)
+    name=name_pattern.search(title)
     if name is not None:
         author=name.group(1)
+        try:
+            title = re.sub(author,'', title)
+        except:
+            continue
     else:
         author = author
 
