@@ -24,6 +24,7 @@ fhand=open(fname)
 for line in fhand:
     line = line.rstrip()
     line = line.split('@')
+    if len(line)==1:continue
     location =line[0]
     name = line[1]
     name = name.strip()
