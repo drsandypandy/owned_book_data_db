@@ -36,11 +36,11 @@ for line in fhand:
     title=bline[-1]
     if len(title)<4:
         title=bline[-2]
-
-    fout.write(str(count))
-    fout.write(' ~ ')
-    fout.write(title)
-    fout.write('\n')
+    if len(title)<20:
+        fout.write(str(count))
+        fout.write(' ~ ')
+        fout.write(title)
+        fout.write('\n')
 
 
 

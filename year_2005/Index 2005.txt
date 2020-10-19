@@ -105,7 +105,7 @@
 01-05-2005\[Anthology] - [Lonely Hearts Hotel] - The Chosen - Claudia Rose [Rtf].rar
 01-05-2005\[Anthology] - [Lonely Hearts Hotel] - Welcome Aboard - Kate Douglas [Rtf].rar
 01-05-2005
-01-06-2005\Hendee, Jc And Barb - Dhampir - (V1.5) (Html).rar
+01-06-2005\Hendee, Jc And Barb - Dhampir.rar
 01-06-2005\Hendee, Jc And Barb - Dhampir V2 Html.rar
 01-06-2005\Kerr, Phillip - Theshot [V 1.0] (Html).rar
 01-06-2005\Lord, Jeffrey - Blade - 01 - Bronze Axe(Htm).rar
@@ -164,7 +164,7 @@
 01-07-2005\Turtledove, Harry (Ed) - The Best Time Travel Stories Of The Twentieth Century - With Martin H Greenberg (V 2.0, Rtf, F).rar
 01-07-2005\Turtledove, Harry - The Guns Of The South (V 2.0, Rtf, Fb).rar
 01-07-2005
-01-08-2005\Lisa J Smith - [Secret Circle 3] - The Power - V1 Htm.rar
+01-08-2005\Lisa J Smith - [Secret Circle 3] - The Power.rar
 01-08-2005\Lord, Jeffrey - Blade 07 - Pearl Of Patmos (V1.0) (Html).rar
 01-08-2005
 01-09-2005\Bancroft, Anne Ed. - The Pocket Buddha Reader (V1.0) [Rtf].rar
@@ -269,11 +269,11 @@
 01-17-2005\Ted Dekker - [Book 02] - Red [Pdf].rar
 01-17-2005\Ted Dekker - [Book 03] - White [Pdf].rar
 01-17-2005
-01-18-2005\(12 Quickies Of X-Mas 10) Alexander, Lacey--Hot For Santa(Lit).rar
-01-18-2005\(12 Quickies Of X-Mas 12) Lisa Marie Rice--Christmas Angel(Lit).rar
-01-18-2005\(12 Quickies Of X-Mas 2) Lora Leigh--Men Of August(Lit).rar
-01-18-2005\(12 Quickies Of X-Mas 4) Kate Douglas--Just A Little Magic(Lit).rar
-01-18-2005\(12 Quickies Of X-Mas 9) Joey W. Hill--Snow Angel(Lit).rar
+01-18-2005\Alexander, Lacey - Hot For Santa(Lit).rar
+01-18-2005\Lisa Marie Rice - Christmas Angel(Lit).rar
+01-18-2005\Lora Leigh - Men Of August(Lit).rar
+01-18-2005\Kate Douglas - Just A Little Magic(Lit).rar
+01-18-2005\Joey W. Hill - Snow Angel(Lit).rar
 01-18-2005\Bruce Balfour - Prometheus Road V4[Html].rar
 01-18-2005\Dan Cortez - The Closer V4[Html].rar
 01-18-2005\Emilie Rose - A Perfect Match (Html).rar
@@ -340,27 +340,27 @@
 01-21-2005\Wallace, B. Alan - Buddhism With An Attitude (V1.0) [Rtf].rar
 01-21-2005
 01-22-2005\Axler, James - Deathlands 59 - Amazon Gate (V1.0) [Html].rar
-01-22-2005\Catch The Brass Ring--Stephen Marlowe (Milton Lesser)(Htm).rar
-01-22-2005\Clean Break--Lionel White(Htm).rar
+01-22-2005\Catch The Brass Ring - Stephen Marlowe (Milton Lesser)(Htm).rar
+01-22-2005\Clean Break - Lionel White(Htm).rar
 01-22-2005\Gregory Benford - Eater(V1.0)[Html,jpg,fc).rar
 01-22-2005\Henry Gilbert - Robin Hood (Lit).rar
 01-22-2005\Henry Kuttner - The Time Axis (V5.0) (Html).rar
-01-22-2005\High Red For Dead--William L. Rohde(Htm).rar
+01-22-2005\High Red For Dead - William L. Rohde(Htm).rar
 01-22-2005\Hpre2224 - Bellini Bride, The - Reid, Michelle (V1.0 Rtf).rar
 01-22-2005\Iris Johansen - Firestorm(Htm).rar
 01-22-2005\Maclean, Alistair - Hms Ulysses (V1.0) (Html).rar
-01-22-2005\Night Cry--William L. Stuart(Htm).rar
+01-22-2005\Night Cry - William L. Stuart(Htm).rar
 01-22-2005\Pocket Pc 2005-02 Feb (Lit).rar
-01-22-2005\Solomon's Vineyard--Jonathan Latimer(Htm).rar
-01-22-2005\The Chinese Keyhole--Richard Himmel(Htm).rar
-01-22-2005\The Chinese Room--Vivian Connell(Htm).rar
-01-22-2005\The Devil Thumbs A Ride--Robert C. Du Soe(Htm).rar
-01-22-2005\The Killer--Wade Miller(Htm).rar
-01-22-2005\The Second Longest Night-- Stephen Marlowe (Milton Lesser)(Htm).rar
+01-22-2005\Solomon's Vineyard - Jonathan Latimer(Htm).rar
+01-22-2005\The Chinese Keyhole - Richard Himmel(Htm).rar
+01-22-2005\The Chinese Room - Vivian Connell(Htm).rar
+01-22-2005\The Devil Thumbs A Ride - Robert C. Du Soe(Htm).rar
+01-22-2005\The Killer - Wade Miller(Htm).rar
+01-22-2005\The Second Longest Night -  Stephen Marlowe (Milton Lesser)(Htm).rar
 01-22-2005
 01-23-2005\Jacqueline Carey - [The Sundering 1] - Banewreaker (V1.0) (Lit).rar
 01-23-2005\Moser, Robert E. - Mental And Astral Projection (Html).rar
-01-23-2005\Wollheim, Donald A. - Secret Of The Ninth Planet - V1.1(Rtf).rar
+01-23-2005\Wollheim, Donald A. - Secret Of The Ninth Planet.rar
 01-23-2005
 01-24-2005\Able Team 01 - Tower Of Terror By L.R. Payne (V1.0) (Html).rar
 01-24-2005\Hardin, Clement - Stage Line To Rincon [V1.0] (Htm).rar
@@ -485,9 +485,9 @@
 01-31-2005\Susan Andersen - Baby Don't Go (V1.0) [Rtf].rar
 01-31-2005
 02-01-2005\Bradley, Marion Zimmer - [Darkover 04] - The Fall Of Neskaya (V1.0) [Rtf].rar
-02-01-2005\David Baldacci-Hour Game[Lit].rar
-02-01-2005\Dunning, John - [Cliff Janeway] - The Bookman's Promise - (V1.0) [Html].rar
-02-01-2005\Dunning, John - [Cliff Janeway] - The Bookman's Promise - (V1.0) [Rb].rar
+02-01-2005\David Baldacci - Hour Game[Lit].rar
+02-01-2005\Dunning, John - [Cliff Janeway] - The Bookman's Promise.rar
+02-01-2005\Dunning, John - [Cliff Janeway] - The Bookman's Promise.rar
 02-01-2005\Emma Holly - Cooking Up A Storm (V1.0) (Html).rar
 02-01-2005\Emma Holly - Cooking Up A Storm (V1.0) (Lit).rar
 02-01-2005\J. D. Robb - [Dallas 23] - Survivor In Death [Htm, Jpg].rar
@@ -533,8 +533,8 @@
 02-04-2005\Jules Verne - An Antarctic Mystery-1.1htm.rar
 02-04-2005\Linda Howard - Dream Man[Html].rar
 02-04-2005\Lori O'clare - The First Time[Html].rar
-02-04-2005\Star Trek-Tos-024-Killing Time(Lit).rar
-02-04-2005\Star Trek-Tos-025-Dwellers In The Crucible(Lit).rar
+02-04-2005\Star Trek - Tos-024-Killing Time(Lit).rar
+02-04-2005\Star Trek - Tos-025-Dwellers In The Crucible(Lit).rar
 02-04-2005\Wolfe Gene - Endangered Species(Txt).rar
 02-04-2005\[Buffy] - C. Golden & N. Holder - Child Of The Hunt [Lit].rar
 02-04-2005\[Buffy] - C. Golden & N. Holder - Gatekeeper 1 - Out Of The Madhouse [Lit].rar
@@ -696,9 +696,9 @@
 02-06-2005\Carlyle, Liz - A Deal With The Devil [Html].rar
 02-06-2005\Dr Who - The Dalek Problem - A Symposium(Pdf).rar
 02-06-2005\Labud, Pam - Mad Earl [Html].rar
-02-06-2005\Lackey, Mercedes - Valdemar - Mage Storms 01 - Storm Warning 2.0 - Re-Proofed(Htm).rar
-02-06-2005\Lackey, Mercedes - Valdemar - Mage Winds 02 - Winds Of Change - Re-Proofed(Htm).rar
-02-06-2005\Lackey, Mercedes - Valdemar - Mage Winds 03 - Winds Of Fury - Re-Proofed(Htm).rar
+02-06-2005\Lackey, Mercedes - Valdemar - Mage Storms 01 - Storm Warning.rar
+02-06-2005\Lackey, Mercedes - Valdemar - Mage Winds 02 - Winds Of Change.rar
+02-06-2005\Lackey, Mercedes - Valdemar - Mage Winds 03 - Winds Of Fury.rar
 02-06-2005\R. A. Salvatore - [Forgotten Realms - The Hunter's Blades 03] - The Two Swords (V0.9) [Rtf].rar
 02-06-2005\Sirota, Mike - Bicycling 01 - Bicycling Through Space And Time (V1.0) (Html).rar
 02-06-2005
@@ -757,7 +757,7 @@
 02-07-2005\Shayne, Maggie - [Eternity 02] - Infinity (V0.0) [Htm].rar
 02-07-2005\Shayne, Maggie - [Eternity 03] - Destiny (V1.0) [Htm].rar
 02-07-2005\Silva, Daniel - The Confessor (V1.0) (Txt).rar
-02-07-2005\Slung, Michele Ed. - Fever--Sensual Stories By Women Writers (V1.0) [Erotica, Htm].rar
+02-07-2005\Slung, Michele Ed. - Fever - Sensual Stories By Women Writers (V1.0) [Erotica, Htm].rar
 02-07-2005\Susan Johnson - Outlaw (Html).rar
 02-07-2005\Suzanne Forster - Loverswept 497 - Private Dancer (V0.9) (Rtf, Jpg).rar
 02-07-2005
@@ -849,8 +849,8 @@
 02-11-2005\Anthology Mckenna, Kauffman, Sheedy - Bad Boys Next Exit (Html).rar
 02-11-2005\Axler, James - Deathlands 62 - Damnation Road Show (V1.0) [Html].rar
 02-11-2005\Elizabeth Young - Asking For Trouble (V2.0) (Html).rar
-02-11-2005\Ellery Queen Mystery Magazine Feb 2005 V4[Html].rar
-02-11-2005\Ellery Queen Mystery Magazine Mar-Apr 2005 V4[Html].rar
+02-11-2005\Ellery Queen Mystery Magazine -  Feb 2005 V4[Html].rar
+02-11-2005\Ellery Queen Mystery Magazin -  Mar&Apr 2005 V4[Html].rar
 02-11-2005\Haiblum, Isidore - [Tom Dunjer 01] - Interworld [V1.0] (Htm).rar
 02-11-2005\I. Johannson, K. Hooper & F. Preston - The Delaney Christmas Carol - (Anthology) (V1.0) (Html).rar
 02-11-2005\J D Robb - Dallas 23 - Survivor In Death V2[Rtf].rar
@@ -881,18 +881,18 @@
 02-13-2005\Medeiros, Teresa - Yours Untl Dawn [Html].rar
 02-13-2005\Nightfall By Charles Stross(Htm).rar
 02-13-2005\Tolkien, J.R.R. - Silmarillion Enlarged Version V1.2 Rtf.rar
-02-13-2005\Williams, Charles-Taliessin Through Loegres(Rtf).rar
-02-13-2005\Zakour, John & Lawrence Ganem - Zach 01 -- Plutonium Blonde V1.1 (Doc).rar
+02-13-2005\Williams, Charles - Taliessin Through Loegres(Rtf).rar
+02-13-2005\Zakour, John & Lawrence Ganem - Zach 01  -  Plutonium Blonde V1.1 (Doc).rar
 02-13-2005
-02-14-2005\Barthes Roland - Mythologies - V.1.0 Html.rar
+02-14-2005\Barthes Roland - Mythologies.rar
 02-14-2005\Debra Doyle & James D. Macdonald - [Mageworlds 04] - The Gathering Flame (V2) [Html].rar
 02-14-2005\Estes Rose - [Greyhawk - Mika Series 01] - Master Wolf (V1) [Rtf, Map].rar
 02-14-2005\Georgette Heyer - These Old Shades (Html).rar
 02-14-2005\Georgette Heyer - These Old Shades(Rtf).rar
-02-14-2005\H.G. Wells- The First Men In The Moon-V1.1-Hhh(Htm).rar
+02-14-2005\H.G. Wells - The First Men In The Moon.rar
 02-14-2005\Iris Johansen - Golden Barbarian[Html].rar
 02-14-2005\Iris Johansen - Long After Midnight[Html].rar
-02-14-2005\Zakour, John & Lawrence Ganem - Zach 02 -- The Doomsday Brunette V1.1 (Doc).rar
+02-14-2005\Zakour, John & Lawrence Ganem - Zach 02  -  The Doomsday Brunette V1.1 (Doc).rar
 02-14-2005\[Palahniuk, Chuck] - Fight Club (V2.1,html).rar
 02-14-2005
 02-15-2005\Angela Knight, Morgan Hawke, Sheri Gilmore - Hard Candy (Anthology) (Lit).rar
@@ -973,7 +973,7 @@
 02-17-2005\Christine Feehan - (Dark 15] - Dark Secret (V2.0) (Html).rar
 02-17-2005\David Drake - [Lord Of The Isles 01] - Lord Of The Isles (Baen) (V5) [Htm, Jpg].rar
 02-17-2005\Georgette Heyer - These Old Shades (V1.0) [Rtf].rar
-02-17-2005\Han Shaogong-A Dictionary Of Maqiao (Doc And Html).rar
+02-17-2005\Han Shaogong - A Dictionary Of Maqiao (Doc And Html).rar
 02-17-2005\I, Robot By Cory Doctorow.(Htm).rar
 02-17-2005\In The Flesh By Ray Vukcevich.(Htm).rar
 02-17-2005\Julia London - Highlander In Disguise V4[Html].rar
@@ -1184,7 +1184,7 @@
 02-24-2005\Lynn Kurland - The Traveller (Doc).rar
 02-24-2005\Lynn Kurland - The Very Thought Of You (Doc).rar
 02-24-2005\Marie Morin - The Djinn (Rtf).rar
-02-24-2005\Michelle M. Pillow -Dragon Lords 4- The Warrior Prince (Rtf).rar
+02-24-2005\Michelle M. Pillow - Dragon Lords 4 - The Warrior Prince (Rtf).rar
 02-24-2005\P C Cast - Goddess By Mistake (Doc).rar
 02-24-2005\Pleasure Of The Heart And Other Stories (Pdf).rar
 02-24-2005\Pope Dudley - Yorke 3 - Galleon V1.1 (Rtf).rar
@@ -1194,8 +1194,8 @@
 02-24-2005\Sue-Ellen Welfonder - Devil In A Kilt (Doc).rar
 02-24-2005\Susan Grace - The Reluctant Witch (Doc).rar
 02-24-2005\Susan Squires - Danelaw (V1.0) (Html).rar
-02-24-2005\Tielle St Clare -[Shadow Of The Dragon 2]- Dragon's Fire (Html).rar
-02-24-2005\Tielle St Clare -[Shadow Of The Dragon 3]- Dragon's Rise (Html).rar
+02-24-2005\Tielle St Clare - [Shadow Of The Dragon 2]- Dragon's Fire (Html).rar
+02-24-2005\Tielle St Clare - [Shadow Of The Dragon 3]- Dragon's Rise (Html).rar
 02-24-2005\Victoria Alexander - The Marriage Lesson (Html).rar
 02-24-2005\Vonda N. Mcintyre - Little Faces (Html).rar
 02-24-2005\Worwood Valerie Ann - The Fragrant Pharmacy (Txt).rar
@@ -1214,7 +1214,7 @@
 02-25-2005\Silvia Hartman - [In Serein 03] - The End Of Dreams [Txt].rar
 02-25-2005\Susan Grant - The Legend Of Banzai Maguier (V1.0) [Html].rar
 02-25-2005\Thomas Ligotti - The Lost Art Of Twilight (V1.0) [Html].rar
-02-25-2005\Tielle St Clare -[Shadow Of The Dragon 1]- Dragon's Kiss(Rtf).rar
+02-25-2005\Tielle St Clare - [Shadow Of The Dragon 1]- Dragon's Kiss(Rtf).rar
 02-25-2005
 02-26-2005\David Zindell - Rfhs 0 - Neverness V1.5 Htm.rar
 02-26-2005\David Zindell - Rfhs 0 - Neverness V1.5 Txt.rar
@@ -1370,7 +1370,7 @@
 03-03-2005\Charteris, Leslie - [The Saint 48] - The Saint And The Templar Treasure[Htm].rar
 03-03-2005\Charteris, Leslie - [The Saint 50] - Salvage For The Saint[Htm].rar
 03-03-2005
-03-04-2005\(Non-Fiction) Elizabeth P. Benson - The Cult Of The Feline [Pdf].rar
+03-04-2005\Elizabeth P. Benson - The Cult Of The Feline [Pdf].rar
 03-04-2005\Alfred Bester - They Dont Make Life Like They Used To (Html).rar
 03-04-2005\Bedwell-Grime, Stephanie - A Pirate's Life (Doc).rar
 03-04-2005\Charmed - 7x11 - Ordinary Witches Transcript (Txt).rar
@@ -1402,7 +1402,7 @@
 03-05-2005\Nye, Jody Lynn - The Growling (Rtf).rar
 03-05-2005\Sandra Brown - The Alibi [Txt].rar
 03-05-2005\Stephen Baxter - Destiny's Children 2 - Exultant (V3.0) (Htm, Jpg).rar
-03-05-2005\Tim Lahaye & Jerry Jenkins - The Rising - V1 (Txt).rar
+03-05-2005\Tim Lahaye & Jerry Jenkins - The Rising.rar
 03-05-2005\Troy Denning - [Forgotten Realms - Empires Trilogy 02] - Dragonwall (V1) [Rtf].rar
 03-05-2005
 03-06-2005\Ballard, J G - Crash (V1.1, Rtf).rar
@@ -1495,7 +1495,7 @@
 03-10-2005\Susan Squires - Body Electric (V1.0) [Html, Covers].rar
 03-10-2005\Tubb, Ec - Dumarest 20 - Web Of Sand (V1.0) (Html).rar
 03-10-2005
-03-11-2005\Bears I Have Met--And Others, By Allen Kelly(Txt).rar
+03-11-2005\Bears I Have Met - And Others, By Allen Kelly(Txt).rar
 03-11-2005\Deborah Simmons - My Lord De Burgh (V1.0) (Html).rar
 03-11-2005\Devine, Thea - No Mercy(Doc).rar
 03-11-2005\John Norman - [Gor 26] - Witness Of Gor (Pdf).rar
@@ -1506,8 +1506,8 @@
 03-11-2005\Roger Zelazny - Permafrost (V1.2) [Htm].rar
 03-11-2005\Shan, Darren - [Cirque Du Freak 12] - Sons Of Destiny (V1.0) (Html).rar
 03-11-2005\Shan, Darren - [Cirque Du Freak 12] - Sons Of Destiny (V1.0) (Lit).rar
-03-11-2005\Worlds Of Star Trek Deep Space Nine--Volume One (Lit).rar
-03-11-2005\Worlds Of Star Trek Deep Space Nine--Volume Two (Lit).rar
+03-11-2005\Star Trek - Worlds Of Star Trek Deep Space Nine-Volume One (Lit).rar
+03-11-2005\Star Trek - Worlds Of Star Trek Deep Space Nine-Volume Two (Lit).rar
 03-11-2005
 03-12-2005\Christie Golden - On Fire's Wings (V1.0) [Html, Covers].rar
 03-12-2005\Georgette Heyer - The Nonesuch (V1.5) [Html, Covers].rar
@@ -1551,7 +1551,7 @@
 03-15-2005\Frasier, Anne - Play Dead(Txt).rar
 03-15-2005\Frasier, Anne - Sleep Tight(Htm).rar
 03-15-2005\Gerald Durrell - The Bafut Beagles [Txt].rar
-03-15-2005\Goldstein, Rebecca-Incompleteness (Godel) Html Doc.rar
+03-15-2005\Goldstein, Rebecca - Incompleteness (Godel) Html Doc.rar
 03-15-2005\Hoag, Tami - Lucky's Lady(Htm).rar
 03-15-2005\James Alan Gardner - [League Of Peoples 01] - Expendable (V3.0) [Htm, Jpg].rar
 03-15-2005\James Alan Gardner - [League Of Peoples 02] - Commitment Hour (V3.0) [Htm, Jpg].rar
@@ -1607,7 +1607,7 @@
 03-17-2005\Catherine Cookson - The Unbaited Trap [Txt].rar
 03-17-2005\Edith Pargiter - A Means Of Grace [Rtf].rar
 03-17-2005\Elizabeth Berg - What We Keep [Txt].rar
-03-17-2005\Hurston, Zora Neale - Jonah's Gourd Vine - [V1.0] (Html,jpg).rar
+03-17-2005\Hurston, Zora Neale - Jonah's Gourd Vine.rar
 03-17-2005\Isabo Kelly - Last Call On Eldora Station [Txt].rar
 03-17-2005\M.M. Kaye - Death In Berlin [Txt].rar
 03-17-2005\Susan Howatch - Cashelmara [Doc].rar
@@ -1702,7 +1702,7 @@
 03-22-2005\Lynn Kurland - Another Chance To Dream (V1.0) (Html).rar
 03-22-2005\Lynn Kurland - From This Moment On (V1.0) (Html).rar
 03-22-2005\Lynn Kurland, Sherrilyn Kenyon, Madeline Hunter, Karen Marie Moning - Tapestry (V1.0) (Html).rar
-03-22-2005\Lynn Kurland-Another Chance To Dream(V2.0)(Html).rar
+03-22-2005\Lynn Kurland - Another Chance To Dream(V2.0)(Html).rar
 03-22-2005\Mark Helprin - A Soldier Of The Great War(Lit).rar
 03-22-2005\Mary Jo Putney - Silk And Secrets (V1.1) (Html).rar
 03-22-2005\Mike Resnick - Second Contact(Lit).rar
@@ -1804,7 +1804,7 @@
 03-28-2005\Mary Jo Putney - Dancing On The Wind (Html)(V1.0).rar
 03-28-2005\Mary Jo Putney - River Of Fire (Html)(V1.0).rar
 03-28-2005\Mary Jo Putney - Shattered Rainbows (Html)(V1.0).rar
-03-28-2005\Nancy A Collins - Avenue X - (V2.0) (Html).rar
+03-28-2005\Nancy A Collins - Avenue X.rar
 03-28-2005\Robins, Denise - Nightingale's Song [Romance](V1.0 Htm).rar
 03-28-2005\Sherrilyn Kenyon - Night Embrace - Deleted Scenes (Html).rar
 03-28-2005\Sherrilyn Kenyon - Seize The Night - Deleted Scenes (Html).rar
@@ -1813,7 +1813,7 @@
 03-28-2005\Steven Barnes - Star Wars - Book 11 - The Cestus Deception (Lit).rar
 03-28-2005\Steven Barnes - Star Wars - Book 11 - The Cestus Deception (Pdf).rar
 03-28-2005\Walling, William & Nemeth, Stephen - [Analog Feb 74] - Earth, Air, Fire And Water (Part I Of Iii)(Htm).rar
-03-28-2005\Wilson,f Paul- Ratman[Rtf].rar
+03-28-2005\Wilson,f Paul - Ratman[Rtf].rar
 03-28-2005
 03-29-2005\Astrid Lindgren - Pippi In The South Seas [Txt].rar
 03-29-2005\Astrid Lindgren - Pippi Longstocking [Txt].rar
@@ -1953,7 +1953,7 @@
 04-01-2005\Anne Mccaffrey - The Kilternan Legacy [Txt].rar
 04-01-2005\Ben Bova - [Privateers 02] - Privateers [Txt, Jpg].rar
 04-01-2005\Browning, Robert - Childe Roland To The Dark Tower Came (Doc).rar
-04-01-2005\Dakota Cassidy -[Wolfmates 2]- What's New Pussycat(Doc).rar
+04-01-2005\Dakota Cassidy - [Wolfmates 2] - What's New Pussycat(Doc).rar
 04-01-2005\David Almond - Skellig (Txt).rar
 04-01-2005\David Bischoff - Hackers [Txt].rar
 04-01-2005\David Drake - Rcn 04 - The Way To Glory( Manuscript Version)(Doc).rar
@@ -1989,12 +1989,12 @@
 04-02-2005\Hooper, Kay - Hunting Fear(Txt).rar
 04-02-2005\Kelly, Carla - Libby's London Merchant[Htm].rar
 04-02-2005\Spindler, Erica - See Jane Die(Txt).rar
-04-02-2005\Star Trek-Sce-47-Creative Couplings, Book One(Lit).rar
-04-02-2005\Star Trek-Sce-48-Creative Couplings, Book Two(Lit).rar
-04-02-2005\Star Trek-Sce-49-Small World(Lit).rar
-04-02-2005\Star Trek-Tng-Iks Gorkon-01(Lit).rar
-04-02-2005\Star Trek-Tng-Iks Gorkon-02(Lit).rar
-04-02-2005\Star Trek-Tng-Iks Gorkon-03(Lit).rar
+04-02-2005\Star Trek - Sce-47-Creative Couplings, Book One(Lit).rar
+04-02-2005\Star Trek - Sce-48-Creative Couplings, Book Two(Lit).rar
+04-02-2005\Star Trek - Sce-49-Small World(Lit).rar
+04-02-2005\Star Trek - Tng-Iks Gorkon-01(Lit).rar
+04-02-2005\Star Trek - Tng-Iks Gorkon-02(Lit).rar
+04-02-2005\Star Trek - Tng-Iks Gorkon-03(Lit).rar
 04-02-2005
 04-03-2005\Alan Dean Foster - The Chronicles Of Riddick (V1.0) (Html).rar
 04-03-2005\Analog - [Feb 95] - The Reference Library & Misc(Htm).rar
@@ -2005,7 +2005,7 @@
 04-03-2005\Cross, Caroline - Husband-Or Enemy(V1.0 Htm) .rar
 04-03-2005\Deighton, Len - Catch A Falling Spy(V1.0)(Html).rar
 04-03-2005\Kerr, Phillip - Gridiron [V1.0] (Htm).rar
-04-03-2005\Mason, Daniel - The Piano Tuner - (V1.0) [Html, Jpg].rar
+04-03-2005\Mason, Daniel - The Piano Tuner.rar
 04-03-2005\Plauger, P. J. - [Analog July 74] - Dark Lantern (V1.0) [Html].rar
 04-03-2005\Tanith Lee - The Man Who Stole The Moon (V1.0) (Html).rar
 04-03-2005\Tanith Lee - Yellow And Red (V1.0) (Html).rar
@@ -2017,15 +2017,15 @@
 04-03-2005
 04-04-2005\Agnew, Denise A. - Night Scream (Htm).rar
 04-04-2005\Alanna Knight - The Gowrie Conspiracy [Txt].rar
-04-04-2005\Alexander Trocchi-Thongs(Lit).rar
-04-04-2005\Andrews, Kathy - Harder Mom Said - Doc.rar
+04-04-2005\Alexander Trocchi - Thongs(Lit).rar
+04-04-2005\Andrews, Kathy - Harder Mom Said.rar
 04-04-2005\Andrews, Sarah - Em Hansen Mystery - Fault Line V2.0 (Htm).rar
 04-04-2005\Andrews, Sarah - Em Hansen Mystery - Fault Line V2.0 (Rtf).rar
 04-04-2005\Annalise - Eye Of The Hawk(Doc).rar
 04-04-2005\Anne Holm - I Am David [Txt].rar
 04-04-2005\Anonymous - The Altar Of Venus(Lit).rar
-04-04-2005\Anonymous-Darling(Lit).rar
-04-04-2005\Anonymous-Pleasures And Follies(Lit).rar
+04-04-2005\Anonymous - Darling(Lit).rar
+04-04-2005\Anonymous - Pleasures And Follies(Lit).rar
 04-04-2005\Black, Susan - Crash In The Wilderness [Txt].rar
 04-04-2005\Chance, Marly - A Wish Away (Doc).rar
 04-04-2005\Clark, Barbara - Sons Of Earth And Wind 1 - Tears-Hawk(Pdf).rar
@@ -2035,7 +2035,7 @@
 04-04-2005\Darrell Bain - A Strange Valley(Lit).rar
 04-04-2005\Derr-Wille, Sherry - Wildcat's Hunger [Pdf].rar
 04-04-2005\Donovan, Nelissa - Branded Hearts (Htm).rar
-04-04-2005\Elizabeth K. Burton-The Ugly Princess(Lit).rar
+04-04-2005\Elizabeth K. Burton - The Ugly Princess(Lit).rar
 04-04-2005\Gerald Hammond - Dirty Dollar [Txt].rar
 04-04-2005\Gloria Oliver - Vassal Of El(Lit).rar
 04-04-2005\Green, Sharon - Wicked Wanderer [Htm].rar
@@ -2045,19 +2045,19 @@
 04-04-2005\Harris - Southern Vamp 02 - Living Dead In Dallas V2.2.Htm.rar
 04-04-2005\Harris - Southern Vamp 03 - Club Dead V2.2.Htm.rar
 04-04-2005\Harris - Southern Vamp 04 - Dead To The World V2.2.Htm.rar
-04-04-2005\J.C. Wilder & Linnea Sinclair-Dream Quest(Lit).rar
+04-04-2005\J.C. Wilder & Linnea Sinclair - Dream Quest(Lit).rar
 04-04-2005\Joan Haste, By H Rider Haggard (Txt).rar
-04-04-2005\Joan Smith-Aurora(Lit).rar
-04-04-2005\Joan Smith-Dame Durden S Daughter(Lit).rar
-04-04-2005\Joan Smith-Lace For Milady(Lit).rar
-04-04-2005\Joan Smith-Perdita(Lit).rar
-04-04-2005\Joan Smith-The Blue Diamond(Lit).rar
+04-04-2005\Joan Smith - Aurora(Lit).rar
+04-04-2005\Joan Smith - Dame Durden S Daughter(Lit).rar
+04-04-2005\Joan Smith - Lace For Milady(Lit).rar
+04-04-2005\Joan Smith - Perdita(Lit).rar
+04-04-2005\Joan Smith - The Blue Diamond(Lit).rar
 04-04-2005\King, Sherri L. - Icarus(Doc).rar
 04-04-2005\Kress, Nancy - Oaths And Miracles (V1.0) [Htm].rar
 04-04-2005\Langan, Ruth - Blood On The Moon (Htm).rar
 04-04-2005\Linda Howard - A Lady Of The West (V1.0) (Html).rar
 04-04-2005\Linda Howard - The Touch Of Fire (V1.0) (Html).rar
-04-04-2005\Lyndi Lamont-Paintingpenelope(Lit).rar
+04-04-2005\Lyndi Lamont - Paintingpenelope(Lit).rar
 04-04-2005\Missy Strom - Laird Of The Eagle(Pdf).rar
 04-04-2005\Murphy - Destroyer 015 - Murder Ward V2.Htm.rar
 04-04-2005\Murphy - Destroyer 016 - Oil Slick V2.Htm.rar
@@ -2104,7 +2104,7 @@
 04-07-2005\Harrison, Harry - [Analog May 72] - A Transatlantic Tunnel, Hurrah! (Part Ii Of Iii) (V1.0) [Html].rar
 04-07-2005\John Scalzi - Old Man's War (V3.0) (Htm, Jpg).rar
 04-07-2005\Norton, Andre - Witch World - The Turning 03 - On Wings Of Magic (V1.0) (Html).rar
-04-07-2005\Spindler,erica -In Silence(Txt).rar
+04-07-2005\Spindler,erica - In Silence(Txt).rar
 04-07-2005\Waldrop, Howard - [Analog May 72] - The Lunchbox (V1.0) [Html].rar
 04-07-2005\Wolff, Isabel - The Trials Of Tiffany Trott (1998) (V1.0, Britchicklit) [Lit].rar
 04-07-2005\[Analog Sep 69] - The Reference Library & Misc (V1.0) [Html].rar
@@ -2306,7 +2306,7 @@
 04-14-2005\Ravyn Wilde - Zylar's Moons 02 - Selven Refuge(Lit).rar
 04-14-2005\Shepard, Lucius - Sports In America (V1.0) [Html].rar
 04-14-2005
-04-15-2005\Allen, Roger Macbride -[The Hunted Earth 02] - The Shattered Sphere (V1.0) [Htm].rar
+04-15-2005\Allen, Roger Macbride - [The Hunted Earth 02] - The Shattered Sphere (V1.0) [Htm].rar
 04-15-2005\Andre Norton - [The Cycle Of Oak, Yew, Ash And Rowan 01] - To The King A Daughter [Html].rar
 04-15-2005\Andre Norton - [The Cycle Of Oak, Yew, Ash And Rowan 02] - Knight Or Knave [Html].rar
 04-15-2005\Andre Norton - [The Cycle Of Oak, Yew, Ash And Rowan 03] - A Crown Disowned [Html].rar
@@ -2431,10 +2431,10 @@
 04-19-2005\Bradley Denton - Blackburn (V3.0) (Htm, Jpg).rar
 04-19-2005\Brandi Michaels - Cajun Sheriff(Lit).rar
 04-19-2005\Carl Sagan - The Cosmic Connection(Lit).rar
-04-19-2005\Cathryn Fox- Liquid Dreams(Lit).rar
+04-19-2005\Cathryn Fox - Liquid Dreams(Lit).rar
 04-19-2005\Deitz, Tom - Bloodwinter (Html).rar
-04-19-2005\Huntford Roland - The Last Place On Earth - Maps.rar
-04-19-2005\Huntford Roland - The Last Place On Earth - Text.rar
+04-19-2005\Huntford Roland - The Last Place On Earth.rar
+04-19-2005\Huntford Roland - The Last Place On Earth.rar
 04-19-2005\Kress, Nancy - Probability Moon (V1.0) [Htm].rar
 04-19-2005\Lacey Alexander - Hot In The City 01 - French Quarter(Lit).rar
 04-19-2005\Michelle M Pillow - All Hollows Eve(Lit).rar
@@ -2509,8 +2509,8 @@
 04-25-2005\Higgins, Jack - Sheba (V1.0) [Html].rar
 04-25-2005\Higgins, Jack - Sheba (V1.0) [Txt].rar
 04-25-2005
-04-26-2005\Arendt, Hanna- The Human Condition (Htm).rar
-04-26-2005\Arendt, Hanna- The Human Condition (Rtf).rar
+04-26-2005\Arendt, Hanna - The Human Condition (Htm).rar
+04-26-2005\Arendt, Hanna - The Human Condition (Rtf).rar
 04-26-2005\Douglas E Winter Run V1.0(Doc).rar
 04-26-2005\Higgins, Jack - Sheba (V1.0) [Pdb].rar
 04-26-2005\Knight, Angela - Jane's Warlord (V 2.1) (Rtf, Jpg).rar
@@ -2836,7 +2836,7 @@
 05-09-2005\Writers Digest.44.10.Writing The Animal Story - Harold F Cruickshank (Pdf).rar
 05-09-2005
 05-10-2005\Hughes, Zach - The Book Of Rack The Healer (V1.0) (Html).rar
-05-10-2005\Laymon, Richard - The Stake - (V1.0) [Html, Jpg].rar
+05-10-2005\Laymon, Richard - The Stake.rar
 05-10-2005\Noon, Jeff - Pollen (Html) (V1.0).rar
 05-10-2005\Silverberg, Robert - Master Of Life And Death (V1.0) [Html].rar
 05-10-2005\Silverberg, Robert - Master Of Life And Death (V1.0) [Rtf].rar
@@ -2894,7 +2894,7 @@
 05-14-2005\Dickson, Gordon R. - The Last Master (V1.0) [Txt].rar
 05-14-2005\Grant, Charles - The X-Files 02 - Whirlwind (V2.0) [Html].rar
 05-14-2005
-05-15-2005\All-Story.20.05.22.Mr Mister - Thomas Thursday (Pdf).rar
+05-15-2005\Mr Mister by Thomas Thursday (Pdf).rar
 05-15-2005\Amanda Quick - Scandal[Html].rar
 05-15-2005\Amy Tan - The Secret Senses [Txt].rar
 05-15-2005\Anthology - Lori Foster, Janelle Denison, Donna Kauffman - I Love Bad Boys (Html).rar
@@ -3105,7 +3105,7 @@
 05-19-2005\Valerie C.J. Mcgee - Insight (Thriller) [Txt].rar
 05-19-2005
 05-20-2005\Anthology - Dark And Dangerous - Anwar, Hart, Harte, Mcbride(Lit).rar
-05-20-2005\Balogh, Mary- No Room At The Inn(Lit).rar
+05-20-2005\Balogh, Mary - No Room At The Inn(Lit).rar
 05-20-2005\Bianchin, Helen - The Wedding Ultimatum (V1.0) (Html).rar
 05-20-2005\Bram Stoker - The Lair Of The White Worm (V1.0) [Rtf].rar
 05-20-2005\Brand, Fiona - Blade's Lady(Lit).rar
@@ -3178,7 +3178,7 @@
 05-21-2005\Coville, Bruce - [6th Grade Alien 08] - Snatched From Earth [With Illus][Htm, Jpg].rar
 05-21-2005\Coville, Bruce - [6th Grade Alien 09] - There's An Alien In My Backpack[Txt, Jpg].rar
 05-21-2005\Coville, Bruce - [6th Grade Alien 09] - There's An Alien In My Backpack[With Illus][Htm, Jpg].rar
-05-21-2005\Joanna Wylde & Lanette Curington - Aphrodite's Touch - [Anthology] (Lit).rar
+05-21-2005\Joanna Wylde & Lanette Curington - Aphrodite's Touch.rar
 05-21-2005\Laurell K Hamilton - [Faerie 4] - A Stroke Of Midnight (V4.2) (Html).rar
 05-21-2005\Mary Balogh - A Christmas Bride (V1.0) (Html).rar
 05-21-2005\Sedaris, David - Naked (V1.0) (Html).rar
@@ -3237,19 +3237,19 @@
 05-22-2005\Lena Austin - [Unicorn Valley 02] Stallion's Heart (Lit).rar
 05-22-2005\Lena Austin - [Unicorn Valley 03] Healer's Heart (Lit).rar
 05-22-2005\Mary Balogh - Daring Masquerade (V1.0) (Html).rar
-05-22-2005\Maryjanice Davidson & Camille Anthony & Melissa Schroeder - Charming The Snake - [Anthology] (Lit).rar
+05-22-2005\Maryjanice Davidson & Camille Anthony & Melissa Schroeder - Charming The Snake.rar
 05-22-2005\Preece, Rob - Merchant Prince Of Arcadia [Htm].rar
 05-22-2005\Quinnell, A.J. - Creasey 01 - Man On Fire (2.0, Html).rar
 05-22-2005\Quinnell, A.J. - Creasey 02 - The Perfect Kill (2.0, Html).rar
 05-22-2005\Quinnell, A.J. - Creasey 03 - The Blue Ring (2.0, Html).rar
 05-22-2005\Quinnell, A.J. - Creasey 04 - Black Horn (2.0, Html).rar
 05-22-2005\Quinnell, A.J. - Creasey 05 - Message From Hell (2.0, Html).rar
-05-22-2005\Rachel Bo & Barbara Karmazin & Stephanie Vaughan - Rated X-Mas - [Anthology] (Lit).rar
+05-22-2005\Rachel Bo & Barbara Karmazin & Stephanie Vaughan - Rated X-Mas.rar
 05-22-2005\Robb, Jd - Eve Dallas 06 - Vengeance In Death(Txt).rar
-05-22-2005\Rosemary Laurey & J C Wilder - Paradox 02 - [Anthology] (Lit).rar
-05-22-2005\Sahara Kelly & Ashleigh Raine & Jaci Burton - Mesmerized - [Anthology] (Lit).rar
-05-22-2005\Shelby Morgen & Stephanie Burke - Threashold - [Anthology] (Lit).rar
-05-22-2005\Shiloh Walker & Camille Anthony & Jennifer Dunne - Hot Spell - [Anthology] (Lit).rar
+05-22-2005\Rosemary Laurey & J C Wilder - Paradox 02.rar
+05-22-2005\Sahara Kelly & Ashleigh Raine & Jaci Burton - Mesmerized.rar
+05-22-2005\Shelby Morgen & Stephanie Burke - Threashold.rar
+05-22-2005\Shiloh Walker & Camille Anthony & Jennifer Dunne - Hot Spell.rar
 05-22-2005\The Forever King - Molly Cochran Warren Murphy(Txt).rar
 05-22-2005
 05-23-2005\Carey, Diane & Gerrold, David - Trials And Tribble-Ations (1996) [Html].rar
@@ -3284,7 +3284,7 @@
 05-23-2005\Lee, Marilyn - Moonlight Madness 01 - Moonlight Madness(Lit).rar
 05-23-2005\Lee, Marilyn - [Bloodlust 00] - Talisman(Lit).rar
 05-23-2005\Lee, Marilyn - [Daughters Of Takira 3] - Revelations(Lit).rar
-05-23-2005\Mary Balogh -Simply Unforgettable (V2.0)(Html).rar
+05-23-2005\Mary Balogh - Simply Unforgettable (V2.0)(Html).rar
 05-23-2005\May Agnes Fleming - The Unseen Bridgegroom(Txt).rar
 05-23-2005\Megan Sybil Baker - Gabriel's Ghost (V1.1) [Html].rar
 05-23-2005\O'clare, Lorie - Sex Slaves 01 - Sex Traders(Lit).rar
@@ -3396,7 +3396,7 @@
 05-27-2005\Kerce, Ruth D. - The Reluctant Stripper (Short Story)(Doc).rar
 05-27-2005\Kerce, Ruth D. - Virgin Seeks Bad Boy (Short Story)(Doc).rar
 05-27-2005\Kerce, Ruth D. - Young Stud (Short Story)(Doc).rar
-05-27-2005\Kerce, Ruth D. -The Corset & The Cowboy (Short Story)(Doc).rar
+05-27-2005\Kerce, Ruth D. - The Corset & The Cowboy (Short Story)(Doc).rar
 05-27-2005\Lackey, Mercedes + Gellis, Roberta - This Sceptered Isle(Htm).rar
 05-27-2005\Lafcadio Hearn - Nightmare-Touch (Pdf).rar
 05-27-2005\Lettice Galbraith - The Trainer's Ghost (Pdf).rar
@@ -3445,13 +3445,13 @@
 05-30-2005\De La Rame, Maria Louisa - A Dog Of Flanders, 1872(V1.0)[Htm].rar
 05-30-2005\De Larrabeitti, Michael - The Golden Goat(V 2.0)[Htm].rar
 05-30-2005\Diana Durbin - Muffled Sounds(V1.0)[Htm].rar
-05-30-2005\Dickson, Gordon R. - Danger--Human(V1.0)[Htm].rar
+05-30-2005\Dickson, Gordon R. - Danger - Human(V1.0)[Htm].rar
 05-30-2005\Dietrich, William - Hadrian's Wall(V1.0)[Htm].rar
 05-30-2005\Doctorow, E. L. - Welcome To Hard Times(V2.0)[Htm].rar
 05-30-2005\Doyle, Sir Arthur Conan - The Greek Interpretor(V1.0)[Htm].rar
 05-30-2005\Dujac, Pascal - Ananda(V1.0)[Htm].rar
 05-30-2005\Eastlake, Amy - Tough Love{Htm].rar
-05-30-2005\Effinger, George Alec -The Aliens Who Knew, I Mean, Everything)V1.0)[Htm] .rar
+05-30-2005\Effinger, George Alec - The Aliens Who Knew, I Mean, Everything)V1.0)[Htm] .rar
 05-30-2005\Ellison, Harlan - At The Mouse Circus(V1.0)[Htm].rar
 05-30-2005\Ellison, Harlan - Partners In Wonder (V1.1)[Htm].rar
 05-30-2005\Erskine, Barbara - Whispers In The Sand(V1.2)[Htm].rar
@@ -3459,8 +3459,8 @@
 05-30-2005\Fay, Tony - Syndrome(V1.0)[Htm].rar
 05-30-2005\Ferguson, Brad - Last Rights(V1.0)[Htm].rar
 05-30-2005\Foley, Gaelen - Lord Of Fire(V1.2)[Htm].rar
-05-30-2005\Grafton, Sue -- A Is For Alibi (V2.1-Rtf-Mnq).rar
-05-30-2005\Knight, Damon -- Tarcan Of The Hoboes (V2.0-Rtf-Mnq) [F&sf 1982-10].rar
+05-30-2005\Grafton, Sue  -  A Is For Alibi (V2.1-Rtf-Mnq).rar
+05-30-2005\Knight, Damon  -  Tarcan Of The Hoboes (V2.0-Rtf-Mnq) [F&sf 1982-10].rar
 05-30-2005\Lackey, Mercedes & Gellis, Roberta - This Scepter'd Isle 01 - This Scepter'd Isle (V5.0 Baen Merged Htm).rar
 05-30-2005\Lackey, Mercedes & Gellis, Roberta - This Scepter'd Isle 02 - Ill Met By Moonlight (V5.0 Baen Merged Htm).rar
 05-30-2005\Margaret Weis & Tracy Hickman - Dragonlance - The Second Generation (V0.9)[Htm].rar
@@ -3559,7 +3559,7 @@ mIRC New Releases 01st & 02nd June 05\Effinger, George Alec - The City On The Sa
 mIRC New Releases 01st & 02nd June 05\Egan, Greg - Mind Vampires(v1.0)[htm].rar
 mIRC New Releases 01st & 02nd June 05\Ellison, Harlan - She's a Young Thing and Cannot Leave Her Mother(v1.0)[htm].rar
 mIRC New Releases 01st & 02nd June 05\Ellison, Harlan - The End of the Time of Leinard(v1.1)[htm].rar
-mIRC New Releases 01st & 02nd June 05\Ellison, Harlan -The Crackpots(v1.0)[htm].rar
+mIRC New Releases 01st & 02nd June 05\Ellison, Harlan - The Crackpots(v1.0)[htm].rar
 mIRC New Releases 01st & 02nd June 05\Fancett, Elizabeth - Someone In The Room(v1.0)[htm].rar
 mIRC New Releases 01st & 02nd June 05\Fantasy 100 - Top 100 Fantasy Books(htm).rar
 mIRC New Releases 01st & 02nd June 05\Fantasy 100 - Top 50 Fantasy Series (Books htm).rar
@@ -3581,7 +3581,7 @@ mIRC New Releases 01st & 02nd June 05\Larry Niven - Flatlander [lit].rar
 mIRC New Releases 01st & 02nd June 05\Len Deiighton - Fighter (txt).rar
 mIRC New Releases 01st & 02nd June 05\Lindsey, Johanna - Once a Princess (rtf).rar
 mIRC New Releases 01st & 02nd June 05\Loretta Chase - Lord of Scoundrels (v1.0) (html).rar
-mIRC New Releases 01st & 02nd June 05\Lumley, Brian - Khai of Khem - V1 htm.rar
+mIRC New Releases 01st & 02nd June 05\Lumley, Brian - Khai of Khem.rar
 mIRC New Releases 01st & 02nd June 05\Mary Higgins Clark - Death At The Cape [txt].rar
 mIRC New Releases 01st & 02nd June 05\Max Allan Collins - Dick Tracy [txt].rar
 mIRC New Releases 01st & 02nd June 05\Meg Cabot - Princess Diaries 6 - Princess in Training(rtf).rar
@@ -3726,7 +3726,7 @@ mIRC New Releases 03rd, 04th & 05th June 05\Tremayne, Peter - Hardy Drew - Let t
 mIRC New Releases 03rd, 04th & 05th June 05\Tubb, E. C. - Best SF of E C Tubb [pdb,prc].rar
 mIRC New Releases 03rd, 04th & 05th June 05\Tubb, E. C. - Dumarest 31 - The Temple of Truth (v1.0) (html).rar
 mIRC New Releases 03rd, 04th & 05th June 05\Verdenius, Angela - Sweet Assasin (htm).rar
-mIRC New Releases 03rd, 04th & 05th June 05\William Burroughs -Cities of the Red Night(doc).rar
+mIRC New Releases 03rd, 04th & 05th June 05\William Burroughs - Cities of the Red Night(doc).rar
 mIRC New Releases 06th & 07th June 05
 mIRC New Releases 06th & 07th June 05\Alan Dean Foster - The Damned 1 - A Call to Arms (v1.1) [html, jpg].rar
 mIRC New Releases 06th & 07th June 05\All Hallows - E - Seven Terror Tales (Bradbury, Straub, Yarbro, more)(v1.0)[htm].rar
@@ -3745,12 +3745,12 @@ mIRC New Releases 06th & 07th June 05\Cris Anson - [EC] - Dance of the Butterfly
 mIRC New Releases 06th & 07th June 05\Douglas Niles - [Forgotten Realms - Druidhome 01] - Prophet of Moonshae (v1) [rtf].rar
 mIRC New Releases 06th & 07th June 05\Effinger, George Alec - Marid Changes His Mind(v1.0)[htm].rar
 mIRC New Releases 06th & 07th June 05\Effinger, George Alec - Slow Slow Burn(v1.0)[htm].rar
-mIRC New Releases 06th & 07th June 05\Effinger, George Alec -The Nick of Time(v1.0)[htm].rar
+mIRC New Releases 06th & 07th June 05\Effinger, George Alec - The Nick of Time(v1.0)[htm].rar
 mIRC New Releases 06th & 07th June 05\Egan, Greg - Scatter My Ashes(v1.0)[htm].rar
 mIRC New Releases 06th & 07th June 05\Elliott, Kate - [Crown of Stars 1] - King's Dragon(v2.0)[htm].rar
 mIRC New Releases 06th & 07th June 05\Ellison, Harlan - Deeper Than the Darkness(v1.0)[htm].rar
 mIRC New Releases 06th & 07th June 05\Ellison, Harlan - Rock God(v1.0)[htm].rar
-mIRC New Releases 06th & 07th June 05\Ellison, Harlan -Darkness Upon the Face of the Deep(v1.0)[htm].rar
+mIRC New Releases 06th & 07th June 05\Ellison, Harlan - Darkness Upon the Face of the Deep(v1.0)[htm].rar
 mIRC New Releases 06th & 07th June 05\Foster, Lori - Too Much Temptation(ver1.1)[htm].rar
 mIRC New Releases 06th & 07th June 05\Futrelle, Jacques - Thinking Machine - The Problem Of Cell 13(v1.0)[htm].rar
 mIRC New Releases 06th & 07th June 05\Gaddis, William - The Recognitions (v1.0)[htm].rar
@@ -3795,10 +3795,10 @@ mIRC New Releases 08th & 09th June 2005\Battlestar Galactica - 02 - The Cylon De
 mIRC New Releases 08th & 09th June 2005\Battlestar Galactica - 03 - Resurrection(lit).rar
 mIRC New Releases 08th & 09th June 2005\Battlestar Galactica - 04 - Rebellion(lit).rar
 mIRC New Releases 08th & 09th June 2005\Battlestar Galactica - 05 - Paradis(lit).rar
-mIRC New Releases 08th & 09th June 2005\Bradbury,_Ray_-_Dark_Carnival_[v1]_[doc].rar
-mIRC New Releases 08th & 09th June 2005\Bradbury,_Ray_-_Dark_Carnival_[v1]_[pdf].rar
-mIRC New Releases 08th & 09th June 2005\Bradbury,_Ray_-_Dark_Carnival_[v1]_[rtf].rar
-mIRC New Releases 08th & 09th June 2005\Bradbury,_Ray_-_Dark_Carnival_[v1]_[txt].rar
+mIRC New Releases 08th & 09th June 2005\Bradbury,_Ray - Dark_Carnival_[v1]_[doc].rar
+mIRC New Releases 08th & 09th June 2005\Bradbury,_Ray - Dark_Carnival_[v1]_[pdf].rar
+mIRC New Releases 08th & 09th June 2005\Bradbury,_Ray - Dark_Carnival_[v1]_[rtf].rar
+mIRC New Releases 08th & 09th June 2005\Bradbury,_Ray - Dark_Carnival_[v1]_[txt].rar
 mIRC New Releases 08th & 09th June 2005\Cain, Brian - Her Last Kiss(v1.)[htm].rar
 mIRC New Releases 08th & 09th June 2005\Child, Maureen - The Last Santini Virgin(v1.0)[htm].rar
 mIRC New Releases 08th & 09th June 2005\Clark, Barbara - [Sons of Earth and Wind 1] - Tears Of The Hawk(v1.0)[htm].rar
@@ -3899,7 +3899,7 @@ mIRC New Releases 10th & 11th June 05\Montgomery, Lucy Maud - Anne's House Of Dr
 mIRC New Releases 10th & 11th June 05\Montgomery, Lucy Maud - Anne's House Of Dreams.rar
 mIRC New Releases 10th & 11th June 05\Mrs. Clara Moreton - Frank and Fanny(txt).rar
 mIRC New Releases 10th & 11th June 05\Muller, Marcia - [19] The Broken Promise Land(v1.0)(html).rar
-mIRC New Releases 10th & 11th June 05\Mystery Novels & SS.40.07.Death Mates for the Lust-Lost (pdf).rar
+mIRC New Releases 10th & 11th June 05\Unknown - Death Mates for the Lust Lost (pdf).rar
 mIRC New Releases 10th & 11th June 05\Nicole Austin - [EC] - Passionate Realities(htm).rar
 mIRC New Releases 10th & 11th June 05\Owen Wilson - Over the Top.29.02.The Rose Marie (pdf).rar
 mIRC New Releases 10th & 11th June 05\Rhyannon Byrd - [Sexy Sweet 1] - Triple Play [EC](htm).rar
@@ -3917,11 +3917,11 @@ mIRC New Releases 10th & 11th June 05\Tracy, PJ - Want to Play (html).rar
 mIRC New Releases 10th & 11th June 05\Tracy, PJ - Want to Play (html0.rar
 mIRC New Releases 10th & 11th June 05\William Merriam Rouse - Argosy - 200327 - Stronger Than Iron.rar
 mIRC New Releases 11th, 12th & 13th June 05
-mIRC New Releases 11th, 12th & 13th June 05\All-Story - 170310 - The Mindoon Maneater by C M Cross (pdf).rar
+mIRC New Releases 11th, 12th & 13th June 05\The Mindoon Maneater by C M Cross (pdf).rar
 mIRC New Releases 11th, 12th & 13th June 05\Anthony, Camille - Light On Her Toes [htm, jpg].zip
 mIRC New Releases 11th, 12th & 13th June 05\Argosy - 200327 - Stronger Than Iron by William Merriam Rouse (pdf).rar
 mIRC New Releases 11th, 12th & 13th June 05\Bradbury, Ray - Dark They Were, and Golden-Eyed (rtf).rar
-mIRC New Releases 11th, 12th & 13th June 05\Camus, Albert- The Just (html).rar
+mIRC New Releases 11th, 12th & 13th June 05\Camus, Albert - The Just (html).rar
 mIRC New Releases 11th, 12th & 13th June 05\Chabon, Michael - The Final Solution (rtf).rar
 mIRC New Releases 11th, 12th & 13th June 05\Christopher Sly - Boiling Point [pdf].rar
 mIRC New Releases 11th, 12th & 13th June 05\Christopher Sly - Hero Nation [pdf].rar
@@ -4072,7 +4072,7 @@ mIRC New Releases 18th & 19th June 05\Jim Butcher - [The Dresden Files 7] - Dead
 mIRC New Releases 18th & 19th June 05\Kathleen Nance - Enchantment (v1.0) (html).rar
 mIRC New Releases 18th & 19th June 05\Lafferty, R. A. - Eurema's Dam (rtf).rar
 mIRC New Releases 18th & 19th June 05\Lee, Tanith - [Claidi Journals 01] - Wolf Tower (v1.0) [html].rar
-mIRC New Releases 18th & 19th June 05\Loeb,_Paul_-_Complete_Book_of_Dog_Training_(txt).zip
+mIRC New Releases 18th & 19th June 05\Loeb,_Paul - Complete_Book_of_Dog_Training_(txt).zip
 mIRC New Releases 18th & 19th June 05\Lone Ranger Magazine - 3708 - The Cave of Terror (pdf).rar
 mIRC New Releases 18th & 19th June 05\Lori Handeland - [Moon 01] - Blue Moon (v1.0) (html).rar
 mIRC New Releases 18th & 19th June 05\Lori Handeland - [Moon 02] - Hunter's Moon (v1.0) (html).rar
@@ -4088,7 +4088,7 @@ mIRC New Releases 18th & 19th June 05\Maxwell, Ann - [Fire Dancer 03] - Dancer's
 mIRC New Releases 18th & 19th June 05\Miss X - The Professional and Other Psychic Stories(htm).rar
 mIRC New Releases 18th & 19th June 05\Richard Bowes - There's a Hole in the City (html).rar
 mIRC New Releases 18th & 19th June 05\Sayers, Dorothy L - [Lord Peter 03] - Unnatural Death (v1,illus)[html].html.rar
-mIRC New Releases 18th & 19th June 05\Six-Gun Western - 5010 - Saul Epstein - Desert Judgement by E Haffmann Price (pdf).rar
+mIRC New Releases 18th & 19th June 05\Desert Judgement by E Haffmann Price (pdf).rar
 mIRC New Releases 18th & 19th June 05\Texas Rangers - 4012 - Jim Hatfield - Lone Star Danger by Jackson Cole (pdf).rar
 mIRC New Releases 18th & 19th June 05\Texas Rangers - 4106 - Jim Hatfield - Lone Star Doom by Jackson Cole (pdf).rar
 mIRC New Releases 18th & 19th June 05\Texas Rangers - 4212 - Jim Hatfield - The Black Hat Riders by Jackson Cole (pdf).rar
@@ -4149,7 +4149,7 @@ mIRC New Releases 23rd, 24th & 25th Jun 05\Dixon, Franklin W. - [Hardy Boys 056]
 mIRC New Releases 23rd, 24th & 25th Jun 05\Donald E. Westlake - Thieves' Dozen [rtf].rar
 mIRC New Releases 23rd, 24th & 25th Jun 05\ed Martin H. Greenberg and John Heifers - Space Stations v3.0 (htm, fbs).rar
 mIRC New Releases 23rd, 24th & 25th Jun 05\elford, george r - devil's guard (v 1.5 html).rar
-mIRC New Releases 23rd, 24th & 25th Jun 05\elizabeth buchan-revenge of the middle-aged woman(v1)(txt).rar
+mIRC New Releases 23rd, 24th & 25th Jun 05\elizabeth buchan - revenge of the middle-aged woman(v1)(txt).rar
 mIRC New Releases 23rd, 24th & 25th Jun 05\Elizabeth Lowell - [Mackenzie-Blackthorn 03] - Outlaw [rtf].rar
 mIRC New Releases 23rd, 24th & 25th Jun 05\ellsberg, daniel - secrets a memoir of vietnam and the pentagon papers (v1.0 html).rar
 mIRC New Releases 23rd, 24th & 25th Jun 05\Elton, Ben - Dead Famous [Ver. 3.0] rtf.rar
@@ -4277,7 +4277,7 @@ mIRC New Releases 28th, 29th & 30th Jun 05\Julie Kenner - The Givenchy Code (htm
 mIRC New Releases 28th, 29th & 30th Jun 05\Julie Kenner - The Givenchy Code (lit).rar
 mIRC New Releases 28th, 29th & 30th Jun 05\Kai Anderson - Tales of Enchantment 02 The Quest (lit).rar
 mIRC New Releases 28th, 29th & 30th Jun 05\Kent, Alexander - Honour This Day(v1.0)[HTML,Covers].rar
-mIRC New Releases 28th, 29th & 30th Jun 05\Krinard,_Susan_-_Kiss_of_the_Wolf_(v2)_[htm].rar
+mIRC New Releases 28th, 29th & 30th Jun 05\Krinard,_Susan - Kiss_of_the_Wolf_(v2)_[htm].rar
 mIRC New Releases 28th, 29th & 30th Jun 05\Larry Niven - [Dream Park 3] - The California Voodoo Game [txt].rar
 mIRC New Releases 28th, 29th & 30th Jun 05\May, Julian - [Boreal Moon 01] - Conqueror's Moon (v1.0) [html].rar
 mIRC New Releases 28th, 29th & 30th Jun 05\May, Julian - [Boreal Moon 01] - Conqueror's Moon (v1.0) [txt].rar
@@ -4304,7 +4304,7 @@ mIRC New Releases 28th, 29th & 30th Jun 05\Sheri Gilmore - Hot House 01 Dante an
 mIRC New Releases 28th, 29th & 30th Jun 05\Sheri Gilmore - Maslow's Needs (lit).rar
 mIRC New Releases 28th, 29th & 30th Jun 05\Shiloh Walker - The Hunters 06 Rafe and Sheila (lit).rar
 mIRC New Releases 28th, 29th & 30th Jun 05\Sir Arthur Conan Doyle - The Jew's Breastplate (pdf).rar
-mIRC New Releases 28th, 29th & 30th Jun 05\Steve_Berry_-_The_Romanov_Prophecy_[lit].rar
+mIRC New Releases 28th, 29th & 30th Jun 05\Steve_Berry - The_Romanov_Prophecy_[lit].rar
 mIRC New Releases 28th, 29th & 30th Jun 05\Vonna Harper - Surrender's Dance (lit).rar
 mIRC New Releases 28th, 29th & 30th Jun 05\William Boyd - The Blue Afternoon (v1.0) [pdb, txt].rar
 mIRC New Releases 28th, 29th & 30th Jun 05\William Gibson - Johnny Mnemonic (v1.3) (RTF).rar
@@ -4384,7 +4384,7 @@ mIRC New Releases 01st, 2nd & 3rd July 2005\Freeman, R Austin - Dr Thorndyke - T
 mIRC New Releases 01st, 2nd & 3rd July 2005\Freeman, R Austin - Dr Thorndyke - When Rogues Fall Out (txt pg).rar
 mIRC New Releases 01st, 2nd & 3rd July 2005\Freeman, R Austin - Dr Thorndyke Short Story Omnibus (txt gif pg).rar
 mIRC New Releases 01st, 2nd & 3rd July 2005\Freeman, R Austin - The Great Portrait Mystery and other stories (txt pg).rar
-mIRC New Releases 01st, 2nd & 3rd July 2005\Freeman,_R_Austin_-_Dr_Thorndyke_-_Mr_Polton_Explains_(txt_pg).rar
+mIRC New Releases 01st, 2nd & 3rd July 2005\Freeman,_R_Austin - Dr_Thorndyke - Mr_Polton_Explains_(txt_pg).rar
 mIRC New Releases 01st, 2nd & 3rd July 2005\Grant, Charles L. - X-Files 2 - Whirlwind v2 [htm].rar
 mIRC New Releases 01st, 2nd & 3rd July 2005\Gray, Muriel - Ancient, The v0.9 [txt].rar
 mIRC New Releases 01st, 2nd & 3rd July 2005\Griffith, George - The Outlaws of the Air (htm).rar
@@ -4460,8 +4460,8 @@ mIRC New Releases 04th & 5th July 05\Evanovich, Janet - [Stephanie Plum 11] - El
 mIRC New Releases 04th & 5th July 05\Handeland, Lori - [Full Moon 03] - Dark Moon (v1.5) (html).rar
 mIRC New Releases 04th & 5th July 05\Hawkins, Karen - Lady in Red (v2.0) [html].rar
 mIRC New Releases 04th & 5th July 05\Irvine, Ian - Well of Echoes 3 - 2003 - Alchymist(txt).rar
-mIRC New Releases 04th & 5th July 05\Jasper Fforde - [Thursday Next #4] - Something Rotten v1.0 - [html].rar
-mIRC New Releases 04th & 5th July 05\Jasper Fforde - [Thursday Next #4] - Something Rotten v1[1].0 - [html].rar
+mIRC New Releases 04th & 5th July 05\Jasper Fforde - [Thursday Next #4] - Something Rotten v1.0.rar
+mIRC New Releases 04th & 5th July 05\Jasper Fforde - [Thursday Next #4] - Something Rotten v1[1].0.rar
 mIRC New Releases 04th & 5th July 05\Jones, Diana Wynne - Howl's Moving Castle [v2.5][html].rar
 mIRC New Releases 04th & 5th July 05\Koontz, Dean - Frankenstein 1 - Prodigal Son(txt).rar
 mIRC New Releases 04th & 5th July 05\Louisa Trent - Some Rough Edge Smoothin' (lit).rar
@@ -4548,7 +4548,7 @@ mIRC New Releases 06th & 07th July 05\Korolenko, Vladimir - Makar's Dream(v1.0)[
 mIRC New Releases 06th & 07th July 05\Korolenko, Vladimir - The Blind Musician(v1.0)[htm].rar
 mIRC New Releases 06th & 07th July 05\Korolenko, Vladimir - The Murmuring Forest(v1.0)[htm].rar
 mIRC New Releases 06th & 07th July 05\Korolenko, Vladimir - The Strange One(v1.0)[htm].rar
-mIRC New Releases 06th & 07th July 05\Korolenko, Vladimir -The River Plays(v1.0)[htm].rar
+mIRC New Releases 06th & 07th July 05\Korolenko, Vladimir - The River Plays(v1.0)[htm].rar
 mIRC New Releases 06th & 07th July 05\Kotzwinkle, William - The Magician(v1.1)[htm].rar
 mIRC New Releases 06th & 07th July 05\Kowalski, Ben - The Word Made Flesh(v1.0)[htm].rar
 mIRC New Releases 06th & 07th July 05\Krapivin, Vladislav - Im Going to Meet My Brother(v1.0)[htm].rar
@@ -4587,7 +4587,7 @@ mIRC New Releases 08th, 09th & 10th July 05
 mIRC New Releases 08th, 09th & 10th July 05\Blue Book - 2604 - Clancy 1 - Clancy, Detective by H Bedford-Jones (pdf).rar
 mIRC New Releases 08th, 09th & 10th July 05\Carlos Ruiz Zafon - The Shadow Of The Wind (v1.0) [pdb, txt].rar
 mIRC New Releases 08th, 09th & 10th July 05\Cleary, Melissa - Dog Mystery 04 - Skull and Dog Bones (v1)[html].rar
-mIRC New Releases 08th, 09th & 10th July 05\Dan Simmons-Olympos(html) v1.rar
+mIRC New Releases 08th, 09th & 10th July 05\Dan Simmons - Olympos(html) v1.rar
 mIRC New Releases 08th, 09th & 10th July 05\Eloisa James - A Wild Pursuit (v1.0) (html).rar
 mIRC New Releases 08th, 09th & 10th July 05\Gail Ranstrom - Wrecker's Cove (html).rar
 mIRC New Releases 08th, 09th & 10th July 05\Garth Nix - Lirael(html) v1.rar
@@ -4728,7 +4728,7 @@ mIRC New Releases 13th & 14th July 05\Brian W. Aldiss - [Helliconia 01] - Hellic
 mIRC New Releases 13th & 14th July 05\Brian W. Aldiss - [Helliconia 01] - Helliconia Spring (v3.0) [lit].rar
 mIRC New Releases 13th & 14th July 05\Clive Cussler - Dp17 Trojan Odyssey(lit).rar
 mIRC New Releases 13th & 14th July 05\Clive Cussler - Dp18 Black Wind(lit).rar
-mIRC New Releases 13th & 14th July 05\Dave Duncan-The Jaguar Knights v1 (html).rar
+mIRC New Releases 13th & 14th July 05\Dave Duncan - The Jaguar Knights v1 (html).rar
 mIRC New Releases 13th & 14th July 05\Destroyer 037 - Bottom Line (UC) [rtf].rar
 mIRC New Releases 13th & 14th July 05\Destroyer 038 - Bay City Blast (UC) [rtf].rar
 mIRC New Releases 13th & 14th July 05\Destroyer 039 - Missing Link (UC) [rtf].rar
@@ -4778,25 +4778,25 @@ mIRC New Releases 13th & 14th July 05\Lumley, Brian - The Whisperer(v1.1)[htm].r
 mIRC New Releases 13th & 14th July 05\Pendleton, Don - The Executioner 008 - Chicago Wipe-Out (v1.0) (html).rar
 mIRC New Releases 13th & 14th July 05\Ray Hammond - Emergence (v1.0) [pdb, txt].rar
 mIRC New Releases 13th & 14th July 05\Robert B Parker - Randall 03 - Shrink Rap(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-Captain's Table-Tales From the Captain's Table(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-SCE-50-Malefictorum(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-SCE-51-Lost Time(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-SCE-52-Identity Crisis(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-SCE-53-Fables of the Prime Directive(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-026-Pawns and Symbols(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-028-Crisis on Centaurus(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-041-The Three-Minute Universe(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-043-The Final Nexus(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-045-Double, Double(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-046-The Cry of the Onlies(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-058-Faces of Fire(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-063-Shell Game(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-068-Firestorm(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-071-Crossroad(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-081-Mudd in Your Eye(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-Errand of Fury-01-Seeds of Rage(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-TOS-Novel-Articles of the Federation(lit).rar
-mIRC New Releases 13th & 14th July 05\Star Trek-VOY-Novel-String Theory-01-Cohesion(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - Captain's Table-Tales From the Captain's Table(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - SCE-50-Malefictorum(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - SCE-51-Lost Time(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - SCE-52-Identity Crisis(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - SCE-53-Fables of the Prime Directive(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-026-Pawns and Symbols(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-028-Crisis on Centaurus(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-041-The Three-Minute Universe(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-043-The Final Nexus(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-045-Double, Double(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-046-The Cry of the Onlies(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-058-Faces of Fire(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-063-Shell Game(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-068-Firestorm(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-071-Crossroad(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-081-Mudd in Your Eye(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-Errand of Fury-01-Seeds of Rage(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - TOS-Novel-Articles of the Federation(lit).rar
+mIRC New Releases 13th & 14th July 05\Star Trek - VOY-Novel-String Theory-01-Cohesion(lit).rar
 mIRC New Releases 13th & 14th July 05\Terrence Strong - Dragonplague (v1.0) [pdb, txt].rar
 mIRC New Releases 13th & 14th July 05\Tim Dorsey - Florida Roadkill (v2.0) [htm, jpg].rar
 mIRC New Releases 13th & 14th July 05\Tim Dorsey - Hammerhead Ranch Motel (v3.0) [htm, jpg].rar
@@ -4835,9 +4835,9 @@ mIRC New Releases 15th & 16th July 05\Sheffield, Charles - the mind pool (html, 
 mIRC New Releases 15th & 16th July 05\Sidney Sheldon - Are You Afraid Of The Dark (HTML).rar
 mIRC New Releases 17th & 18th July 05
 mIRC New Releases 17th & 18th July 05\Agatha Christie - Hercule Poirot - Murder On The Links.rar
-mIRC New Releases 17th & 18th July 05\Alfred Hitchcock Mystery Magazine August 2005 (lit).rar
-mIRC New Releases 17th & 18th July 05\Babylon_- 5 -_The_Passing_of_the_Techno-Mages_2_-_Summoning_Light_[v0.9-doc].rar
-mIRC New Releases 17th & 18th July 05\Babylon_- 5 -_The_Passing_of_the_Techno-Mages_2_-_Summoning_Light_[v0.9-rtf].rar
+mIRC New Releases 17th & 18th July 05\Alfred Hitchcock - Mystery Magazine August 2005 (lit).rar
+mIRC New Releases 17th & 18th July 05\Babylon - The_Passing_of_the_Techno-Mages_2 - Summoning_Light_[v0.9-doc].rar
+mIRC New Releases 17th & 18th July 05\Babylon - The_Passing_of_the_Techno-Mages_2 - Summoning_Light_[v0.9-rtf].rar
 mIRC New Releases 17th & 18th July 05\Bastard Operator From Hell - Simon Travaglia [english] (doc).rar
 mIRC New Releases 17th & 18th July 05\Bonnie Drury - Daughter of The Heart (pdb).rar
 mIRC New Releases 17th & 18th July 05\Briggs, Patricia - Masques (v1.0) (html).rar
@@ -4870,7 +4870,7 @@ mIRC New Releases 17th & 18th July 05\McCaffrey, Anne - [Hugo Winners 1968] - We
 mIRC New Releases 17th & 18th July 05\Michael Ridpath - The Predator (v1.0) [lit, pdb].rar
 mIRC New Releases 17th & 18th July 05\Michael Ridpath - The Predator (v1.0) [txt].rar
 mIRC New Releases 17th & 18th July 05\Niven, Larry - [Hugo Winners 1967] - Neutron Star (v1.0) [html].rar
-mIRC New Releases 17th & 18th July 05\Niven,_Larry_-_Neutron_Star_[doc].rar
+mIRC New Releases 17th & 18th July 05\Niven,_Larry - Neutron_Star_[doc].rar
 mIRC New Releases 17th & 18th July 05\Oriana Fallaci - Insciallah [IT](txt).rar
 mIRC New Releases 17th & 18th July 05\Oriana Fallaci - La forza della ragione [IT](pdf).rar
 mIRC New Releases 17th & 18th July 05\Oriana Fallaci - La rabbia e l'orgoglio - Articolo [IT](pdf).rar
@@ -4879,7 +4879,7 @@ mIRC New Releases 17th & 18th July 05\Rachel Lee - Wildcard (v1.0) html.rar
 mIRC New Releases 17th & 18th July 05\Ray Hammond - Emergence (v1.0) (pdb).rar
 mIRC New Releases 17th & 18th July 05\Sam Colman - This Life [pdb].rar
 mIRC New Releases 17th & 18th July 05\Stephanie Laurens - [Hero, Come Back Anthology - Cynster] - Lost and Found (v1.0) (html).rar
-mIRC New Releases 17th & 18th July 05\Steve_Berry_-_The_Romanov_Prophecy_[Lit].rar
+mIRC New Releases 17th & 18th July 05\Steve_Berry - The_Romanov_Prophecy_[Lit].rar
 mIRC New Releases 17th & 18th July 05\Suzanne Enoch - Stolen Kisses (v1.0) (html).rar
 mIRC New Releases 19th & 20th July 05
 mIRC New Releases 19th & 20th July 05\A. J. Bryant - To Honor the Fallen(txt).rar
@@ -4936,7 +4936,7 @@ mIRC New Releases 19th & 20th July 05\Elizabeth Delisi - Fatal Fortune(txt).rar
 mIRC New Releases 19th & 20th July 05\Ernest J.Gaines - A Gathering Of Old Men (v1.0) [lit].rar
 mIRC New Releases 19th & 20th July 05\Ernest J.Gaines - A Gathering Of Old Men (v1.0) [txt].rar
 mIRC New Releases 19th & 20th July 05\Forstchen, William R - Lost Regiment 01 - Rally Cry (v2.0 html).rar
-mIRC New Releases 19th & 20th July 05\Forstchen,_William_R_-_Lost_Regiment_01_-_Rally_Cry_(v2.0_html).rar
+mIRC New Releases 19th & 20th July 05\Forstchen,_William_R - Lost_Regiment_01 - Rally_Cry_(v2.0_html).rar
 mIRC New Releases 19th & 20th July 05\G. K. Chesterton - Father Brown Omnibus(txt).rar
 mIRC New Releases 19th & 20th July 05\G. W. Thomas & Stephen D. Rogers - Murder by Six(txt).rar
 mIRC New Releases 19th & 20th July 05\Gardner Dozois - Chains of the Sea(txt).rar
@@ -4949,7 +4949,7 @@ mIRC New Releases 19th & 20th July 05\Heinlein, Robert A. - By His Bootstraps (v
 mIRC New Releases 19th & 20th July 05\J. D. Crayne - Corpse in the Abstract [A Lt. Mark Stoddard Mystery](txt).rar
 mIRC New Releases 19th & 20th July 05\J. D. Crayne - Corpse in the Camera [A Lt. Mark Stoddard Mystery](txt).rar
 mIRC New Releases 19th & 20th July 05\J. D. Crayne - Corpse in the Concrete [A Lt. Mark Stoddard Mystery](txt).rar
-mIRC New Releases 19th & 20th July 05\J._K._Rowling_-_Harry_Potter_and_the_Half-Blood_Prince_(2005)_[v3_html].rar
+mIRC New Releases 19th & 20th July 05\J._K._Rowling - Harry_Potter_and_the_Half-Blood_Prince_(2005)_[v3_html].rar
 mIRC New Releases 19th & 20th July 05\James Buchanan - Red Dog(txt).rar
 mIRC New Releases 19th & 20th July 05\James Gunn - Listeners.rar
 mIRC New Releases 19th & 20th July 05\James Y. Bartlett - Death at the Member-Guest [A Hacker Mystery](txt).rar
@@ -4981,8 +4981,8 @@ mIRC New Releases 19th & 20th July 05\Niven, Larry - [Hugo Winners 1967] - Neutr
 mIRC New Releases 19th & 20th July 05\Pendleton, Don - The Executioner 006 - Assault on Soho (v1.0) (html).rar
 mIRC New Releases 19th & 20th July 05\Richard Wilson - Mother to the World.rar
 mIRC New Releases 19th & 20th July 05\Robb, J. D. - [In Death 24] - Origin In Death (v1.0) [rtf].rar
-mIRC New Releases 19th & 20th July 05\Rowling,_J.K._-_[Harry_Potter_06]_-_Harry_Potter_and_the_Half-Blood_Prince_(v2.0)_[doc,_txt,_htm,_lit].rar
-mIRC New Releases 19th & 20th July 05\Rowling,_J._K._-_Harry_Potter_and_the_Half-Blood_Prince_[v3][html].rar
+mIRC New Releases 19th & 20th July 05\Rowling,_J.K. - [Harry_Potter_06] - Harry_Potter_and_the_Half-Blood_Prince_(v2.0)_[doc,_txt,_htm,_lit].rar
+mIRC New Releases 19th & 20th July 05\Rowling,_J._K. - Harry_Potter_and_the_Half-Blood_Prince_[v3][html].rar
 mIRC New Releases 19th & 20th July 05\Simon Clark - The Night Of The Triffids (v1.0) [txt].rar
 mIRC New Releases 19th & 20th July 05\Terry Carr - Dance of the Changer & the 3.rar
 mIRC New Releases 21st & 22nd July 05
@@ -5115,7 +5115,7 @@ mIRC New Releases 21st & 22nd July 05\Michael Bishop - Chihuahua Flats(txt).rar
 mIRC New Releases 21st & 22nd July 05\Michael Bracken - All White Girls(txt).rar
 mIRC New Releases 21st & 22nd July 05\Michael Bracken - Bad Girls(txt).rar
 mIRC New Releases 21st & 22nd July 05\Michael Bracken - Deadly Campaign(txt).rar
-mIRC New Releases 21st & 22nd July 05\Michael Bracken - Tequila Sunrise Hardboiled PI Nathaniel Rose--Bullets, Booze, and Broads(txt).rar
+mIRC New Releases 21st & 22nd July 05\Michael Bracken - Tequila Sunrise Hardboiled PI Nathaniel Rose - Bullets, Booze, and Broads(txt).rar
 mIRC New Releases 21st & 22nd July 05\Michaels, Lissa - Captive Hearts(v1.1)[htm].rar
 mIRC New Releases 21st & 22nd July 05\Michaels, Theresa - Once a Maverick (v1.1)[htm].rar
 mIRC New Releases 21st & 22nd July 05\Michele R. Bardsley - Midnight Intentions(txt).rar
@@ -5220,7 +5220,7 @@ mIRC New Releases 23rd & 24th July 05\Ellen Larson - Unfold the Evil [NJ Mysteri
 mIRC New Releases 23rd & 24th July 05\Evangeline Anderson - The Punishment of Nicolle[html].rar
 mIRC New Releases 23rd & 24th July 05\F. M. Meredith - Bad Tidings [Rocky Bluff P.D. Series Book 2](pdb).rar
 mIRC New Releases 23rd & 24th July 05\F. M. Meredith - Final Respects [Rocky Bluff P.D. Series Book 1](pdb).rar
-mIRC New Releases 23rd & 24th July 05\Frank L. Packard - Alias the Gray Seal The Jimmy Dale Omnibus--The First Two Novels About the Legendary Fin-de-Siecle Gentleman Thief(pdb).rar
+mIRC New Releases 23rd & 24th July 05\Frank L. Packard - Alias the Gray Seal The Jimmy Dale Omnibus - The First Two Novels About the Legendary Fin-de-Siecle Gentleman Thief(pdb).rar
 mIRC New Releases 23rd & 24th July 05\Gerald W. Mills - Fire Owl [Sequel to Then is the Power and The Mudslinger Sanction](pdb).rar
 mIRC New Releases 23rd & 24th July 05\Gerald W. Mills - The Mudslinger Sanction [Sequel to Then is the Power](pdb).rar
 mIRC New Releases 23rd & 24th July 05\Gerald W. Mills - Then is the Power(pdb).rar
@@ -5292,7 +5292,7 @@ mIRC New Releases 23rd & 24th July 05\Richard Prather - Darling, It's Death(pdb)
 mIRC New Releases 23rd & 24th July 05\Richard Prather - Dead Man's Walk(pdb).rar
 mIRC New Releases 23rd & 24th July 05\Richard Prather - Dig That Crazy Grave(pdb).rar
 mIRC New Releases 23rd & 24th July 05\Richard Prather - Everybody Had A Gun(pdb).rar
-mIRC New Releases 23rd & 24th July 05\Richard Prather - Have Gat--Will Travel(pdb).rar
+mIRC New Releases 23rd & 24th July 05\Richard Prather - Have Gat - Will Travel(pdb).rar
 mIRC New Releases 23rd & 24th July 05\Richard Prather - Joker in the Deck(pdb).rar
 mIRC New Releases 23rd & 24th July 05\Richard Prather - Kill Him Twice(pdb).rar
 mIRC New Releases 23rd & 24th July 05\Richard Prather - Kill the Clown(pdb).rar
@@ -5381,13 +5381,13 @@ mIRC New Releases 27th 28th & 29th July 05\Darrell Bain & Jeanine Berry - Worlds
 mIRC New Releases 27th 28th & 29th July 05\Dave Duncan - Impossible Odds v1 (html).rar
 mIRC New Releases 27th 28th & 29th July 05\Dave Duncan - Paragon Lost v1 (html).rar
 mIRC New Releases 27th 28th & 29th July 05\Edmond Hamilton - Captain Future - 42-Sum - The Comet Kings.rar
-mIRC New Releases 27th 28th & 29th July 05\Elizabeth_George_-_A_Suitable_Vengeance_(Txt).rar
-mIRC New Releases 27th 28th & 29th July 05\Elizabeth_George_-_The_Evidence_Exposed_(txt).rar
+mIRC New Releases 27th 28th & 29th July 05\Elizabeth_George - A_Suitable_Vengeance_(Txt).rar
+mIRC New Releases 27th 28th & 29th July 05\Elizabeth_George - The_Evidence_Exposed_(txt).rar
 mIRC New Releases 27th 28th & 29th July 05\Ellery Watson Calder - Tattooed Blonde.rar
 mIRC New Releases 27th 28th & 29th July 05\Ernest J. Gaines - A Gathering Of Old Men(lit).rar
 mIRC New Releases 27th 28th & 29th July 05\F. M. Meredith - Bad Tidings [Rocky Bluff P.D. Series Book 2](TXT).rar
 mIRC New Releases 27th 28th & 29th July 05\F. M. Meredith - Final Respects [Rocky Bluff P.D. Series Book 1](TXT).rar
-mIRC New Releases 27th 28th & 29th July 05\F._M._Meredith_-_Bad_Tidings_[Rocky_Bluff_P.D._Series_Book_2](TXT).rar
+mIRC New Releases 27th 28th & 29th July 05\F._M._Meredith - Bad_Tidings_[Rocky_Bluff_P.D._Series_Book_2](TXT).rar
 mIRC New Releases 27th 28th & 29th July 05\Follett, Ken - Lie Down With Lions (txt).rar
 mIRC New Releases 27th 28th & 29th July 05\Follett, Ken - The Third Twin - revised(txt).rar
 mIRC New Releases 27th 28th & 29th July 05\Hans Hellmut Kirst - The Night of the Generals(lit).rar
@@ -5440,7 +5440,7 @@ mIRC New Releases 27th 28th & 29th July 05\Richard Prather - Darling, It's Death
 mIRC New Releases 27th 28th & 29th July 05\Richard Prather - Dead Man's Walk(TXT).rar
 mIRC New Releases 27th 28th & 29th July 05\Richard Prather - Dig That Crazy Grave(TXT).rar
 mIRC New Releases 27th 28th & 29th July 05\Richard Prather - Everybody Had A Gun(TXT).rar
-mIRC New Releases 27th 28th & 29th July 05\Richard Prather - Have Gat--Will Travel(TXT).rar
+mIRC New Releases 27th 28th & 29th July 05\Richard Prather - Have Gat - Will Travel(TXT).rar
 mIRC New Releases 27th 28th & 29th July 05\Richard Prather - Joker in the Deck(TXT).rar
 mIRC New Releases 27th 28th & 29th July 05\Richard Prather - Kill Him Twice(TXT).rar
 mIRC New Releases 27th 28th & 29th July 05\Richard Prather - Kill the Clown(TXT).rar
@@ -5563,7 +5563,7 @@ mIRC New Releases 29th, 30th & 31st July 05\Rajnar Vajra - His Hands Pass Like C
 mIRC New Releases 29th, 30th & 31st July 05\Rajnar Vajra - Passing the Arboli Test (pdb).rar
 mIRC New Releases 29th, 30th & 31st July 05\Rajnar Vajra - Standing Firm on the Pipette Line (pdb).rar
 mIRC New Releases 29th, 30th & 31st July 05\Robert Asprin & Jody Lynn Nye - [Myth Adventure 14] - MYTH-Taken Identity (v1.0) [rtf].rar
-mIRC New Releases 29th, 30th & 31st July 05\Rowling,_J.K._-_[Harry_Potter_06]_-_Harry_Potter_and_the_Half-Blood_Prince_(v2.0)_[doc,_txt,_htm,_lit].rar
+mIRC New Releases 29th, 30th & 31st July 05\Rowling,_J.K. - [Harry_Potter_06] - Harry_Potter_and_the_Half-Blood_Prince_(v2.0)_[doc,_txt,_htm,_lit].rar
 mIRC New Releases 29th, 30th & 31st July 05\Sharon Kendrick - The Boss's Bought Mistress (html).rar
 mIRC New Releases 29th, 30th & 31st July 05\Simak, Clifford D. - [Hugo Winners 1959] - The Big Front Yard (v1.0) [html].rar
 mIRC New Releases 29th, 30th & 31st July 05\Stephen D. Rogers - A Matter of Interest (pdb).rar
@@ -5911,7 +5911,7 @@ mIRC New Releases 08th, 09th & 10th August 05\Shelby Morgen - [Song Of The Bear 
 mIRC New Releases 08th, 09th & 10th August 05\Sheri Tepper - Beauty v1 (ECS) [htm].rar
 mIRC New Releases 08th, 09th & 10th August 05\Sherrilyn Kenyon - [League 01] - Born Of The Night [rtf].rar
 mIRC New Releases 08th, 09th & 10th August 05\Simon Winchester - The Map That Changed The World, William Smith & The Birth Of Modern Geology [txt].rar
-mIRC New Releases 08th, 09th & 10th August 05\Stasheff, Christopher - Wizard in Rhyme 6 - Haunted Wizard (v1.0 - html).rar
+mIRC New Releases 08th, 09th & 10th August 05\Stasheff, Christopher - Wizard in Rhyme 6 - Haunted Wizard.rar
 mIRC New Releases 08th, 09th & 10th August 05\Steven Callahan - Adrift Seventy-six Days Lost At Sea [txt].rar
 mIRC New Releases 08th, 09th & 10th August 05\Susan Floyd - HSR0890 - One of the Family (v1.0) (html).rar
 mIRC New Releases 08th, 09th & 10th August 05\Suzanne Robinson - Just Before Midnight (v1.0) (html).rar
@@ -5982,7 +5982,7 @@ mIRC New Releases 13th, 14th & 15th August 05\Shea, Michael - Break Point(v1.0)[
 mIRC New Releases 13th, 14th & 15th August 05\Shelby Morgen - All I Want For Christmas(lit).rar
 mIRC New Releases 13th, 14th & 15th August 05\Sherrilyn Kenyon - [League 04] - Fire And Ice (Fully Proofed) [rtf].rar
 mIRC New Releases 13th, 14th & 15th August 05\Simenon, Georges - 98 - Maigret and the Killer MKM(v1, html).rar
-mIRC New Releases 13th, 14th & 15th August 05\Simenon, Georges -101 - Maigret and the Loner MKM(v1,html).rar
+mIRC New Releases 13th, 14th & 15th August 05\Simenon, Georges - 101 - Maigret and the Loner MKM(v1,html).rar
 mIRC New Releases 13th, 14th & 15th August 05\Smilodon - Walking the Dog(lit).rar
 mIRC New Releases 13th, 14th & 15th August 05\Stewart, Mariah - Dead End (html).rar
 mIRC New Releases 13th, 14th & 15th August 05\Stewart, Mariah - Dead Wrong (html).rar
@@ -6015,9 +6015,9 @@ mIRC New Releases 16th, 17th, 18th & 19th August 05\Harry Harrison - The Mothbal
 mIRC New Releases 16th, 17th, 18th & 19th August 05\Isaac Asimov - Thiotimoline to the Stars(htm v1.0).rar
 mIRC New Releases 16th, 17th, 18th & 19th August 05\Jeffery Deaver - shortstory - Beautiful (html).rar
 mIRC New Releases 16th, 17th, 18th & 19th August 05\John Williams Streeter - The Fat of the Land(txt).rar
-mIRC New Releases 16th, 17th, 18th & 19th August 05\Kate Novak & Jeff Grubb -[Forgotten Realms - Finder sStone 01] - Azure Bonds v3[1].5 (rtf,jpg).rar
-mIRC New Releases 16th, 17th, 18th & 19th August 05\Kate Novak & Jeff Grubb -[Forgotten Realms - Finder sStone 03] - Song of the Saurialsv3[1].1 (rtf, jpg).rar
-mIRC New Releases 16th, 17th, 18th & 19th August 05\Kate Novak & Jeff Grubb -[Forgotten Realms - Finder's Stone02] - Wyvern s Spur v4[1].2 (rtf,jpg).rar
+mIRC New Releases 16th, 17th, 18th & 19th August 05\Kate Novak & Jeff Grubb -[Forgotten RealmsFinder sStone 01] - Azure Bonds v3[1].5 (rtf,jpg).rar
+mIRC New Releases 16th, 17th, 18th & 19th August 05\Kate Novak & Jeff Grubb -[Forgotten RealmsFinder sStone 03] - Song of the Saurialsv3[1].1 (rtf, jpg).rar
+mIRC New Releases 16th, 17th, 18th & 19th August 05\Kate Novak & Jeff Grubb -[Forgotten RealmsFinder's Stone02] - Wyvern s Spur v4[1].2 (rtf,jpg).rar
 mIRC New Releases 16th, 17th, 18th & 19th August 05\Konrath, J A - Harry McGlade - Taken to the Cleaners (rtf).rar
 mIRC New Releases 16th, 17th, 18th & 19th August 05\Laser Books 11 - Unto the Last Generation by Juanita Coulson (v1.0) (html).rar
 mIRC New Releases 16th, 17th, 18th & 19th August 05\Laser Books 12 - The King of Eolim by Raymond F Jones (v1.0) (html).rar
@@ -6050,7 +6050,7 @@ mIRC New Releases 16th, 17th, 18th & 19th August 05\Simenon, Georges - 06 - Maig
 mIRC New Releases 16th, 17th, 18th & 19th August 05\Simon R Green - Nightside 02 - Angels of Light and Darkness (v3,html).rar
 mIRC New Releases 16th, 17th, 18th & 19th August 05\Smilodon - Walking the Dog(lit).rar
 mIRC New Releases 16th, 17th, 18th & 19th August 05\Star Trek TOS Visit to a Weird Planet - Spockanalia 3 - Jean Lorrah & Willard F Hunt (txt).rar
-mIRC New Releases 16th, 17th, 18th & 19th August 05\Stasheff, Christopher - Wizard in Rhyme 5 - My Son, the Wizard (v1.0 - html).rar
+mIRC New Releases 16th, 17th, 18th & 19th August 05\Stasheff, Christopher - Wizard in Rhyme 5 - My Son, the Wizard.rar
 mIRC New Releases 16th, 17th, 18th & 19th August 05\Stewart, Mariah - Dead Certain (v1.0) (html).rar
 mIRC New Releases 16th, 17th, 18th & 19th August 05\Stewart, Mariah - Dead Even (v1.0) (html).rar
 mIRC New Releases 16th, 17th, 18th & 19th August 05\Stoke, Bradley - Alice [lit].rar
@@ -6359,7 +6359,7 @@ mIRC New Releases 26th & 27th August 05\Melissa Schroeder - [Bounty Hunters, Inc
 mIRC New Releases 26th & 27th August 05\Oostrom, Steve - Star Trek Athena, 06 Fight or Flight(v1.1)[htm].rar
 mIRC New Releases 26th & 27th August 05\Quick, Amanda - Mistress(v1.1)[htm].rar
 mIRC New Releases 26th & 27th August 05\Radcliffe, Ann - Castles Of Athlin And Dunbayne(v1.1)[htm].rar
-mIRC New Releases 26th & 27th August 05\Rain, Ashley -(EC) [Talisman Bay 1] - Lover's Talisman(v1.1)[htm.rar
+mIRC New Releases 26th & 27th August 05\Rain, Ashley - Lover's Talisman(v1.1)[htm.rar
 mIRC New Releases 26th & 27th August 05\Reardon, Joyce, Ed - The Diary of Ellen Rimbauer; My Life at Rose Red(v1.1)[htm].rar
 mIRC New Releases 26th & 27th August 05\Resnick, Mike - Death is an Acquired Trait(v1.1)[htm].rar
 mIRC New Releases 26th & 27th August 05\Rich, Mary Lou - Mountain Magic(v1.1)[htm].rar
@@ -6396,7 +6396,7 @@ mIRC New Releases 26th & 27th August 05\Star Trek - TNG - Imzadi - by Peter Davi
 mIRC New Releases 26th & 27th August 05\Star Trek SCE 2 - Fatal Error(v1.1)[htm].rar
 mIRC New Releases 26th & 27th August 05\Star Trek SCE 3 - Hard Crash(v1.1)[htm].rar
 mIRC New Releases 26th & 27th August 05\Star Trek SCE 7 - Invincible pt 1 (v1.1)[htm].rar
-mIRC New Releases 26th & 27th August 05\Star Trek- TNG - Imzadi II - by Peter David(v1.1)[htm].rar
+mIRC New Releases 26th & 27th August 05\Star Trek -  TNG - Imzadi II - by Peter David(v1.1)[htm].rar
 mIRC New Releases 26th & 27th August 05\Star Wars - Epi 1 Adv - #2 - The Bartokk Assassins(v1.1)[htm].rar
 mIRC New Releases 26th & 27th August 05\Star Wars - Han Solo Adventures - Episode 2 - Han Solo's Revenge(v2.0)[htm].rar
 mIRC New Releases 26th & 27th August 05\Star Wars - Han Solo Trilogy 1 - Han Solo At Stars End(v1.1)[htm].rar
@@ -6529,11 +6529,11 @@ mIRC New Releases 01st, 02nd, 3rd and 4th September 05\Ted Wood - Fool's Gold [t
 mIRC New Releases 01st, 02nd, 3rd and 4th September 05\Wainscott, Tina - Now You See Me (v1.0) (html).rar
 mIRC New Releases 01st, 02nd, 3rd and 4th September 05\Weber, David - Honor 11 - At All Costs (html, jpg)(v1.0).rar
 mIRC New Releases 04th & 05th September 05
-mIRC New Releases 04th & 05th September 05\10-Detective Stories.4902.Duck Death.Margaret Rice (pdf).rar
-mIRC New Releases 04th & 05th September 05\12 Sports Aces.4001.Star For a Day.Larry Sternig and William C Gault (pdf).rar
-mIRC New Releases 04th & 05th September 05\Adventure.21.01.03.The Vulture - Arthur O Friel (pdf).rar
-mIRC New Releases 04th & 05th September 05\Analog Sci-fi Magazine 2003-06(htm).rar
-mIRC New Releases 04th & 05th September 05\Analog Sci-fi Magazine 2003-07(htm).rar
+mIRC New Releases 04th & 05th September 05\Duck Death by Margaret Rice (pdf).rar
+mIRC New Releases 04th & 05th September 05\Star For a Day by Larry Sternig and William C Gault (pdf).rar
+mIRC New Releases 04th & 05th September 05\The Vulture by Arthur O Friel (pdf).rar
+mIRC New Releases 04th & 05th September 05\Analog Sci-fi Magazine - 2003-06(htm).rar
+mIRC New Releases 04th & 05th September 05\Analog Sci-fi Magazine -  2003-07(htm).rar
 mIRC New Releases 04th & 05th September 05\Anthology - All Hallows Eve - Pillow & Roth[htm].rar
 mIRC New Releases 04th & 05th September 05\Anthology - Aphrodite's Touch - Wylde, Joanna & Curington, Lanette[htm].rar
 mIRC New Releases 04th & 05th September 05\Anthology - Behind the Mask - Joey W Hill, Lacey Alexander, and Elizabeth Lapthorne[htm].rar
@@ -6672,7 +6672,7 @@ mIRC New Releases 08th 09th & 10th September 05\Haggard, H Rider - The Witch's H
 mIRC New Releases 08th 09th & 10th September 05\Higginson, Thomas Wentworth - Ought Women Learn The Alphabet (1859) (htm bm).rar
 mIRC New Releases 08th 09th & 10th September 05\Hobb, Robin - [Soldier Son 01] - Shamans Crossing (v1.0) [rtf].rar
 mIRC New Releases 08th 09th & 10th September 05\Hobb, Robin - [Soldier Son 01] - Shamans Crossing (v1.5) [html].rar
-mIRC New Releases 08th 09th & 10th September 05\Hobb,_Robin_-_[Soldier_Son_01]_-_Shaman's_Crossing_(v2.0)_[html,jpg].rar
+mIRC New Releases 08th 09th & 10th September 05\Hobb,_Robin - [Soldier_Son_01] - Shaman's_Crossing_(v2.0)_[html,jpg].rar
 mIRC New Releases 08th 09th & 10th September 05\Joe Haldeman - Old Twentieth (v3.0) (htm, jpg).rar
 mIRC New Releases 08th 09th & 10th September 05\John Boyd - Rakehells Of Heaven (v1.1) [txt, jpg].rar
 mIRC New Releases 08th 09th & 10th September 05\Karin Slaughter - Faithless (html).rar
@@ -6731,7 +6731,7 @@ mIRC New Releases 11th & 12th September 05\William Dexter - World In Eclipse (V1
 mIRC New Releases 13th September 05
 mIRC New Releases 13th September 05\Axler, James - [Deathlands 35] - Skydark(v1.0)[htm].rar
 mIRC New Releases 13th September 05\Gardner, Darlene - Snoops in the City (v 1.0 html).rar
-mIRC New Releases 13th September 05\Garth Nix -Sabriel v1 (html).rar
+mIRC New Releases 13th September 05\Garth Nix - Sabriel v1 (html).rar
 mIRC New Releases 13th September 05\King, Stephen - Nightmares And Dreamscapes -Suffer the Little Children(v1.1)[htm].rar
 mIRC New Releases 13th September 05\Lindholm, Megan - Wizard of the Pigeons (v2.0) [htm].rar
 mIRC New Releases 13th September 05\Loewen, James W. - Lies My Teacher Told Me[htm][no illus.].rar
@@ -6823,10 +6823,10 @@ mIRC New Releases 14th, 15th & 16th September 05\Laura Joh Rowland - Sano Ichiro
 mIRC New Releases 14th, 15th & 16th September 05\Laura Joh Rowland - Sano Ichiro 06 - Black Lotus(lit).rar
 mIRC New Releases 14th, 15th & 16th September 05\Laura Joh Rowland - Sano Ichiro 07 - Pillow Book of Lady Wisteria(lit).rar
 mIRC New Releases 14th, 15th & 16th September 05\Laura Joh Rowland - Sano Ichiro 08 - Dragon King's Palace(lit).rar
-mIRC New Releases 14th, 15th & 16th September 05\MAY,_Julian_-_[Exiles_01]_-_The_Many_Colored_Land_V2.0._[html].rar
+mIRC New Releases 14th, 15th & 16th September 05\MAY,_Julian - [Exiles_01] - The_Many_Colored_Land_V2.0._[html].rar
 mIRC New Releases 14th, 15th & 16th September 05\Mitchell Smith - Moonrise(lit).rar
 mIRC New Releases 14th, 15th & 16th September 05\OShea, Patty - [2176 Book 4] - Power of Two (v1.0) (html).rar
-mIRC New Releases 14th, 15th & 16th September 05\Paolini, Christopher - [Inheritance 02] - Eldest - with Maps - (v1.9) [html, jpg].rar
+mIRC New Releases 14th, 15th & 16th September 05\Paolini, Christopher - [Inheritance 02] - Eldest.rar
 mIRC New Releases 14th, 15th & 16th September 05\Robb, J D - In Death 22 - Visions in Death 3.0.html.rar
 mIRC New Releases 14th, 15th & 16th September 05\Rowland, Laura Joh - Sano Ichiro Samurai 09 - The Perfumed Sleeve (v1,utf-8,html).rar
 mIRC New Releases 14th, 15th & 16th September 05\Rowland, Laura Joh - Sano Ichiro Samurai 10 - The Assassin's Touch S1S(v1,utf-8,html).rar
@@ -7115,7 +7115,7 @@ mIRC New Releases 23rd, 24th & 25th September 05\Arthur, Keri - 4 - Kiss the Nig
 mIRC New Releases 23rd, 24th & 25th September 05\Asimov, Isaac - Azazel(rtf)(ssc).rar
 mIRC New Releases 23rd, 24th & 25th September 05\Bone, J. F. - Laser Books 18 - Legacy (v1.0) (html).rar
 mIRC New Releases 23rd, 24th & 25th September 05\Boyett-Compo, Charlotte - Passions Mistral (pdf).rar
-mIRC New Releases 23rd, 24th & 25th September 05\Bradley,_Marion_Zimmer_-_Darkover_Planet_Savers_And_Waterfall_ELF_(v1)_[html].zip
+mIRC New Releases 23rd, 24th & 25th September 05\Bradley,_Marion_Zimmer - Darkover_Planet_Savers_And_Waterfall_ELF_(v1)_[html].zip
 mIRC New Releases 23rd, 24th & 25th September 05\Cameron, Claire - The Silkies Woman (lit).rar
 mIRC New Releases 23rd, 24th & 25th September 05\Chater, Elizabeth - The Marriage Mart (v1.1) [doc].rar
 mIRC New Releases 23rd, 24th & 25th September 05\Cherry Adair - [T-FLAC 6] - Hot Ice (v1.0) (html).rar
@@ -7331,7 +7331,7 @@ mIRC New Releases 26th & 27th September 05\Wu, William F. - Asimov's Robots in T
 mIRC New Releases 26th & 27th September 05\Wu, William F. - Asimov's Robots in Time 04 - Dictator (txt).rar
 mIRC New Releases 26th & 27th September 05\Wu, William F. - Asimov's Robots in Time 05 - Emperor (txt).rar
 mIRC New Releases 26th & 27th September 05\Wu, William F. - Asimov's Robots in Time 06 - Invader (txt).rar
-mIRC New Releases 26th & 27th September 05\Wu, William F.- Asimov's Robots in Time 03 - Warrior (txt).rar
+mIRC New Releases 26th & 27th September 05\Wu, William F. - Warrior (txt).rar
 mIRC New Releases 26th & 27th September 05\Wurts, Janny - 7 - Pass of Orlan (txt).rar
 mIRC New Releases 26th & 27th September 05\Wurts, Janny - The Cycle of Fire 1 - Stormwarden (txt).rar
 mIRC New Releases 26th & 27th September 05\Wurts, Janny - The Cycle of Fire 3 - Shadowfane (txt).rar
@@ -7339,7 +7339,7 @@ mIRC New Releases 26th & 27th September 05\Wurts, Janny - The Wars of Light And 
 mIRC New Releases 26th & 27th September 05\Wutka, Mark - Java Expert Solutions (txt).rar
 mIRC New Releases 26th & 27th September 05\Wylde, Joanna - Survival's Price (txt).rar
 mIRC New Releases 26th & 27th September 05\Wyndham, John - More Spinned Against (txt).rar
-mIRC New Releases 26th & 27th September 05\Wyndham, John - The Seeds of Time - Anthology (txt).rar
+mIRC New Releases 26th & 27th September 05\Wyndham, John - The Seeds of Time.rar
 mIRC New Releases 26th & 27th September 05\Wynn, Patricia - Capturing Annie (txt).rar
 mIRC New Releases 26th & 27th September 05\Xenophon - The Cavalry General (txt).rar
 mIRC New Releases 28th September 05
@@ -7404,7 +7404,7 @@ mIRC New Releases 28th September 05\William F. Wu - Asimov's Robot City 3 - Cybo
 mIRC New Releases 28th September 05\William F. Wu - Asimov's Robot City 6 - Perihelion(htm).rar
 mIRC New Releases 28th September 05\Wilson Baker, Karle - The Garden of the Plynck(txt).rar
 mIRC New Releases 29th & 30th September 05
-mIRC New Releases 29th & 30th September 05\Brunner, John -- All Under Heaven (Asimov's 1995-12mid)(htm).rar
+mIRC New Releases 29th & 30th September 05\Brunner, John  -  All Under Heaven (Asimov's 1995-12mid)(htm).rar
 mIRC New Releases 29th & 30th September 05\Bryce Courtenay - The Potato Factory (V1.0) HTM.rar
 mIRC New Releases 29th & 30th September 05\Donaldson, Stephen R - Land 1 - Lord Foul's Bane(txt).rar
 mIRC New Releases 29th & 30th September 05\Donaldson, Stephen R - Land 2 - The Illearth War(txt).rar
@@ -7563,7 +7563,7 @@ mIRC New Releases 05th & 06th October 05\Monk, Karyn - The Rose and the Warrior 
 mIRC New Releases 05th & 06th October 05\Paulo Coelho - The Devil And Miss Prym [txt].rar
 mIRC New Releases 05th & 06th October 05\Pieter Pieterse - The Misty Mountain [txt].rar
 mIRC New Releases 05th & 06th October 05\Preston, Richard - The Hot Zone (v1.5) [txt].rar
-mIRC New Releases 05th & 06th October 05\Preston,_Richard_-_The_Cobra_Event_v3.0_(rtf).zip
+mIRC New Releases 05th & 06th October 05\Preston,_Richard - The_Cobra_Event_v3.0_(rtf).zip
 mIRC New Releases 05th & 06th October 05\Ray Charles & David Ritz - Brother Ray [txt].rar
 mIRC New Releases 05th & 06th October 05\Richard Preston - The Cobra Event (V3.0) [Html].rar
 mIRC New Releases 05th & 06th October 05\Robert Thurston - Robots And Aliens 3 - Intruder(htm).rar
@@ -7612,11 +7612,11 @@ mIRC New Releases 07th & 08th October 05\Ambrose, Stephen - The Victors (v1.0).r
 mIRC New Releases 07th & 08th October 05\Ambrose, Stephen - The Wild Blue - The Men and Boys Who Flew The B24s Over Germany 1944-45 (v1)(htm)(cover).rar
 mIRC New Releases 07th & 08th October 05\Ambrose, Stephen - The Wild Blue.rar
 mIRC New Releases 07th & 08th October 05\Anderson, Kevin J. - Music Played on the Strings of Time (v2.0) [rtf].rar
-mIRC New Releases 07th & 08th October 05\Asatru in Outline - by Saexa(v1.0)[htm].rar
+mIRC New Releases 07th & 08th October 05\Asatru in Outline by Saexa(v1.0)[htm].rar
 mIRC New Releases 07th & 08th October 05\Ashley, Amanda, Sherrilyn Kenyon, Maggie Shayne, Ronda Thompson - Midnight Pleasures (v1.0)[htm].rar
-mIRC New Releases 07th & 08th October 05\Asimov, Isaac - The Complete Stories - volume 1(v1.1)[htm].rar
+mIRC New Releases 07th & 08th October 05\Asimov, Isaac - The Complete Stories.rar
 mIRC New Releases 07th & 08th October 05\Benford, Gregory - Doing Lennon (v2.0) [rtf].rar
-mIRC New Releases 07th & 08th October 05\Bisson, Terry - 10.07.24(v1.1)[htm].rar
+mIRC New Releases 07th & 08th October 05\Bisson, Terry - 10.07.24 (v1.1)[htm].rar
 mIRC New Releases 07th & 08th October 05\Bisson, Terry - Necronauts (v2.0) [rtf].rar
 mIRC New Releases 07th & 08th October 05\Blassingame, Wyatt - The Man Who Could Not Die(v1.1)[htm].rar
 mIRC New Releases 07th & 08th October 05\Boyett-Compo, Charlotte - Secrets of the Wind(v1.1)[htm].rar
@@ -7701,8 +7701,8 @@ mIRC New Releases 07th & 08th October 05\Wright.Charles - Oranges and Lemmings-E
 mIRC New Releases 09th & 10th October 05
 mIRC New Releases 09th & 10th October 05\Alan Dean Foster - Flinx and Pip Story 1 - Snake Eyes (SS) (v1.1) [htm].rar
 mIRC New Releases 09th & 10th October 05\Alan Dean Foster - Flinx and Pip Story 2 - Sideshow (SS) (v1.1) [htm].rar
-mIRC New Releases 09th & 10th October 05\Ash,_Sarah_-_[Tears_of_Artamon_1]_-_Lord_of_Snow_and_Shadows(v.9)(rtf).rar
-mIRC New Releases 09th & 10th October 05\Ash,_Sarah_-_[Tears_of_Artamon_2]_-_Prisoner_of_the_Iron_Tower_(v.9)_[html].rar
+mIRC New Releases 09th & 10th October 05\Ash,_Sarah - [Tears_of_Artamon_1] - Lord_of_Snow_and_Shadows(v.9)(rtf).rar
+mIRC New Releases 09th & 10th October 05\Ash,_Sarah - [Tears_of_Artamon_2] - Prisoner_of_the_Iron_Tower_(v.9)_[html].rar
 mIRC New Releases 09th & 10th October 05\Bloch, Robert - Beelzebub (v1.0) (html).rar
 mIRC New Releases 09th & 10th October 05\Chabon, Michael - The Amazing Adventures Of Kavalier & Clay(rtf).rar
 mIRC New Releases 09th & 10th October 05\Chris Bunch & Allan Cole - Sten 4 - Fleet of the Damned (v1.1) [html, jpg].rar
@@ -7884,12 +7884,12 @@ mIRC New Releases 13th & 14th October 05\Ellis, Lyn - Tall, dark and reckless (l
 mIRC New Releases 13th & 14th October 05\Eric Zency - Panama [rtf, jpg].rar
 mIRC New Releases 13th & 14th October 05\Exciting Navy Stories.43win.Fighting Yank.Syl MacDowell (pdf).rar
 mIRC New Releases 13th & 14th October 05\Fey, Kara - [House Of Moons 3] - The Slave (lit).rar
-mIRC New Releases 13th & 14th October 05\Gabaldon,_Diana_-_(Outlander_02)_-_Dragonfly_In_Amber_(v1.1) [html].rar
+mIRC New Releases 13th & 14th October 05\Gabaldon,_Diana - (Outlander_02) - Dragonfly_In_Amber_(v1.1) [html].rar
 mIRC New Releases 13th & 14th October 05\Gabriel, Reese - Nyte's Fall (pdf).rar
 mIRC New Releases 13th & 14th October 05\Gail Faulkner - Slip Knot [EC] (pdf).rar
 mIRC New Releases 13th & 14th October 05\Geralyn Dawson - Her Bodyguard (v1.0) (html).rar
-mIRC New Releases 13th & 14th October 05\Gerritsen,_Tess_-_Bloodstream_(Html)(E-Book).zip
-mIRC New Releases 13th & 14th October 05\Gerritsen,_Tess_-_Blood_Rush_(txt).rar
+mIRC New Releases 13th & 14th October 05\Gerritsen,_Tess - Bloodstream_(Html)(E-Book).zip
+mIRC New Releases 13th & 14th October 05\Gerritsen,_Tess - Blood_Rush_(txt).rar
 mIRC New Releases 13th & 14th October 05\Gilmore, Sheri - Eye for an Eye [LooseID] (pdf).rar
 mIRC New Releases 13th & 14th October 05\Gilmour, H.B. - Twitches 1 - Power of Two (v1.0) [rtf].rar
 mIRC New Releases 13th & 14th October 05\Gilmour, H.B. - Twitches 2 - Building a Mystery (v1.0) [rtf].rar
@@ -7929,7 +7929,7 @@ mIRC New Releases 13th & 14th October 05\Laura Burns - Roswell - Quarantine(txt)
 mIRC New Releases 13th & 14th October 05\Lindsay, Jeff - Dearly Devoted Dexter (Dexter 02)[htm].rar
 mIRC New Releases 13th & 14th October 05\Lindsay, Jeff - DearlyDevotedDexter[htm].rar
 mIRC New Releases 13th & 14th October 05\Lindsay,Jeff - Darkly Dreaming Dexter (Dexter 01)[htm].rar
-mIRC New Releases 13th & 14th October 05\Lindsay,Jeff-DarklyDreamingDexter[htm].rar
+mIRC New Releases 13th & 14th October 05\Lindsay,Jeff - Darkly Dreaming Dexter[htm].rar
 mIRC New Releases 13th & 14th October 05\Lorie O'Clare - Embracing Temptation [EC] (pdf).rar
 mIRC New Releases 13th & 14th October 05\M.Blazer,S.Kelley, D.Devlin,N.Soarde,K.Douglas,A.Hart - Ellora's Caveman Legendary Tails III (pdf).rar
 mIRC New Releases 13th & 14th October 05\Mariah Stewart - Heard Truth (html).rar
@@ -8013,7 +8013,7 @@ mIRC New Releases 15th, 16th & 17th October 05\James, P. D. - The Murder Room[tx
 mIRC New Releases 15th, 16th & 17th October 05\Jordan, Robert - Wheel of Time 11 - Knife of Dreams (with lines joined) (v1.1) [txt].rar
 mIRC New Releases 15th, 16th & 17th October 05\Jordan, Robert - [Wheel of Time 11] - Knife of Dreams (v1.0) [pdb].rar
 mIRC New Releases 15th, 16th & 17th October 05\Jordan, Robert - [Wheel of Time 11] - Knife of Dreams (v1.0) [txt].rar
-mIRC New Releases 15th, 16th & 17th October 05\max collins -dark angel-after the dark(txt).rar
+mIRC New Releases 15th, 16th & 17th October 05\max collins - dark angel-after the dark(txt).rar
 mIRC New Releases 15th, 16th & 17th October 05\McDonald, Ian - Tendeleo's Story(rtf).rar
 mIRC New Releases 15th, 16th & 17th October 05\Miller, Steve & Lee, Sharon - Liaden Universe 1 - Conflict of Honors (v1.5) (html).rar
 mIRC New Releases 15th, 16th & 17th October 05\Niven, Larry - Crashlander (v3.0)[rtf].rar
@@ -8027,7 +8027,7 @@ mIRC New Releases 15th, 16th & 17th October 05\SlhDesir1430 - Mr. Temptation - L
 mIRC New Releases 15th, 16th & 17th October 05\Star Wars - Dark Nest I - The Joiner King - Troy Denning (v1) [rtf].rar
 mIRC New Releases 15th, 16th & 17th October 05\Tim Dorsey - Triggerfish Twist (v3.0) (htm, jpg).rar
 mIRC New Releases 18th & 19th October 05
-mIRC New Releases 18th & 19th October 05\(new09-28) Star Trek-Strange New Worlds 8(lit).rar
+mIRC New Releases 18th & 19th October 05\Star Trek - Strange New Worlds 8(lit).rar
 mIRC New Releases 18th & 19th October 05\Alten, Steve - Domain (v2.0 txt).rar
 mIRC New Releases 18th & 19th October 05\Amber Carlton - Stealing A Bit Of Heaven (LiquidSilver) [pdf].rar
 mIRC New Releases 18th & 19th October 05\Anthony, Piers & Hall, Frances - Pretender (v3.0 txt).rar
@@ -8076,7 +8076,7 @@ mIRC New Releases 18th & 19th October 05\Pillow, Michelle M. - Taming Him (EC) (
 mIRC New Releases 18th & 19th October 05\Raymond E. Feist - [Darkover 1] - Flight of the Nighthawks (pdf).rar
 mIRC New Releases 18th & 19th October 05\Robert Jordan - [WOT 11] - Knife of Dreams (v1.5) [html].rar
 mIRC New Releases 18th & 19th October 05\Robert Jordan - [WOT 11] - Knife of Dreams (v1.5) [txt].rar
-mIRC New Releases 18th & 19th October 05\robyn tallis-planet builders 1-mountain of stolen dreams(htm).rar
+mIRC New Releases 18th & 19th October 05\robyn tallis - planet builders 1 - mountain of stolen dreams(htm).rar
 mIRC New Releases 18th & 19th October 05\Simpson, Ginger - Red Sash (pdf).rar
 mIRC New Releases 18th & 19th October 05\Sourna, Neele - Steves Paw (lit).rar
 mIRC New Releases 18th & 19th October 05\Stackpole, Michael A. - [MechWarrior-DarkAge-01] Ghost War [htm,F].rar
@@ -8146,7 +8146,7 @@ mIRC New Releases 01st & 02nd October 05\Cook, Robin - Marker V2.0 (htm).rar
 mIRC New Releases 01st & 02nd October 05\Croly, Herbert David - The Promise of American Life (htm).rar
 mIRC New Releases 01st & 02nd October 05\E. T. A. Hoffmann - The Deserted House (pdf) .rar
 mIRC New Releases 01st & 02nd October 05\G. Peyton Wertenbaker - The Man From the Atom(htm).rar
-mIRC New Releases 01st & 02nd October 05\GARTH NIX- Across The Wall v1 (html).rar
+mIRC New Releases 01st & 02nd October 05\GARTH NIX - Across The Wall v1 (html).rar
 mIRC New Releases 01st & 02nd October 05\Georgette Heyer - April Lady v2.0 (htm).rar
 mIRC New Releases 01st & 02nd October 05\Georgette Heyer - Beauvallet v2.0 (htm).rar
 mIRC New Releases 01st & 02nd October 05\Georgette Heyer - Charity Girl v2.0 (htm).rar
@@ -8183,7 +8183,7 @@ mIRC New Releases 01st & 02nd October 05\Monet, Rae - Gabe's Prize (lit).rar
 mIRC New Releases 01st & 02nd October 05\Nancy Friday - My Secret Garden [txt].rar
 mIRC New Releases 01st & 02nd October 05\Nathaniel Hawthorne - An Old Woman's Tale (pdf) .rar
 mIRC New Releases 01st & 02nd October 05\Orson Scott Card - Women of Genesis - Rebekah (v1.0) (html).rar
-mIRC New Releases 01st & 02nd October 05\Preston,_Richard_-_The_Demon_In_The_Freezer_(doc).zip
+mIRC New Releases 01st & 02nd October 05\Preston,_Richard - The_Demon_In_The_Freezer_(doc).zip
 mIRC New Releases 01st & 02nd October 05\Raine, Ashleigh - Magic in the Works (doc) .rar
 mIRC New Releases 01st & 02nd October 05\Rimmer, Christine - The Bravo millionaire (lit).rar
 mIRC New Releases 01st & 02nd October 05\Rimmer, Christine - The marriage conspiracy (lit).rar
@@ -8252,7 +8252,7 @@ mIRC New Releases 20th & 21st October 05\Robert Jordan - The Wheel of Time 09 - 
 mIRC New Releases 20th & 21st October 05\Robert Jordan - The Wheel of Time 10 - Crossroads Of Twilight v6.5 [html].rar
 mIRC New Releases 20th & 21st October 05\Susan Elizabeth Phillips - First Lady (html).rar
 mIRC New Releases 20th & 21st October 05\Terry Brooks - [High Druid of Shannara 3] - Straken - (v1)[html].rar
-mIRC New Releases 20th & 21st October 05\William_Gibson_-_Pattern_Recognition_(V1)_Covers.rar
+mIRC New Releases 20th & 21st October 05\William_Gibson - Pattern_Recognition_(V1)_Covers.rar
 mIRC New Releases 20th & 21st October 05\World of Darkness - Werewolf 01 - Wyrm Wolf by Edo van Belkom (v1.2) (html).rar
 mIRC New Releases 22nd October 05
 mIRC New Releases 22nd October 05\Abnett, Dan - [Warhammer-Gaunt's Ghosts 01] - First and Only(v1.0)[htm].rar
@@ -8329,7 +8329,7 @@ mIRC New Releases 22nd October 05\Smith, Barbara Dawson - The Wedding Night (V1.
 mIRC New Releases 22nd October 05\Smith, Barbara Dawson - With All My Heart (V1.0)[txt].rar
 mIRC New Releases 22nd October 05\Steinbeck, John - Of Mice And Men(v1.1)[htm].rar
 mIRC New Releases 22nd October 05\Stratton, Brad - Colored Waters(v1.1)[htm].rar
-mIRC New Releases 22nd October 05\Westlake, Donald -Thieves' Dozen-(V1.2)-(ssc-rtf).rar
+mIRC New Releases 22nd October 05\Westlake, Donald - Thieves' Dozen.rar
 mIRC New Releases 22nd October 05\Wilson, Gayle - Harlequin - Her Dearest Sin (V1.0)[txt].rar
 mIRC New Releases 23rd & 24th October 05
 mIRC New Releases 23rd & 24th October 05\Bernard, Robert - The Hangman's Beautiful Daughter (v1.0) [html].rar
@@ -8384,7 +8384,7 @@ mIRC New Releases 25th & 26th October 05\Harry Adam Knight - The Fungus [html].r
 mIRC New Releases 25th & 26th October 05\Havlir, Beverly - Taming Alex (pdf) (Ellora).rar
 mIRC New Releases 25th & 26th October 05\Haycox, Ernest - (ssc)Prairie Guns(v1.1)[htm].rar
 mIRC New Releases 25th & 26th October 05\Heinlein, Robert A - The Past Through Tomorrow (v2.0) (html).rar
-mIRC New Releases 25th & 26th October 05\Huston, Charlie- CaughtStealing[html].rar
+mIRC New Releases 25th & 26th October 05\Huston, Charlie - Caught Stealing.rar
 mIRC New Releases 25th & 26th October 05\Jeff Duntemann - Inevitability Sphere (html).rar
 mIRC New Releases 25th & 26th October 05\Jeff Duntemann - Silicon Psalm (PDF).rar
 mIRC New Releases 25th & 26th October 05\Jeff Duntemann - STORMY Versus the Tornadoes (html).rar
@@ -8443,7 +8443,7 @@ mIRC New Releases 25th & 26th October 05\Trevanian - Hot Night In The City (SSC)
 mIRC New Releases 25th & 26th October 05\Vivi Anna - Hungry Like The Wolf [lit].rar
 mIRC New Releases 25th & 26th October 05\Vonna Harper & Others - Anthology - Storm Warnings (pdf) (Ellora).rar
 mIRC New Releases 25th & 26th October 05\Wallace, David Foster - Infinite Jest (v2.1)[htm].rar
-mIRC New Releases 25th & 26th October 05\Wright, Elizabeth - Exposed - [EC] (lit).rar
+mIRC New Releases 25th & 26th October 05\Wright, Elizabeth - Exposed.rar
 mIRC New Releases 27th & 28th October 05
 mIRC New Releases 27th & 28th October 05\A E Van Vogt - The Weapon Shops of Isher v3 rtf.rar
 mIRC New Releases 27th & 28th October 05\Alfred Bester - Fondly Farenheit v3.5 EDG htm.rar
@@ -8472,7 +8472,7 @@ mIRC New Releases 27th & 28th October 05\Edgar Rice Burroughs - [Pellucidar 06] 
 mIRC New Releases 27th & 28th October 05\Edgar Rice Burroughs - [Pellucidar 07] - Savage Pellucidar (v1.0) [txt].rar
 mIRC New Releases 27th & 28th October 05\Feist Raymond E. - [Darkwar 1] - Flight of the Nighthawks (v2.0) (doc).rar
 mIRC New Releases 27th & 28th October 05\Fitzgerald, F Scott - The Complete Pat Hobby Stories (txt pg).rar
-mIRC New Releases 27th & 28th October 05\Foster,_Alan_Dean_-_Flinx_05-FlinxInFlux_-_(FB).rar
+mIRC New Releases 27th & 28th October 05\Foster,_Alan_Dean - Flinx_05 - Flinx In Flux.rar
 mIRC New Releases 27th & 28th October 05\George Alec Effinger - All the Last Wars at Once (v1.0) [html].rar
 mIRC New Releases 27th & 28th October 05\Grey, Sable - Christy's Ghost [pdf].rar
 mIRC New Releases 27th & 28th October 05\Hamilton, Baxter, McAuley & McDonald - [Futures] - Four Novellas (v0.8) [txt].rar
@@ -8480,7 +8480,7 @@ mIRC New Releases 27th & 28th October 05\Hamilton, Peter F. - [Futures-Four Nove
 mIRC New Releases 27th & 28th October 05\Hamilton, Peter F. - [Futures-Four Novellas] - Watching Trees Grow (v1.0) [rtf].rar
 mIRC New Releases 27th & 28th October 05\Harlan Ellison - All the Sounds of Fear (html).rar
 mIRC New Releases 27th & 28th October 05\Hill, Joey W. - Holding The Cards (EC) (lit-complete).rar
-mIRC New Releases 27th & 28th October 05\J._V._Jones_-_[The_Book_Of_Words_03]_-_Master_And_Fool_(v1)_[txt].rar
+mIRC New Releases 27th & 28th October 05\J._V._Jones - [The_Book_Of_Words_03] - Master_And_Fool_(v1)_[txt].rar
 mIRC New Releases 27th & 28th October 05\Jacobs, Ann - Black Gold 4 - Dallas Heat (pdf).rar
 mIRC New Releases 27th & 28th October 05\John Ringo - Princess of Wands ARC (v1.0) [htm, jpg].rar
 mIRC New Releases 27th & 28th October 05\John Ringo - The Paladin of Shadows 1 - Ghost (BAEN) (v5.0) [htm, jpg].rar
@@ -8502,7 +8502,7 @@ mIRC New Releases 27th & 28th October 05\Madeleine Brent - Tregaron's daughter (
 mIRC New Releases 27th & 28th October 05\Mary Higgins Clark - All Through The Night[htm].rar
 mIRC New Releases 27th & 28th October 05\Mayhar, Ardath - Hunters of the Plains (v1.0) (html).rar
 mIRC New Releases 27th & 28th October 05\McCaffrey, Anne - Dinosaur Planet 3 - Sassinak (with Moon, Elizabeth) (v2-1)(rtf).rar
-mIRC New Releases 27th & 28th October 05\McDevitt,_Jack_-_Cruising_Through_Deuteronomy_(txt).zip
+mIRC New Releases 27th & 28th October 05\McDevitt,_Jack - Cruising_Through_Deuteronomy_(txt).zip
 mIRC New Releases 27th & 28th October 05\Michael Bishop - Bears Discover Smut (html).rar
 mIRC New Releases 27th & 28th October 05\Michael Z. Williamson - Freehold 2 - The Weapon (BAEN) [htm, jpg].rar
 mIRC New Releases 27th & 28th October 05\Peter S Beagle - The Folk of the Air EDG v1.1 htm.rar
@@ -8538,7 +8538,7 @@ mIRC New Releases 29th, 30th & 31st October 05\Asimov, Isaac - [F&FS 07 1985] - 
 mIRC New Releases 29th, 30th & 31st October 05\Bacigalupi, Paolo - [F&FS 02-2004] - The People of Sand and Slag (v1.0) [html].rar
 mIRC New Releases 29th, 30th & 31st October 05\Bester, Alfred, The Men Who Murdered Mohammed (v1.0) (html).rar
 mIRC New Releases 29th, 30th & 31st October 05\Blayne Edwards - [Sanguine 1] - Damnation (pdf).rar
-mIRC New Releases 29th, 30th & 31st October 05\Bloch, Robert -- Broomstick Ride (v1.0) (html).rar
+mIRC New Releases 29th, 30th & 31st October 05\Bloch, Robert  -  Broomstick Ride (v1.0) (html).rar
 mIRC New Releases 29th, 30th & 31st October 05\Bridger, Denyse M - Bound (pdf).rar
 mIRC New Releases 29th, 30th & 31st October 05\Bridger, Denyse M - The Hunt (pdf).rar
 mIRC New Releases 29th, 30th & 31st October 05\Brockway, Connie - Promise Me Heaven (v1.0) (html).rar
@@ -8562,14 +8562,14 @@ mIRC New Releases 29th, 30th & 31st October 05\Elizabeth Elliott - [Montague 1] 
 mIRC New Releases 29th, 30th & 31st October 05\Elizabeth Elliott - [Montague 2] - Betrothed (v1.0) (html).rar
 mIRC New Releases 29th, 30th & 31st October 05\Elizabeth Elliott - [Montague 3] - Scoundrel (v1.0) (html).rar
 mIRC New Releases 29th, 30th & 31st October 05\Eric Flint & David Drake - Belisarius 6 - Dance of Time (ARC) [htm, jpg].rar
-mIRC New Releases 29th, 30th & 31st October 05\Follett,_Ken_-_Paper_Money_[txt].zip
+mIRC New Releases 29th, 30th & 31st October 05\Follett,_Ken - Paper_Money_[txt].zip
 mIRC New Releases 29th, 30th & 31st October 05\Grace Draven - [Bewitched Anthology] - Draconus (pdf).rar
 mIRC New Releases 29th, 30th & 31st October 05\Hart, Megan - Dream Upon Waking (lit).rar
 mIRC New Releases 29th, 30th & 31st October 05\Hart, Megan - Lonesome Bride (lit).rar
 mIRC New Releases 29th, 30th & 31st October 05\Hart, Megan - Passion Model (lit).rar
 mIRC New Releases 29th, 30th & 31st October 05\Hawke, Morgan - Illicit Magick (pdf) (Extasy).rar
 mIRC New Releases 29th, 30th & 31st October 05\Hawke, Morgan - Temple Of Lillith (pdf) (Extasy).rar
-mIRC New Releases 29th, 30th & 31st October 05\Heinlein, Robert A - To Sail Beyond the Sunset - (V 2.0) [html].rar
+mIRC New Releases 29th, 30th & 31st October 05\Heinlein, Robert A - To Sail Beyond the Sunset.rar
 mIRC New Releases 29th, 30th & 31st October 05\Isabella Jordan - Sister Moon (pdf).rar
 mIRC New Releases 29th, 30th & 31st October 05\Jackie Rose - I'm a Viking and I Protest (pdf).rar
 mIRC New Releases 29th, 30th & 31st October 05\Jackie Rose - I'm Undead and I Vote (pdf).rar
@@ -8610,7 +8610,7 @@ mIRC New Releases 29th, 30th & 31st October 05\Walsh, Jill Paton, Sayers, Doroth
 mIRC New Releases 29th, 30th & 31st October 05\Willis, Connie - Spice Pogrom(v1.0)[htm].rar
 mIRC New Releases 29th, 30th & 31st October 05\Willis, Connie - The Last of the Winnebagos (v1.0)[htm].rar
 mIRC New Releases 29th, 30th & 31st October 05\Willis, Connie - Time Out (v1.0)[htm].rar
-mIRC New Releases 1st to 23rd November 2005\10-Story Detective.4309.Satan Turns the Timetables.David M Norman (pdf).rar
+mIRC New Releases 1st to 23rd November 2005\Satan Turns the Timetables by David M Norman (pdf).rar
 mIRC New Releases 1st to 23rd November 2005\A Parody Outline Of History by David Ogden Stewart (lit,htm,jpg).rar
 mIRC New Releases 1st to 23rd November 2005\Aames, Lani - Invictus (EC) (lit).rar
 mIRC New Releases 1st to 23rd November 2005\ab Hugh, Dafydd - The Coon Rolled Down and Ruptured His Larinks, A Squeezed Novel by Mr Skunk (v1.0) [html].rar
@@ -8686,7 +8686,7 @@ mIRC New Releases 1st to 23rd November 2005\Brooks, Alyssa - Sexual feeding 1 - 
 mIRC New Releases 1st to 23rd November 2005\Brooks, Alyssa - Sexual feeding 2 - Delivering Satisfaction (pdf).rar
 mIRC New Releases 1st to 23rd November 2005\Brooks, Max - Zombie Survival Guide by Sithicus(pdf).rar
 mIRC New Releases 1st to 23rd November 2005\Brown, Rodger - The Crystal River (pdf).rar
-mIRC New Releases 1st to 23rd November 2005\Bruce Sterling - Hacker Crackdown - HTML.rar
+mIRC New Releases 1st to 23rd November 2005\Bruce Sterling - Hacker Crackdown.rar
 mIRC New Releases 1st to 23rd November 2005\Bruce, Mary Grant - Mates at Billabong(v1.1)[htm].rar
 mIRC New Releases 1st to 23rd November 2005\Brunner, John - Endless Shadow (v1.0)]htm].rar
 mIRC New Releases 1st to 23rd November 2005\Buchanan, Edna - Cold Case Squad (v1.0) (html).rar
@@ -8702,7 +8702,7 @@ mIRC New Releases 1st to 23rd November 2005\C.S Lewis - Chronicles Of Narnia [8 
 mIRC New Releases 1st to 23rd November 2005\Cach, Lisa - Have Glass Slippers, Will Travel (v1.0) (html).rar
 mIRC New Releases 1st to 23rd November 2005\Cach, Lisa - Puddings, pastries and thou(doc).rar
 mIRC New Releases 1st to 23rd November 2005\Calvin, Suzanne Marie - Bewitching the Bachelor [lit].rar
-mIRC New Releases 1st to 23rd November 2005\Cameron, Julia -The Sound of Paper-2004-3S(v2,html).rar
+mIRC New Releases 1st to 23rd November 2005\Cameron, Julia - The Sound of Paper.rar
 mIRC New Releases 1st to 23rd November 2005\Cameron, Stella - A Grave Mistake (v1.0) (html).rar
 mIRC New Releases 1st to 23rd November 2005\Camille Anthony - [Werewolf Journals 2] -Trolling for Love (LooseID) (pdf).rar
 mIRC New Releases 1st to 23rd November 2005\Camille Anthony - [Werewulf Journals 1] - Wild In The City (LooseID) [pdf].rar
@@ -8768,7 +8768,7 @@ mIRC New Releases 1st to 23rd November 2005\De Camp, L. Sprague - A Gun for Dino
 mIRC New Releases 1st to 23rd November 2005\Debra Webb - Man Of Her Dreams [lit].rar
 mIRC New Releases 1st to 23rd November 2005\Denison, Janelle - Heat Waves (Blaze #12) (lit).rar
 mIRC New Releases 1st to 23rd November 2005\Denison, Janelle - The Wilde Side (lit).rar
-mIRC New Releases 1st to 23rd November 2005\Dexter, Colin -[Morse 13] - The Remorseful Day(txt).rar
+mIRC New Releases 1st to 23rd November 2005\Dexter, Colin  - The Remorseful Day(txt).rar
 mIRC New Releases 1st to 23rd November 2005\Diane Barsoum Raymond - Existentialism and the Philosophical Tradition - Textbook - 1991 (txt).rar
 mIRC New Releases 1st to 23rd November 2005\Dier, Debra - Devil's Honor (V1.0) [txt].rar
 mIRC New Releases 1st to 23rd November 2005\Dier, Debra - The Sorcerer's Lady (V1.0) [txt].rar
@@ -8778,7 +8778,7 @@ mIRC New Releases 1st to 23rd November 2005\Dixon, Paris - Lechery for the Devil
 mIRC New Releases 1st to 23rd November 2005\Dixon, Paris - Morning Ritual (pdf).rar
 mIRC New Releases 1st to 23rd November 2005\Dixon, Paris - The Essence of Magic (pdf).rar
 mIRC New Releases 1st to 23rd November 2005\Dominic & Welsh - The Agassi Story[pdf].rar
-mIRC New Releases 1st to 23rd November 2005\Doolittle, Jerome -The Dead Zoo (v1.1)[htm].rar
+mIRC New Releases 1st to 23rd November 2005\Doolittle, Jerome - The Dead Zoo (v1.1)[htm].rar
 mIRC New Releases 1st to 23rd November 2005\Dr. Seuss - Hop On Pop[pdf].rar
 mIRC New Releases 1st to 23rd November 2005\Du Fouet, Annabelle - Weather Balloons Make Rotten Sex Toys(v1.0)[htm].rar
 mIRC New Releases 1st to 23rd November 2005\Dunbar, Sophie - Behind Eclaires Door (v1.0) (html).rar
@@ -8800,8 +8800,8 @@ mIRC New Releases 1st to 23rd November 2005\Ella Scopilo - He Came from Venus (C
 mIRC New Releases 1st to 23rd November 2005\Elliott O'Donnell - Death Warnings and Family Ghosts (pdf).rar
 mIRC New Releases 1st to 23rd November 2005\Emma Ray Garrett - [Heaven & Hell 01] - Gabriel's Match [pdf].rar
 mIRC New Releases 1st to 23rd November 2005\Emma Scopilo - Of Elves and Vampires - Trinity's Mark (ChippervaPublishing) (pdf).rar
-mIRC New Releases 1st to 23rd November 2005\Eric Nylund-Halo-First Strike(pdf).rar
-mIRC New Releases 1st to 23rd November 2005\Eric Nylund-Halo-The Fall of Reach(pdf).rar
+mIRC New Releases 1st to 23rd November 2005\Eric Nylund - Halo-First Strike(pdf).rar
+mIRC New Releases 1st to 23rd November 2005\Eric Nylund - Halo-The Fall of Reach(pdf).rar
 mIRC New Releases 1st to 23rd November 2005\Erotique, Desiree - Bonds Of Passion (pdf) (Extasy).rar
 mIRC New Releases 1st to 23rd November 2005\Erotique, Desiree - Courting of Elizabeth (Sik Vault) [pdf].rar
 mIRC New Releases 1st to 23rd November 2005\Erotique, Desiree - Disciples Of Pleasure (pdf) (Extasy).rar
@@ -8854,9 +8854,9 @@ mIRC New Releases 1st to 23rd November 2005\Grayson, Kristine - [Fates 02] - Tho
 mIRC New Releases 1st to 23rd November 2005\Grayson, Kristine - [Fates 03] - Completely Smitten (V1.0) [txt].rar
 mIRC New Releases 1st to 23rd November 2005\Grayson, Kristine - [Fates 04] - Simply Irresistible (V1.0) [txt].rar
 mIRC New Releases 1st to 23rd November 2005\Grayson, Kristine - [Fates 05] - Absolutely Captivated (v1.0) [txt].rar
-mIRC New Releases 1st to 23rd November 2005\Gregory_Maguire_-_Confessions_Of_An_Ugly_Stepsister_(Uc)_..rar
-mIRC New Releases 1st to 23rd November 2005\Gregory_Maguire_-_Lost_(Txt).rar
-mIRC New Releases 1st to 23rd November 2005\Gregory_Maguire_-_Wicked.rar
+mIRC New Releases 1st to 23rd November 2005\Gregory_Maguire - Confessions_Of_An_Ugly_Stepsister_(Uc)_..rar
+mIRC New Releases 1st to 23rd November 2005\Gregory_Maguire - Lost_(Txt).rar
+mIRC New Releases 1st to 23rd November 2005\Gregory_Maguire - Wicked.rar
 mIRC New Releases 1st to 23rd November 2005\Grey, Kimberly - [Hunter Series Bk 3] - Love's Bounty(v1.1)[htm].rar
 mIRC New Releases 1st to 23rd November 2005\Grinnell, David & Carter, Lin - Destination Saturn (v1.0) (html).rar
 mIRC New Releases 1st to 23rd November 2005\H. P. Blavatsky - Studies in Occultism; A Series of Reprints from the Writings of H. P. Blavatsky (txt).rar
@@ -8995,9 +8995,9 @@ mIRC New Releases 1st to 23rd November 2005\Lewis, C S - [Narnia 06] - The Silve
 mIRC New Releases 1st to 23rd November 2005\Lewis, C S - [Narnia 07] - The Last Battle (v2) [htm].rar
 mIRC New Releases 1st to 23rd November 2005\Lewis, C. S. - The Chronicles of Narnia.rar
 mIRC New Releases 1st to 23rd November 2005\Lewis, C.S. - The Abolition Of Man.pdf
-mIRC New Releases 1st to 23rd November 2005\LEWIS,_C._S._-_The_Narnia_Chronicles_Complete.lit
+mIRC New Releases 1st to 23rd November 2005\LEWIS,_C._S. - The_Narnia_Chronicles_Complete.lit
 mIRC New Releases 1st to 23rd November 2005\Leyner, Mark - Why Do Men Have Nipples (v1.0) [rtf].rar
-mIRC New Releases 1st to 23rd November 2005\Leyner,_Mark_-_My_Cousin,_My_Gastroenterologist.rar
+mIRC New Releases 1st to 23rd November 2005\Leyner,_Mark - My_Cousin,_My_Gastroenterologist.rar
 mIRC New Releases 1st to 23rd November 2005\Life is Elsewhere - Milan Kundera - TXT.rar
 mIRC New Releases 1st to 23rd November 2005\Lin Carter - Tower of the Medusa (v1.0) [html, jpg].rar
 mIRC New Releases 1st to 23rd November 2005\Liz Carlyle - One Little Sin (html).rar
@@ -9005,7 +9005,7 @@ mIRC New Releases 1st to 23rd November 2005\Liz Carlyle - One Little Sin (lit).r
 mIRC New Releases 1st to 23rd November 2005\Lorne, David - Sight Unseen [txt, rtf].rar
 mIRC New Releases 1st to 23rd November 2005\Love, Kathy - [Stepp Sisters 01] - Getting What You Want (V1.0) [htm].rar
 mIRC New Releases 1st to 23rd November 2005\Lynn Crain - [Captive Illusions 01] - Iain And Kelsey [lit].rar
-mIRC New Releases 1st to 23rd November 2005\Lynsay Sands-Perfect Wife(v1.0)(html).rar
+mIRC New Releases 1st to 23rd November 2005\Lynsay Sands - Perfect Wife(v1.0)(html).rar
 mIRC New Releases 1st to 23rd November 2005\Macgregor, Rob - Crystal Skull(htm).rar
 mIRC New Releases 1st to 23rd November 2005\Madison Cawein - Gray November (pdf).rar
 mIRC New Releases 1st to 23rd November 2005\Madison Cawein - Hallowmas (pdf).rar
@@ -9150,7 +9150,7 @@ mIRC New Releases 1st to 23rd November 2005\Resnick, Mike - Classifieds (v1.0) [
 mIRC New Releases 1st to 23rd November 2005\Resnick, Mike - Inquiry into the Auction of the United States of America (v1.0) [html].rar
 mIRC New Releases 1st to 23rd November 2005\Resnick, Mike - The Fallen Angel (v1.0) [html].rar
 mIRC New Releases 1st to 23rd November 2005\Resnick, Mike - Travel with My Cats[pdb,txt].rar
-mIRC New Releases 1st to 23rd November 2005\Rice, Anne-Christ the Lord-html.rar
+mIRC New Releases 1st to 23rd November 2005\Rice, Anne - Christ the Lord.rar
 mIRC New Releases 1st to 23rd November 2005\Ringo, John - The Council Wars 01 - There Will Be Dragons (BAEN) (v5.0 (html merged).rar
 mIRC New Releases 1st to 23rd November 2005\Ringo, John - The Council Wars 02 - Emerald Sea (BAEN) (v5.0 (html merged).rar
 mIRC New Releases 1st to 23rd November 2005\Ringo, John - The Council Wars 03 - Against the Tide (BAEN) (v5.0 (html merged).rar
@@ -9164,8 +9164,8 @@ mIRC New Releases 1st to 23rd November 2005\Rolofson, Kristine - Billy and the K
 mIRC New Releases 1st to 23rd November 2005\Rolofson, Kristine - Blame it on Babies (lit).rar
 mIRC New Releases 1st to 23rd November 2005\Ron Querry - Bad Medicine [txt].rar
 mIRC New Releases 1st to 23rd November 2005\Ross, Aubrey - AOEM; Dichotomy (Changeling Press) (lit).rar
-mIRC New Releases 1st to 23rd November 2005\Roswell 16 - Dreamwalk by Paul Ruditis (UC) [htm, jpg].rar
-mIRC New Releases 1st to 23rd November 2005\ruditis, paul (roswell)-dreamwalk [html].rar
+mIRC New Releases 1st to 23rd November 2005\Dreamwalk by Paul Ruditis (UC) [htm, jpg].rar
+mIRC New Releases 1st to 23rd November 2005\ruditis, paul - dreamwalk [html].rar
 mIRC New Releases 1st to 23rd November 2005\Rushdie, Salman - Fury.doc.rar
 mIRC New Releases 1st to 23rd November 2005\Rushdie, Salman - Fury.rtf.rar
 mIRC New Releases 1st to 23rd November 2005\Saberhagen, Fred - Berserker Throne [BAEN][html].rar
@@ -9264,7 +9264,7 @@ mIRC New Releases 1st to 23rd November 2005\Timothy Zahn - Dragonback 2 - Dragon
 mIRC New Releases 1st to 23rd November 2005\Timothy Zahn - Dragonback 3 - Dragon and Slave (v3.1) [html, jpg].rar
 mIRC New Releases 1st to 23rd November 2005\Trista Ann Michaels - Fantasy Bar (EC) (pdf).rar
 mIRC New Releases 1st to 23rd November 2005\van de Wetering, Janwillem - Grijpstra-De Gier 06 - The Blond Baboon 3S(v1,html).rar
-mIRC New Releases 1st to 23rd November 2005\van de Wetering, Janwillem -(nonfic)- The Empty Mirror-experiences in a Japanese Zen Monastery(htm).rar
+mIRC New Releases 1st to 23rd November 2005\van de Wetering, Janwillem - The Empty Mirror experiences in a Japanese Zen Monastery(htm).rar
 mIRC New Releases 1st to 23rd November 2005\Vanak, Bonnie - The Tiger & The Tomb (v1.0) [htm].rar
 mIRC New Releases 1st to 23rd November 2005\Vance, Jack - Son of the Tree (v1.0) (html).rar
 mIRC New Releases 1st to 23rd November 2005\Victoria Alexander - A Visit from Sir Nicholas (v1.0) (html).rar
@@ -9298,7 +9298,7 @@ mIRC New Releases 1st to 23rd November 2005\Winston, Samantha - A Grand Passion 
 mIRC New Releases 1st to 23rd November 2005\Winston, Samantha - Darla's Valentine (EC) (pdf).rar
 mIRC New Releases 1st to 23rd November 2005\Winston, Samantha - Taming The King (EC) (lit).rar
 mIRC New Releases 1st to 23rd November 2005\Woody Guthrie - Bound For Glory v1 [proofed][rtf+txt].rar
-mIRC New Releases 1st to 23rd November 2005\Worlds Of Star Trek Deep Space 9-BookTwo(lit).rar
+mIRC New Releases 1st to 23rd November 2005\Star Trek - Worlds Of Star Trek Deep Space 9-BookTwo.rar
 mIRC New Releases 1st to 23rd November 2005\Wurts, Janny - [Alliance of Light 03] - Peril's Gate[html](v0.9].rar
 mIRC New Releases 1st to 23rd November 2005\Yourgrau, Barry - Underpants(v1.1)[htm].rar
 mIRC New Releases 1st to 23rd November 2005\Ziauddin Sardar & Iwona Abrams - Introducing Chaos - 1998 - PDF.rar
@@ -9319,8 +9319,8 @@ mIRC New Releases 24th November 05\Gordon R. Dickson - Dragon Knight 03 - The Dr
 mIRC New Releases 24th November 05\Gordon R. Dickson - Dragon Knight 04 - The Dragon At War (v1.0) [html, jpg].rar
 mIRC New Releases 24th November 05\Grimwood, Jon Courtenay - [Arabesk 01] - Pashazade (1.0) [rtf].rar
 mIRC New Releases 24th November 05\Grimwood, Jon Courtenay - [Arabesk 02] - Effendi (v1.0) [html].rar
-mIRC New Releases 24th November 05\Hoffman, Alice -The Ice Queen (v1.0) [html].rar
-mIRC New Releases 24th November 05\Hoffman, Alice -The Ice Queen (v1.0) [rtf].rar
+mIRC New Releases 24th November 05\Hoffman, Alice - The Ice Queen (v1.0) [html].rar
+mIRC New Releases 24th November 05\Hoffman, Alice - The Ice Queen (v1.0) [rtf].rar
 mIRC New Releases 24th November 05\Maxwell, Cathy - The Price of Indiscretion (V1.0) [htm].rar
 mIRC New Releases 24th November 05\Patterson, James - Midnight Club v1 [proofed][rtf+txt].rar
 mIRC New Releases 24th November 05\Silverberg, Robert - On the Road to Jorslem (v1.0) [rtf].rar
@@ -9328,7 +9328,7 @@ mIRC New Releases 24th November 05\Weber, David - In Fury Born (.html.rtf, advan
 mIRC New Releases 25th & 26th Nov 05
 mIRC New Releases 25th & 26th Nov 05\Allan, Sydney Laine - About Monday (v1.0) [html].rar
 mIRC New Releases 25th & 26th Nov 05\Allen, Roger MacBride - [Hunted Earth 01] - The Ring of Charon (v1.1) [htm].rar
-mIRC New Releases 25th & 26th Nov 05\Allen, Roger MacBride - [Hunted Earth 02] - The Shattered Sphere - V1.1 - HTM.rar
+mIRC New Releases 25th & 26th Nov 05\Allen, Roger MacBride - [Hunted Earth 02] - The Shattered Sphere.rar
 mIRC New Releases 25th & 26th Nov 05\Allred, Katherine - Sweet Revenge (v1.0) [html].rar
 mIRC New Releases 25th & 26th Nov 05\Andrews, Liz & Matthews, Lena - Logan's Temptation (v1.0) [html].rar
 mIRC New Releases 25th & 26th Nov 05\Baantjer, A C - DeKok and the Hammer Blow (rtf).rar
@@ -9443,8 +9443,8 @@ mIRC New Releases 25th & 26th Nov 05\Wilhelm, Kate - O Homo; O Femina; O Tempora
 mIRC New Releases 25th & 26th Nov 05\zelazny, roger - wizard world 01 - changeling (v1.0)[txt].rar
 mIRC New Releases 25th & 26th Nov 05\zelazny, roger - wizard world 02 - madwand(v1.0)[txt].rar
 mIRC New Releases 27th & 28th November 05
-mIRC New Releases 27th & 28th November 05\2000 AD - Judge Dredd 4 - Eclipse by James Swallow (v1 html).rar
-mIRC New Releases 27th & 28th November 05\All-Story.1403.Curious Cubes.T Bell (pdf).rar
+mIRC New Releases 27th & 28th November 05\Eclipse by James Swallow (v1 html).rar
+mIRC New Releases 27th & 28th November 05\Curious Cubes by T Bell (pdf).rar
 mIRC New Releases 27th & 28th November 05\Ann Bruce - Fall Dead (v1.0) [html].rar
 mIRC New Releases 27th & 28th November 05\Anya Bast - [EC] - A Change Of Season (v1.0) [html].rar
 mIRC New Releases 27th & 28th November 05\Arline Chase - Sweet Invocation (html).rar
@@ -9498,7 +9498,7 @@ mIRC New Releases 27th & 28th November 05\Jans, Honey - The Commander's Club (Wh
 mIRC New Releases 27th & 28th November 05\Jungle Stories - 52-Spr - Ki-Gor - Night of the Wasuli Death by John Peter Drummond (pdf).rar
 mIRC New Releases 27th & 28th November 05\Kallos, Stephanie - Broken For You (v1.0) [rtf].rar
 mIRC New Releases 27th & 28th November 05\Kevin J. Anderson - Saga of Seven Suns 4 - Scattered Suns (v2.0) [html, jpg, txt].rar
-mIRC New Releases 27th & 28th November 05\Kotzwinkle, William - The Amphora Project - v1.1 htm.rar
+mIRC New Releases 27th & 28th November 05\Kotzwinkle, William - The Amphora Project.rar
 mIRC New Releases 27th & 28th November 05\Lafcadio Hearn - Readings From a Dream-book (pdf).rar
 mIRC New Releases 27th & 28th November 05\Landahl, John - Intranets-The Hidden Face of the Web (v1.0) [html].rar
 mIRC New Releases 27th & 28th November 05\Lesh, Phil - Searching For The Sound [rtf+txt+jpgs].rar
@@ -9527,8 +9527,8 @@ mIRC New Releases 27th & 28th November 05\Rafael Sabatini - The Fortunes of Lal 
 mIRC New Releases 27th & 28th November 05\Rafael Sabatini - The Fortunes of Lal Faversham (lit).rar
 mIRC New Releases 27th & 28th November 05\Rafael Sabatini - The Lion's Skin (html).rar
 mIRC New Releases 27th & 28th November 05\Rafael Sabatini - The Lion's Skin (lit).rar
-mIRC New Releases 27th & 28th November 05\Rafael Sabatini- The Outlaws of Falkensteig (html).rar
-mIRC New Releases 27th & 28th November 05\Rafael Sabatini- The Outlaws of Falkensteig (lit).rar
+mIRC New Releases 27th & 28th November 05\Rafael Sabatini - The Outlaws of Falkensteig (html).rar
+mIRC New Releases 27th & 28th November 05\Rafael Sabatini - The Outlaws of Falkensteig (lit).rar
 mIRC New Releases 27th & 28th November 05\Real Western.52.12.Fountain of Youth - Lon Williams (pdf).rar
 mIRC New Releases 27th & 28th November 05\Reed, Robert - The Hormone Jungle v.1 [sci-fi] [rtf+txt].rar
 mIRC New Releases 27th & 28th November 05\Rita Mae Brown - [Mrs Murphy 03] - Murder at Monticello (v1.0) [html].rar
@@ -9605,7 +9605,7 @@ mIRC New Releases 29th & 30th November 05\Michael Connelly - Void Moon (v1.0) [r
 mIRC New Releases 29th & 30th November 05\N. J. Walters - [EC] - Christinas Tapestry (v1.0) [html].rar
 mIRC New Releases 29th & 30th November 05\Peter Telep - Wing Commander 07 - Pilgrim Stars (html)v1.0.rar
 mIRC New Releases 29th & 30th November 05\Robbins, David L - Blade 05 - Pirate Strike (v1.0) (html).rar
-mIRC New Releases 29th & 30th November 05\Robert_J_Sawyer_-_Neanderthal_Parallax_01_--_Hominids_(doc,_jpg).rar
+mIRC New Releases 29th & 30th November 05\Robert_J_Sawyer - Neanderthal_Parallax_01_ - _Hominids_(doc,_jpg).rar
 mIRC New Releases 29th & 30th November 05\Robinson, Spider and Jeanne - Stardance (novella)(v1.0)[htm].rar
 mIRC New Releases 29th & 30th November 05\Robyn Tallis - Planet Builders 01 - Mountain of Stolen Dreams (V1.1) [html].rar
 mIRC New Releases 29th & 30th November 05\Robyn Tallis - Planet Builders 02 - Night of Ghosts and Lightning (v1.0) [html].rar
@@ -9625,8 +9625,8 @@ mIRC New Releases 01st & 02nd December 05\Berg, Carol - [The Bridge of D'Arnath 
 mIRC New Releases 01st & 02nd December 05\Bloch, Robert - The Plot Is The Thing (v1.0) (html).rar
 mIRC New Releases 01st & 02nd December 05\Bloch, Robert - The World-Timer (v1.0) (html).rar
 mIRC New Releases 01st & 02nd December 05\Bloch, Robert - Word of Honor (v1.1) (html).rar
-mIRC New Releases 01st & 02nd December 05\Bloch, Robert -- Word of Honor (Playboy 1958-08) (v1.0) (html).rar
-mIRC New Releases 01st & 02nd December 05\Bloch, Robert -- Word of Honor (Playboy 1958-08) (v1.0) (rtf).rar
+mIRC New Releases 01st & 02nd December 05\Bloch, Robert  -  Word of Honor (Playboy 1958-08) (v1.0) (html).rar
+mIRC New Releases 01st & 02nd December 05\Bloch, Robert  -  Word of Honor (Playboy 1958-08) (v1.0) (rtf).rar
 mIRC New Releases 01st & 02nd December 05\Bone, J. F. - Triggerman (v1.0) [html].rar
 mIRC New Releases 01st & 02nd December 05\Butler, Rachel - [Selena McCaffrey 2] - Deep Cover (v1.0) (html).rar
 mIRC New Releases 01st & 02nd December 05\Cady, Jack - The Night We Buried Road Dog (v1.0) [html].rar
@@ -9707,7 +9707,7 @@ mIRC New Releases 03rd & 04th December 05\MacAlister, Katie - The Corset Diaries
 mIRC New Releases 03rd & 04th December 05\Marshall, Darlene - Smugglers Bride (v1.0) [html].rar
 mIRC New Releases 03rd & 04th December 05\Martin, Kat - [Necklace 02] - The Devil's Necklace (V1.0) [htm].rar
 mIRC New Releases 03rd & 04th December 05\Martin, Kat - [Necklace 02] - The Devil's Necklace (V1.0) [lit].rar
-mIRC New Releases 03rd & 04th December 05\Mesta,Gabriel,- The Martian War (v1,rtf,jpg).rar
+mIRC New Releases 03rd & 04th December 05\Mesta,Gabriel - The Martian War (v1,rtf,jpg).rar
 mIRC New Releases 03rd & 04th December 05\Michaels, Monette - Death Benefits (v1.0) [html].rar
 mIRC New Releases 03rd & 04th December 05\Morris, Dick - The New Prince v1 [rtf+txt].rar
 mIRC New Releases 03rd & 04th December 05\Niven, David - The 100 Simple Secrets of Great Relationships (v1.0) [html].rar
@@ -9811,8 +9811,8 @@ mIRC New Releases 07th & 08th December 05\Vercors - Sylva 3S(v1,html).rar
 mIRC New Releases 07th & 08th December 05\W.R. Morris - The Twelfth Of August [txt].rar
 mIRC New Releases 07th & 08th December 05\William Macleod Raine - Man Size [txt].rar
 mIRC New Releases 09th & 10th December 05
-mIRC New Releases 09th & 10th December 05\Adams,_Elisa_-_[EC]_-_Just_Another_Night_(v1.0)_[rtf].zip
-mIRC New Releases 09th & 10th December 05\Adams,_Richard_-_Maia_(v1.0)_[rtf].rar
+mIRC New Releases 09th & 10th December 05\Adams,_Elisa - [EC] - Just_Another_Night_(v1.0)_[rtf].zip
+mIRC New Releases 09th & 10th December 05\Adams,_Richard - Maia_(v1.0)_[rtf].rar
 mIRC New Releases 09th & 10th December 05\Anderson, Kevin J. - Saga of Seven Suns 01 - Hidden Empire [v2.5-RTF].rar
 mIRC New Releases 09th & 10th December 05\Beaton, MC - AR 13 - Agatha Raisin and the Case of the Curious Curate 3S(v1,html).rar
 mIRC New Releases 09th & 10th December 05\Carlton, Charles - Royal Mistresses [txt].rar
@@ -9908,7 +9908,7 @@ mIRC New Releases 13th & 14th December 05\Jeffrey Lord - Blade 27 - Master of th
 mIRC New Releases 13th & 14th December 05\Jeffrey Lord - Blade 30 - Dimension of Horror (v1.1) [html].rar
 mIRC New Releases 13th & 14th December 05\Kelly, James Patrick - On the Net (v1.0) [html].rar
 mIRC New Releases 13th & 14th December 05\Kilby, Damian - Earthtime (v1.0) [html].rar
-mIRC New Releases 13th & 14th December 05\Kim_Stanley_Robinson_-_The_Years_Of_Rice_And_Salt.rar
+mIRC New Releases 13th & 14th December 05\Kim_Stanley_Robinson - The_Years_Of_Rice_And_Salt.rar
 mIRC New Releases 13th & 14th December 05\Kress, Nancy [ed] - Nebula Awards Showcase 2003 (htm,F).rar
 mIRC New Releases 13th & 14th December 05\Littleton, Therese - Thought Experiments (v1.0) [html].rar
 mIRC New Releases 13th & 14th December 05\Maxey, James - To The East, A Bright Star (v1.0) [html].rar
@@ -9933,7 +9933,7 @@ mIRC New Releases 15th & 16th December 05\Beth Williamson - [Spurs and Mistletoe
 mIRC New Releases 15th & 16th December 05\Bradley, Gabriella - Stardust, Starlust (Extasybooks) (lit).rar
 mIRC New Releases 15th & 16th December 05\Bradley, Gabriella - The Heiress (Extasybooks) (pdf).rar
 mIRC New Releases 15th & 16th December 05\Bradley, Gabrielle - The Super (pdf) (Extasybooks).rar
-mIRC New Releases 15th & 16th December 05\Brunner, John- The Day Of the Star Cities(v1.0)[htm].rar
+mIRC New Releases 15th & 16th December 05\Brunner, John - The Day Of the Star Cities(v1.0)[htm].rar
 mIRC New Releases 15th & 16th December 05\Casper, Maggie - [White Hot Holidays] - Christmas Cash (pdf) (EC).rar
 mIRC New Releases 15th & 16th December 05\Christie Golden - [Final Dance 02] - 2005 - In Stone's Clasp [txt].rar
 mIRC New Releases 15th & 16th December 05\Christine Feehan - [Ghost Walkers 3] - Night Game (v1.5) (html).rar
@@ -9945,7 +9945,7 @@ mIRC New Releases 15th & 16th December 05\Feehan, Christine - [GhostWalkers 03] 
 mIRC New Releases 15th & 16th December 05\Forgotten Realms - Pools 01 - James M. Ward & Jane Cooper Hong - Pool of Radiance v1.1 (rtf, covers).rar
 mIRC New Releases 15th & 16th December 05\Forgotten Realms - Pools 02 - James M. Ward & Anne K. Brown - Pools of Darkness v1.1 (rtf, covers).rar
 mIRC New Releases 15th & 16th December 05\Forgotten Realms - Pools 03 - James M. Ward & Anne K. Brown - Pool of Twilight v1.1 (rtf, covers).rar
-mIRC New Releases 15th & 16th December 05\Forgotten Realms - Pools 04 - Carrie Bebris - Pool of Radiance--Ruins of Myth Drannor v1.1 (rtf, covers).rar
+mIRC New Releases 15th & 16th December 05\Forgotten Realms - Pools 04 - Carrie Bebris - Pool of Radiance - Ruins of Myth Drannor v1.1 (rtf, covers).rar
 mIRC New Releases 15th & 16th December 05\HAMILTON, Peter F. - [Greg Mandel 01] - Mindstar Rising (3.1, html).rar
 mIRC New Releases 15th & 16th December 05\HAMILTON, Peter F. - [Greg Mandel 02] - A Quantum Murder (3.0, html).rar
 mIRC New Releases 15th & 16th December 05\HAMILTON, Peter F. - [Greg Mandel 03] - The Nano Flower (3.0, html).rar
@@ -10314,8 +10314,8 @@ mIRC New Releases 25th & 26th December 05\Star Wars - Rise of the Empire 17a - D
 mIRC New Releases 25th & 26th December 05\Stephen Goldin - The Last Ghost & Other Stories [rtf].rar
 mIRC New Releases 25th & 26th December 05\Steve Lazarowitz - Alaric Swifthand [html].rar
 mIRC New Releases 25th & 26th December 05\Tappan, Mel - Tappan on Survival (v1.0)(htm) by Sithicus.rar
-mIRC New Releases 25th & 26th December 05\Top-Notch.140730.Sanded in San Diego.Johnston McCulley (pdf).rar
-mIRC New Releases 25th & 26th December 05\Top-Notch.231215.Boxers Christmas Eve.J Joseph-Renaud (pdf).rar
+mIRC New Releases 25th & 26th December 05\Sanded in San Diego by Johnston McCulley (pdf).rar
+mIRC New Releases 25th & 26th December 05\Boxers Christmas Eve by J Joseph-Renaud (pdf).rar
 mIRC New Releases 27th & 28th December 05
 mIRC New Releases 27th & 28th December 05\Anderson, Chester - The Butterfly Kid (rtf).rar
 mIRC New Releases 27th & 28th December 05\Andy Mangels & Michael A. Martin - StarTrek Next GenerationTitan - Red King (html).rar
@@ -10332,7 +10332,7 @@ mIRC New Releases 27th & 28th December 05\Darwin Awards 2005 (txt).rar
 mIRC New Releases 27th & 28th December 05\Erica Orloff - The Golden Girl (html).rar
 mIRC New Releases 27th & 28th December 05\Etchemendy, Nancy - The River Temple (v1.0) [html].rar
 mIRC New Releases 27th & 28th December 05\Fannie C. Macaulay - Mr. Bamboo and the Honorable Little God (txt).rar
-mIRC New Releases 27th & 28th December 05\Flint,_Eric_&_Spoor,_Ryk_E_-_Boundary_(.html,_advance_reader_copy).rar
+mIRC New Releases 27th & 28th December 05\Flint,_Eric_&_Spoor,_Ryk_E - Boundary_(.html,_advance_reader_copy).rar
 mIRC New Releases 27th & 28th December 05\Griffin  WEB -  The Corp - 10  - Retreat  Hell!  rtf .rar
 mIRC New Releases 27th & 28th December 05\Griffin, W.E.B. - Badge of Honor 01 - Men In Blue (RTF)(v3.0).rar
 mIRC New Releases 27th & 28th December 05\Griffin, W.E.B. - Badge of Honor 02 - Special Operations (RTF)(v3.0).rar
@@ -10393,15 +10393,15 @@ mIRC New Releases 27th & 28th December 05\Shannon Drake - [Vampire 06] - Dead by
 mIRC New Releases 27th & 28th December 05\Silverthorne, Lisa - The Essence of Place (v1.0) [html].rar
 mIRC New Releases 27th & 28th December 05\Silverthorne, Lisa - The Spirit House (v1.0) [html].rar
 mIRC New Releases 27th & 28th December 05\Smeds, Dave - Foam (v1.0) [html].rar
-mIRC New Releases 27th & 28th December 05\Spencer,_Wen_-_[Tinker_2]_-_Wolf_Who_Rules_(.html.jpg,_advance_reader_copy).rar
+mIRC New Releases 27th & 28th December 05\Spencer,_Wen - [Tinker_2] - Wolf_Who_Rules_(.html.jpg,_advance_reader_copy).rar
 mIRC New Releases 27th & 28th December 05\Stabenow, Dana - [Liam Campbell 02] - So Sure of Death (v1.0) [rtf].rar
 mIRC New Releases 27th & 28th December 05\Stabenow, Dana - [Liam Campbell 03] - Nothing Gold Can Stay (v1.0) [rtf].rar
 mIRC New Releases 27th & 28th December 05\Stabenow, Dana - [Liam Campbell 04] - Better to Rest (v1.0) [rtf].rar
-mIRC New Releases 27th & 28th December 05\Steakley,_John_-_Armor_(.html.jpg_v1.0).rar
+mIRC New Releases 27th & 28th December 05\Steakley,_John - Armor_(.html.jpg_v1.0).rar
 mIRC New Releases 27th & 28th December 05\Suzanne Enoch - Don't Look Down (v1.0) (html).rar
 mIRC New Releases 27th & 28th December 05\Tim Lebbon - Fears Unnamed(htm uc).rar
-mIRC New Releases 27th & 28th December 05\Top-Notch.140730.Sanded in San Diego.Johnston McCulley (pdf).rar
-mIRC New Releases 27th & 28th December 05\Top-Notch.231215.Boxers Christmas Eve.J Joseph-Renaud (pdf).rar
+mIRC New Releases 27th & 28th December 05\Sanded in San Diego by Johnston McCulley (pdf).rar
+mIRC New Releases 27th & 28th December 05\Boxers Christmas Eve by J Joseph-Renaud (pdf).rar
 mIRC New Releases 29th, 30th and 31st December 05
 mIRC New Releases 29th, 30th and 31st December 05\A. R. Grobbo - [A Gloria Trevisi Mystery] - Rural Sprawl (html).rar
 mIRC New Releases 29th, 30th and 31st December 05\Ann Maxwell (Elizabeth Lowell, Lowell Charters, Annalise Sun) Bibliography(htm).rar
