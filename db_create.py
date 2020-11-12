@@ -36,10 +36,10 @@ CREATE TABLE Book_Lib (
 );
 ''')
 conn.commit()
-#'''SELECT Location.location, Author.name, Books.title
-#FROM Book_Lib JOIN Location JOIN Author JOIN Books
-#ON Book_Lib.location_id = Location.id AND
-#Book_Lib.author_id = Author.id AND Book_Lib.title_id =Books.id
-#ORDER BY Author.name'''
+# '''SELECT Location.location, Author.name, Books.title
+# FROM Book_Lib JOIN Location JOIN Author JOIN Books
+# ON Book_Lib.location_id = Location.id AND
+# Book_Lib.author_id = Author.id AND Book_Lib.title_id =Books.id
+# ORDER BY Author.name'''
 conn.close()
 print("All done.")
